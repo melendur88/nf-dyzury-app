@@ -5,6 +5,7 @@ from app import (
     format_report,
     has_qualifying_comment,
     month_bounds,
+    parse_qualifying_commenters,
     parse_story_character_count,
     parse_story_list,
 )
@@ -22,6 +23,16 @@ def test_comment_requires_ten_words_and_ignores_signature() -> None:
     """
     assert has_qualifying_comment(html, "oldguard", 10)
     assert not has_qualifying_comment(html, "oldguard", 11)
+
+
+def test_qualifying_commenters_returns_every_matching_author() -> None:
+    html = """
+    <section class="kom">
+      <article><p class="naglowek-kom"><a class="login">OldGuard</a></p><div class="avek-tekst"><p>jeden dwa trzy cztery piec szesc siedem osiem dziewiec dziesiec</p></div></article>
+      <article><p class="naglowek-kom"><a class="login">Ambush</a></p><div class="avek-tekst"><p>jeden dwa trzy cztery piec szesc siedem osiem dziewiec dziesiec</p></div></article>
+    </section>
+    """
+    assert parse_qualifying_commenters(html, 10) == {"oldguard", "ambush"}
 
 
 def test_story_list_skips_sticky() -> None:

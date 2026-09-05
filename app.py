@@ -152,15 +152,18 @@ def parse_story_list(html: str) -> tuple[list[Story], str | None]:
 
 def has_qualifying_comment(html: str, username: str, min_words: int) -> bool:
     expected = normalize_username(username)
+    return expected in parse_qualifying_commenters(html, min_words)
+
+
+def parse_qualifying_commenters(html: str, min_words: int) -> set[str]:
     soup = BeautifulSoup(html, "html.parser")
+    commenters: set[str] = set()
     for article in soup.select("section.kom > article"):
         link = article.select_one("p.naglowek-kom a.login")
         body = article.select_one("div.avek-tekst")
         if link is None or body is None:
             continue
-        if normalize_username(link.get_text(" ", strip=True)) != expected:
-            continue
-
+        commenter = normalize_username(link.get_text(" ", strip=True))
         aside = body.select_one("aside")
         if aside is not None:
             aside.decompose()
@@ -168,8 +171,8 @@ def has_qualifying_comment(html: str, username: str, min_words: int) -> bool:
             signature.decompose()
         content = " ".join(body.get_text(" ", strip=True).split())
         if len(WORD_RE.findall(content)) >= min_words:
-            return True
-    return False
+            commenters.add(commenter)
+    return commenters
 
 
 def parse_story_character_count(html: str) -> int | None:
