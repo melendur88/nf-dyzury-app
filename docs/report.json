@@ -1,12 +1,12 @@
 {
   "month": "2026-09",
   "period": "01.09.2026 - 30.09.2026",
-  "updatedAt": "2026-09-05T13:06:56+02:00",
+  "updatedAt": "2026-09-06T09:00:28+02:00",
   "results": [
     {
       "username": "Ambush",
       "weekdays": [
-        "poniedziałek"
+        "poniedzialek"
       ],
       "eligible": 0,
       "commented": 0,
@@ -17,7 +17,7 @@
     {
       "username": "beeecki",
       "weekdays": [
-        "poniedziałek"
+        "poniedzialek"
       ],
       "eligible": 0,
       "commented": 0,
@@ -50,10 +50,10 @@
     {
       "username": "regulatorzy",
       "weekdays": [
-        "środa",
+        "sroda",
         "sobota"
       ],
-      "eligible": 1,
+      "eligible": 2,
       "commented": 0,
       "ownStories": 0,
       "percentage": 0.0,
@@ -62,7 +62,7 @@
     {
       "username": "cezary_cezary",
       "weekdays": [
-        "środa"
+        "sroda"
       ],
       "eligible": 0,
       "commented": 0,
@@ -95,7 +95,7 @@
     {
       "username": "MichaelBullfinch",
       "weekdays": [
-        "piątek"
+        "piatek"
       ],
       "eligible": 4,
       "commented": 2,
@@ -106,7 +106,7 @@
     {
       "username": "OldGuard",
       "weekdays": [
-        "piątek"
+        "piatek"
       ],
       "eligible": 4,
       "commented": 1,
