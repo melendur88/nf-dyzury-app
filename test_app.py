@@ -100,3 +100,20 @@ def test_report_uses_aggregate_half_threshold_and_bot_format() -> None:
     assert "wlasne pominiete: 1" in output
     assert "Dni z wynikiem" not in output
     assert "Ponizej 50%" not in output
+
+
+def test_empty_duty_pool_is_passed() -> None:
+    report = Report(
+        username="OneTwo",
+        month="2026-08",
+        weekdays=(6,),
+        all_stories=0,
+        eligible=0,
+        commented=0,
+        own_stories=0,
+        day_results=(),
+        min_words=10,
+    )
+
+    assert report.passed is True
+    assert "zaliczenie: **TAK**" in format_report(report)

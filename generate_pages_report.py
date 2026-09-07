@@ -100,7 +100,7 @@ def build_report(month: str) -> dict[str, object]:
                 "commented": commented,
                 "ownStories": user["own_stories"],
                 "percentage": percentage,
-                "passed": eligible > 0 and commented / eligible >= 0.5,
+                "passed": eligible == 0 or commented / eligible >= 0.5,
             }
         )
 

@@ -75,7 +75,7 @@ class Report:
 
     @property
     def passed(self) -> bool:
-        return self.eligible > 0 and self.commented / self.eligible >= 0.5
+        return self.eligible == 0 or self.commented / self.eligible >= 0.5
 
 
 def normalize_username(value: str) -> str:

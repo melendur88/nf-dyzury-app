@@ -1,29 +1,29 @@
 {
   "month": "2026-09",
   "period": "01.09.2026 - 30.09.2026",
-  "updatedAt": "2026-09-07T09:00:27+02:00",
+  "updatedAt": "2026-09-07T09:04:18+02:00",
   "results": [
     {
       "username": "Ambush",
       "weekdays": [
-        "poniedzialek"
+        "poniedziałek"
       ],
       "eligible": 0,
       "commented": 0,
       "ownStories": 0,
       "percentage": 0.0,
-      "passed": false
+      "passed": true
     },
     {
       "username": "beeecki",
       "weekdays": [
-        "poniedzialek"
+        "poniedziałek"
       ],
       "eligible": 0,
       "commented": 0,
       "ownStories": 0,
       "percentage": 0.0,
-      "passed": false
+      "passed": true
     },
     {
       "username": "zygfryd89",
@@ -50,7 +50,7 @@
     {
       "username": "regulatorzy",
       "weekdays": [
-        "sroda",
+        "środa",
         "sobota"
       ],
       "eligible": 2,
@@ -62,13 +62,13 @@
     {
       "username": "cezary_cezary",
       "weekdays": [
-        "sroda"
+        "środa"
       ],
       "eligible": 0,
       "commented": 0,
       "ownStories": 0,
       "percentage": 0.0,
-      "passed": false
+      "passed": true
     },
     {
       "username": "Sagitt",
@@ -95,7 +95,7 @@
     {
       "username": "MichaelBullfinch",
       "weekdays": [
-        "piatek"
+        "piątek"
       ],
       "eligible": 4,
       "commented": 2,
@@ -106,7 +106,7 @@
     {
       "username": "OldGuard",
       "weekdays": [
-        "piatek"
+        "piątek"
       ],
       "eligible": 4,
       "commented": 1,
@@ -123,7 +123,7 @@
       "commented": 0,
       "ownStories": 0,
       "percentage": 0.0,
-      "passed": false
+      "passed": true
     },
     {
       "username": "OneTwo",
@@ -134,7 +134,7 @@
       "commented": 0,
       "ownStories": 0,
       "percentage": 0.0,
-      "passed": false
+      "passed": true
     }
   ]
 }
