@@ -1,7 +1,7 @@
 {
   "month": "2026-09",
   "period": "01.09.2026 - 30.09.2026",
-  "updatedAt": "2026-09-08T09:00:31+02:00",
+  "updatedAt": "2026-09-09T09:00:46+02:00",
   "results": [
     {
       "username": "Ambush",
@@ -30,7 +30,7 @@
       "weekdays": [
         "wtorek"
       ],
-      "eligible": 1,
+      "eligible": 3,
       "commented": 0,
       "ownStories": 0,
       "percentage": 0.0,
@@ -41,7 +41,7 @@
       "weekdays": [
         "wtorek"
       ],
-      "eligible": 1,
+      "eligible": 3,
       "commented": 0,
       "ownStories": 0,
       "percentage": 0.0,
@@ -53,7 +53,7 @@
         "sroda",
         "sobota"
       ],
-      "eligible": 2,
+      "eligible": 4,
       "commented": 0,
       "ownStories": 0,
       "percentage": 0.0,
@@ -64,11 +64,11 @@
       "weekdays": [
         "sroda"
       ],
-      "eligible": 0,
+      "eligible": 2,
       "commented": 0,
       "ownStories": 0,
       "percentage": 0.0,
-      "passed": true
+      "passed": false
     },
     {
       "username": "Sagitt",
@@ -109,9 +109,9 @@
         "piatek"
       ],
       "eligible": 4,
-      "commented": 2,
+      "commented": 3,
       "ownStories": 0,
-      "percentage": 50.0,
+      "percentage": 75.0,
       "passed": true
     },
     {
