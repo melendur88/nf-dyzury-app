@@ -1,7 +1,7 @@
 {
   "month": "2026-09",
   "period": "01.09.2026 - 30.09.2026",
-  "updatedAt": "2026-09-09T09:00:46+02:00",
+  "updatedAt": "2026-09-10T09:00:49+02:00",
   "results": [
     {
       "username": "Ambush",
@@ -53,10 +53,10 @@
         "sroda",
         "sobota"
       ],
-      "eligible": 4,
-      "commented": 0,
+      "eligible": 6,
+      "commented": 1,
       "ownStories": 0,
-      "percentage": 0.0,
+      "percentage": 16.7,
       "passed": false
     },
     {
@@ -64,7 +64,7 @@
       "weekdays": [
         "sroda"
       ],
-      "eligible": 2,
+      "eligible": 4,
       "commented": 0,
       "ownStories": 0,
       "percentage": 0.0,
