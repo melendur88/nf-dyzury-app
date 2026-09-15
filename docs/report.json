@@ -1,7 +1,7 @@
 {
   "month": "2026-09",
   "period": "01.09.2026 - 30.09.2026",
-  "updatedAt": "2026-09-14T09:01:12+02:00",
+  "updatedAt": "2026-09-15T09:01:16+02:00",
   "results": [
     {
       "username": "Ambush",
@@ -109,10 +109,10 @@
         "piatek"
       ],
       "eligible": 8,
-      "commented": 3,
+      "commented": 4,
       "ownStories": 0,
-      "percentage": 37.5,
-      "passed": false
+      "percentage": 50.0,
+      "passed": true
     },
     {
       "username": "Bardjaskier",
@@ -131,10 +131,10 @@
         "niedziela"
       ],
       "eligible": 1,
-      "commented": 0,
+      "commented": 1,
       "ownStories": 0,
-      "percentage": 0.0,
-      "passed": false
+      "percentage": 100.0,
+      "passed": true
     }
   ]
 }
