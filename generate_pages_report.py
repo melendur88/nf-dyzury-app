@@ -1,9 +1,12 @@
 import argparse
 import json
+import os
 import time
 from datetime import datetime, timedelta
 from pathlib import Path
 from zoneinfo import ZoneInfo
+
+import yaml
 
 from app import (
     MAX_STORY_CHARACTERS,
@@ -16,19 +19,14 @@ from app import (
 )
 
 
-DUTY_SCHEDULE = {
-    "Ambush": {0},
-    "beeecki": {0},
-    "zygfryd89": {1},
-    "Marszawa": {1},
-    "regulatorzy": {2, 5},
-    "cezary_cezary": {2},
-    "Sagitt": {3},
-    "barniusz": {3},
-    "MichaelBullfinch": {4},
-    "OldGuard": {4},
-    "Bardjaskier": {6},
-    "OneTwo": {6},
+WEEKDAY_ALIASES = {
+    "pn": 0,
+    "wt": 1,
+    "sr": 2,
+    "czw": 3,
+    "pt": 4,
+    "sob": 5,
+    "nd": 6,
 }
 WEEKDAY_NAMES = (
     "poniedziałek",
@@ -41,7 +39,37 @@ WEEKDAY_NAMES = (
 )
 
 
-def build_report(month: str) -> dict[str, object]:
+def load_duty_schedule(path: Path) -> dict[str, set[int]]:
+    try:
+        data = yaml.safe_load(path.read_text(encoding="utf-8"))
+    except OSError as error:
+        raise RuntimeError(f"Nie mozna odczytac grafiku dyzurow: {path}") from error
+    except yaml.YAMLError as error:
+        raise RuntimeError(f"Niepoprawny YAML grafiku dyzurow: {path}") from error
+
+    entries = data.get("dyzurni") if isinstance(data, dict) else None
+    if not isinstance(entries, list) or not entries:
+        raise RuntimeError("Grafik musi zawierac niepusta liste 'dyzurni'.")
+
+    schedule: dict[str, set[int]] = {}
+    for entry in entries:
+        if not isinstance(entry, dict):
+            raise RuntimeError("Kazdy dyzurny musi zawierac pola 'name' i 'days'.")
+        username = entry.get("name")
+        raw_days = entry.get("days")
+        if not isinstance(username, str) or not username.strip() or not isinstance(raw_days, list):
+            raise RuntimeError("Kazdy dyzurny musi zawierac niepuste 'name' i liste 'days'.")
+        try:
+            weekdays = {WEEKDAY_ALIASES[day.strip().casefold()] for day in raw_days}
+        except (AttributeError, KeyError) as error:
+            raise RuntimeError("Dni dyzuru podaj jako np. pn, wt, sr.") from error
+        if not weekdays:
+            raise RuntimeError("Kazdy dyzurny musi miec co najmniej jeden poprawny dzien.")
+        schedule.setdefault(username.strip(), set()).update(weekdays)
+    return schedule
+
+
+def build_report(month: str, duty_schedule: dict[str, set[int]]) -> dict[str, object]:
     start, end = month_bounds(month)
     progress = lambda _text, _current, _total: None
     session = create_session()
@@ -53,7 +81,7 @@ def build_report(month: str) -> dict[str, object]:
             "commented": 0,
             "own_stories": 0,
         }
-        for username, weekdays in DUTY_SCHEDULE.items()
+        for username, weekdays in duty_schedule.items()
     }
 
     try:
@@ -119,11 +147,20 @@ def main() -> None:
         "--month", default=datetime.now(ZoneInfo("Europe/Warsaw")).strftime("%Y-%m")
     )
     parser.add_argument("--output", default="docs/report.json")
+    parser.add_argument(
+        "--schedule",
+        default=os.getenv("DUTY_SCHEDULE_FILE", str(Path.home() / "dyzurni.yaml")),
+    )
     args = parser.parse_args()
     output = Path(args.output)
     output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(
-        json.dumps(build_report(args.month), ensure_ascii=False, indent=2) + "\n",
+        json.dumps(
+            build_report(args.month, load_duty_schedule(Path(args.schedule))),
+            ensure_ascii=False,
+            indent=2,
+        )
+        + "\n",
         encoding="utf-8",
     )
 

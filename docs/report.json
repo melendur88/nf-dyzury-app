@@ -1,7 +1,7 @@
 {
   "month": "2026-09",
   "period": "01.09.2026 - 30.09.2026",
-  "updatedAt": "2026-09-15T09:01:16+02:00",
+  "updatedAt": "2026-09-15T20:14:54+02:00",
   "results": [
     {
       "username": "Ambush",
@@ -15,7 +15,7 @@
       "passed": false
     },
     {
-      "username": "beeecki",
+      "username": "beeeecki",
       "weekdays": [
         "poniedzialek"
       ],
@@ -65,10 +65,10 @@
         "sroda"
       ],
       "eligible": 3,
-      "commented": 1,
+      "commented": 2,
       "ownStories": 0,
-      "percentage": 33.3,
-      "passed": false
+      "percentage": 66.7,
+      "passed": true
     },
     {
       "username": "Sagitt",
@@ -109,9 +109,9 @@
         "piatek"
       ],
       "eligible": 8,
-      "commented": 4,
+      "commented": 5,
       "ownStories": 0,
-      "percentage": 50.0,
+      "percentage": 62.5,
       "passed": true
     },
     {
