@@ -1,7 +1,7 @@
 {
   "month": "2026-09",
   "period": "01.09.2026 - 30.09.2026",
-  "updatedAt": "2026-09-16T09:01:16+02:00",
+  "updatedAt": "2026-09-17T09:01:29+02:00",
   "results": [
     {
       "username": "Ambush",
@@ -30,7 +30,7 @@
       "weekdays": [
         "wtorek"
       ],
-      "eligible": 3,
+      "eligible": 4,
       "commented": 0,
       "ownStories": 0,
       "percentage": 0.0,
@@ -41,7 +41,7 @@
       "weekdays": [
         "wtorek"
       ],
-      "eligible": 3,
+      "eligible": 4,
       "commented": 0,
       "ownStories": 0,
       "percentage": 0.0,
@@ -53,10 +53,10 @@
         "sroda",
         "sobota"
       ],
-      "eligible": 5,
+      "eligible": 6,
       "commented": 4,
       "ownStories": 0,
-      "percentage": 80.0,
+      "percentage": 66.7,
       "passed": true
     },
     {
@@ -64,10 +64,10 @@
       "weekdays": [
         "sroda"
       ],
-      "eligible": 3,
+      "eligible": 4,
       "commented": 2,
       "ownStories": 0,
-      "percentage": 66.7,
+      "percentage": 50.0,
       "passed": true
     },
     {
@@ -75,10 +75,10 @@
       "weekdays": [
         "czwartek"
       ],
-      "eligible": 4,
-      "commented": 0,
+      "eligible": 5,
+      "commented": 1,
       "ownStories": 0,
-      "percentage": 0.0,
+      "percentage": 20.0,
       "passed": false
     },
     {
@@ -86,10 +86,10 @@
       "weekdays": [
         "czwartek"
       ],
-      "eligible": 4,
+      "eligible": 5,
       "commented": 4,
       "ownStories": 0,
-      "percentage": 100.0,
+      "percentage": 80.0,
       "passed": true
     },
     {
@@ -109,9 +109,9 @@
         "piatek"
       ],
       "eligible": 8,
-      "commented": 5,
+      "commented": 6,
       "ownStories": 0,
-      "percentage": 62.5,
+      "percentage": 75.0,
       "passed": true
     },
     {
