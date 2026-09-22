@@ -1,17 +1,17 @@
 {
   "month": "2026-09",
   "period": "01.09.2026 - 30.09.2026",
-  "updatedAt": "2026-09-21T09:01:46+02:00",
+  "updatedAt": "2026-09-22T09:01:54+02:00",
   "results": [
     {
       "username": "Ambush",
       "weekdays": [
         "poniedzialek"
       ],
-      "eligible": 3,
+      "eligible": 7,
       "commented": 1,
       "ownStories": 0,
-      "percentage": 33.3,
+      "percentage": 14.3,
       "passed": false
     },
     {
@@ -19,10 +19,10 @@
       "weekdays": [
         "poniedzialek"
       ],
-      "eligible": 3,
+      "eligible": 7,
       "commented": 1,
       "ownStories": 0,
-      "percentage": 33.3,
+      "percentage": 14.3,
       "passed": false
     },
     {
