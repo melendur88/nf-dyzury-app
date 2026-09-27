@@ -150,6 +150,86 @@ def parse_story_list(html: str) -> tuple[list[Story], str | None]:
     return stories, next_url
 
 
+def parse_contest_story_list(
+    html: str, contest_id: int
+) -> tuple[list[Story], str | None, list[datetime]]:
+    """Return one contest's entries plus all non-sticky dates on the list page."""
+    soup = BeautifulSoup(html, "html.parser")
+    stories: list[Story] = []
+    page_dates: list[datetime] = []
+    contest_path = f"/opowiadania/konkursy/{contest_id}"
+
+    for row in soup.select("section.no-headline div.lista"):
+        if any(
+            marker.get_text(" ", strip=True).casefold() == "przyklejony"
+            for marker in row.select("span.zielony")
+        ):
+            continue
+
+        link = row.select_one('.teksty > a.tytul[href^="/opowiadania/pokaz/"]')
+        metadata = row.select_one(".teksty > div")
+        if link is None or metadata is None or not link.get("href"):
+            continue
+        published_at = parse_datetime(metadata.get_text(" ", strip=True))
+        if published_at is None:
+            continue
+        page_dates.append(published_at)
+
+        contest_link = metadata.select_one("a.konkurs")
+        if contest_link is None or contest_link.get("href") != contest_path:
+            continue
+        author_link = row.select_one(".autor > a")
+        stories.append(
+            Story(
+                title=link.get_text(" ", strip=True),
+                url=urljoin(BASE_URL, str(link["href"])),
+                author=(author_link.get_text(" ", strip=True) if author_link else "Anonim").rstrip(":"),
+                published_at=published_at,
+            )
+        )
+
+    pagination = soup.select_one("section.paginacja")
+    next_link = (
+        pagination.select_one('a[title="następna strona"]') if pagination else None
+    )
+    next_url = (
+        urljoin(BASE_URL, str(next_link["href"]))
+        if next_link is not None and next_link.get("href")
+        else None
+    )
+    return stories, next_url, page_dates
+
+
+def parse_comment_counts(html: str, min_words: int) -> dict[str, tuple[str, int, int]]:
+    """Return normalized commenter -> display name, all comments, substantive comments."""
+    soup = BeautifulSoup(html, "html.parser")
+    commenters: dict[str, tuple[str, int, int]] = {}
+    for article in soup.select("section.kom > article"):
+        link = article.select_one("p.naglowek-kom a.login")
+        body = article.select_one("div.avek-tekst")
+        if link is None or body is None:
+            continue
+        display_name = link.get_text(" ", strip=True).rstrip(":")
+        commenter = normalize_username(display_name)
+        if not commenter:
+            continue
+        aside = body.select_one("aside")
+        if aside is not None:
+            aside.decompose()
+        for signature in body.select("p.sygnaturka"):
+            signature.decompose()
+        words = len(WORD_RE.findall(" ".join(body.get_text(" ", strip=True).split())))
+        previous_name, comments, substantive = commenters.get(
+            commenter, (display_name, 0, 0)
+        )
+        commenters[commenter] = (
+            previous_name,
+            comments + 1,
+            substantive + int(words >= min_words),
+        )
+    return commenters
+
+
 def has_qualifying_comment(html: str, username: str, min_words: int) -> bool:
     expected = normalize_username(username)
     return expected in parse_qualifying_commenters(html, min_words)
@@ -212,6 +292,30 @@ def fetch_stories(
         stories, next_url = parse_story_list(response.text)
         selected.extend(story for story in stories if start <= story.published_at < end)
         if stories and min(story.published_at for story in stories) < start:
+            break
+        url = next_url
+        if url:
+            time.sleep(0.75)
+    return selected
+
+
+def fetch_contest_stories(
+    session: requests.Session,
+    contest_id: int,
+    since: datetime,
+    progress: Progress,
+) -> list[Story]:
+    selected: list[Story] = []
+    url: str | None = LIST_URL
+    page = 0
+    while url:
+        page += 1
+        progress(f"Pobieranie listy konkursowej, strona {page}...", page, 0)
+        response = session.get(url, timeout=30)
+        response.raise_for_status()
+        stories, next_url, page_dates = parse_contest_story_list(response.text, contest_id)
+        selected.extend(story for story in stories if story.published_at >= since)
+        if page_dates and max(page_dates) < since:
             break
         url = next_url
         if url:

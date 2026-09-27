@@ -6,6 +6,8 @@ from app import (
     has_qualifying_comment,
     month_bounds,
     parse_qualifying_commenters,
+    parse_comment_counts,
+    parse_contest_story_list,
     parse_story_character_count,
     parse_story_list,
 )
@@ -61,6 +63,37 @@ def test_story_list_skips_sticky() -> None:
     assert len(stories) == 1
     assert stories[0].author == "B"
     assert next_url is None
+
+
+def test_contest_story_list_selects_only_requested_contest() -> None:
+    html = """
+    <section class="paginacja"></section>
+    <section class="no-headline"><article>
+      <div class="lista"><div class="autor"><a>Autor:</a></div><div class="teksty">
+        <a class="tytul" href="/opowiadania/pokaz/1">Właściwy tekst</a>
+        <div><a class="konkurs" href="/opowiadania/konkursy/220">Magia</a> | opowiadanie, fantasy | 27.09.26, g. 12:00</div>
+      </div></div>
+      <div class="lista"><div class="autor"><a>Inny:</a></div><div class="teksty">
+        <a class="tytul" href="/opowiadania/pokaz/2">Inny konkurs</a>
+        <div><a class="konkurs" href="/opowiadania/konkursy/219">Inny</a> | szort, fantasy | 27.09.26, g. 11:00</div>
+      </div></div>
+    </article></section>
+    """
+    stories, next_url, dates = parse_contest_story_list(html, 220)
+    assert [story.title for story in stories] == ["Właściwy tekst"]
+    assert stories[0].author == "Autor"
+    assert next_url is None
+    assert len(dates) == 2
+
+
+def test_comment_counts_include_own_and_short_comments() -> None:
+    html = """
+    <section class="kom">
+      <article><p class="naglowek-kom"><a class="login">Autor</a></p><div class="avek-tekst"><p>krótko</p></div></article>
+      <article><p class="naglowek-kom"><a class="login">Autor</a></p><div class="avek-tekst"><p>jeden dwa trzy cztery piec szesc siedem osiem dziewiec dziesiec</p></div></article>
+    </section>
+    """
+    assert parse_comment_counts(html, 10) == {"autor": ("Autor", 2, 1)}
 
 
 def test_month_bounds() -> None:

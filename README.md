@@ -52,6 +52,17 @@ GitHub Actions buduje testy na Windows przy kazdym pushu i pull requescie.
 Tag w formacie `v*`, np. `v1.0.0`, buduje `NF-Dyzury.exe` i publikuje go jako
 asset GitHub Release.
 
+## Raport konkursu
+
+GitHub Pages publikuje też licznik aktywności konkursu `Magia, miecz i przygoda`
+pod `/nf-konkurs-magia-i-miecz/`. Generator odczytuje publiczne wpisy oznaczone
+konkursem NF o identyfikatorze `220`, zlicza opowiadania oraz wszystkie widoczne
+komentarze użytkowników, także autora pod własnym tekstem. Osobno pokazuje
+komentarze merytoryczne, czyli zawierające co najmniej 10 słów.
+
+Raport odświeża się co 6 godzin przez GitHub Actions i można go uruchomić ręcznie
+w zakładce Actions przez workflow `Refresh contest report`.
+
 ## Koszt i prywatność
 
 Aplikacja działa lokalnie i odpytuje wyłącznie publiczne strony NF. Nie wysyła
