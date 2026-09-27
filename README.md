@@ -60,8 +60,9 @@ konkursem NF o identyfikatorze `220`, zlicza opowiadania oraz wszystkie widoczne
 komentarze użytkowników, także autora pod własnym tekstem. Osobno pokazuje
 komentarze merytoryczne, czyli zawierające co najmniej 10 słów.
 
-Raport odświeża się co 6 godzin przez GitHub Actions i można go uruchomić ręcznie
-w zakładce Actions przez workflow `Refresh contest report`.
+Raport publikuje GitHub Pages. Pobieranie danych odbywa się z residentialnego
+workera Home Assistant, bo Fantastyka.pl blokuje zapytania z datacenterowych
+runnerów GitHub Actions przez Cloudflare.
 
 ## Koszt i prywatność
 

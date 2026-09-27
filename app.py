@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 import calendar
 import ctypes
 import re
@@ -13,8 +15,11 @@ from bs4 import BeautifulSoup
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-import tkinter as tk
-from tkinter import messagebox, scrolledtext, ttk
+try:
+    import tkinter as tk
+    from tkinter import messagebox, scrolledtext, ttk
+except ImportError:
+    tk = messagebox = scrolledtext = ttk = None
 
 
 BASE_URL = "https://www.fantastyka.pl"
@@ -559,6 +564,8 @@ class App:
 
 
 def main() -> None:
+    if tk is None:
+        raise RuntimeError("Tkinter is required to run the desktop application.")
     try:
         ctypes.windll.shcore.SetProcessDpiAwareness(1)
     except (AttributeError, OSError):
