@@ -1,28 +1,28 @@
 {
   "month": "2026-09",
   "period": "01.09.2026 - 30.09.2026",
-  "updatedAt": "2026-09-28T09:02:24+02:00",
+  "updatedAt": "2026-09-29T09:02:42+02:00",
   "results": [
     {
       "username": "Ambush",
       "weekdays": [
         "poniedzialek"
       ],
-      "eligible": 8,
+      "eligible": 9,
       "commented": 4,
       "ownStories": 0,
-      "percentage": 50.0,
-      "passed": true
+      "percentage": 44.4,
+      "passed": false
     },
     {
       "username": "beeeecki",
       "weekdays": [
         "poniedzialek"
       ],
-      "eligible": 8,
+      "eligible": 9,
       "commented": 2,
       "ownStories": 0,
-      "percentage": 25.0,
+      "percentage": 22.2,
       "passed": false
     },
     {
@@ -42,10 +42,10 @@
         "wtorek"
       ],
       "eligible": 4,
-      "commented": 1,
+      "commented": 3,
       "ownStories": 0,
-      "percentage": 25.0,
-      "passed": false
+      "percentage": 75.0,
+      "passed": true
     },
     {
       "username": "regulatorzy",
@@ -109,9 +109,9 @@
         "piatek"
       ],
       "eligible": 11,
-      "commented": 9,
+      "commented": 11,
       "ownStories": 0,
-      "percentage": 81.8,
+      "percentage": 100.0,
       "passed": true
     },
     {
@@ -131,10 +131,10 @@
         "niedziela"
       ],
       "eligible": 5,
-      "commented": 2,
+      "commented": 3,
       "ownStories": 0,
-      "percentage": 40.0,
-      "passed": false
+      "percentage": 60.0,
+      "passed": true
     }
   ]
 }
