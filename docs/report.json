@@ -1,7 +1,7 @@
 {
   "month": "2026-09",
   "period": "01.09.2026 - 30.09.2026",
-  "updatedAt": "2026-09-29T09:02:42+02:00",
+  "updatedAt": "2026-09-30T09:02:32+02:00",
   "results": [
     {
       "username": "Ambush",
@@ -30,7 +30,7 @@
       "weekdays": [
         "wtorek"
       ],
-      "eligible": 4,
+      "eligible": 5,
       "commented": 0,
       "ownStories": 0,
       "percentage": 0.0,
@@ -41,10 +41,10 @@
       "weekdays": [
         "wtorek"
       ],
-      "eligible": 4,
+      "eligible": 5,
       "commented": 3,
       "ownStories": 0,
-      "percentage": 75.0,
+      "percentage": 60.0,
       "passed": true
     },
     {
@@ -98,10 +98,10 @@
         "piatek"
       ],
       "eligible": 11,
-      "commented": 2,
+      "commented": 8,
       "ownStories": 0,
-      "percentage": 18.2,
-      "passed": false
+      "percentage": 72.7,
+      "passed": true
     },
     {
       "username": "OldGuard",
@@ -131,9 +131,9 @@
         "niedziela"
       ],
       "eligible": 5,
-      "commented": 3,
+      "commented": 5,
       "ownStories": 0,
-      "percentage": 60.0,
+      "percentage": 100.0,
       "passed": true
     }
   ]
