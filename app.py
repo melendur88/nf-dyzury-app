@@ -108,6 +108,17 @@ def month_bounds(value: str) -> tuple[datetime, datetime]:
     return start, datetime(parsed.year, parsed.month, last_day) + timedelta(days=1)
 
 
+def report_period(value: str) -> tuple[datetime, datetime]:
+    start, next_month = month_bounds(value)
+    return start, next_month.replace(day=15)
+
+
+def current_report_month(now: datetime) -> str:
+    if now.day <= 15:
+        return (now.replace(day=1) - timedelta(days=1)).strftime("%Y-%m")
+    return now.strftime("%Y-%m")
+
+
 def parse_story_list(html: str) -> tuple[list[Story], str | None]:
     soup = BeautifulSoup(html, "html.parser")
     stories: list[Story] = []
@@ -398,12 +409,12 @@ def analyze(
 
 
 def format_report(report: Report) -> str:
-    start, end = month_bounds(report.month)
+    start, end = report_period(report.month)
     weekdays = ", ".join(WEEKDAY_NAMES[day] for day in report.weekdays)
     own_note = f", wlasne pominiete: {report.own_stories}" if report.own_stories else ""
     lines = [
         "**Raport dyzurnych NF**",
-        f"Okres publikacji: **{start:%d.%m.%Y} - {(end - timedelta(days=1)):%d.%m.%Y}**",
+        f"Okres publikacji: **{start:%d.%m.%Y} - {end:%d.%m.%Y}**",
         f"- **{report.username}** | dni dyzuru: **{weekdays}** | "
         f"wynik: **{report.commented}/{report.eligible} "
         f"({report.percentage:.1f}%)** | "

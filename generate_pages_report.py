@@ -2,7 +2,7 @@ import argparse
 import json
 import os
 import time
-from datetime import datetime, timedelta
+from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -11,8 +11,9 @@ import yaml
 from app import (
     MAX_STORY_CHARACTERS,
     create_session,
+    current_report_month,
     fetch_stories,
-    month_bounds,
+    report_period,
     normalize_username,
     parse_qualifying_commenters,
     parse_story_character_count,
@@ -70,7 +71,7 @@ def load_duty_schedule(path: Path) -> dict[str, set[int]]:
 
 
 def build_report(month: str, duty_schedule: dict[str, set[int]]) -> dict[str, object]:
-    start, end = month_bounds(month)
+    start, end = report_period(month)
     progress = lambda _text, _current, _total: None
     session = create_session()
     users = {
@@ -135,7 +136,7 @@ def build_report(month: str, duty_schedule: dict[str, set[int]]) -> dict[str, ob
     now = datetime.now(ZoneInfo("Europe/Warsaw"))
     return {
         "month": month,
-        "period": f"{start:%d.%m.%Y} - {(end - timedelta(days=1)):%d.%m.%Y}",
+        "period": f"{start:%d.%m.%Y} - {end:%d.%m.%Y}",
         "updatedAt": now.isoformat(timespec="seconds"),
         "results": results,
     }
@@ -144,7 +145,8 @@ def build_report(month: str, duty_schedule: dict[str, set[int]]) -> dict[str, ob
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument(
-        "--month", default=datetime.now(ZoneInfo("Europe/Warsaw")).strftime("%Y-%m")
+        "--month",
+        default=current_report_month(datetime.now(ZoneInfo("Europe/Warsaw"))),
     )
     parser.add_argument("--output", default="docs/report.json")
     parser.add_argument(

@@ -1,10 +1,12 @@
-from datetime import date
+from datetime import date, datetime
 
 from app import (
     Report,
     format_report,
     has_qualifying_comment,
     month_bounds,
+    current_report_month,
+    report_period,
     parse_qualifying_commenters,
     parse_comment_counts,
     parse_contest_story_list,
@@ -100,6 +102,17 @@ def test_month_bounds() -> None:
     start, end = month_bounds("2026-02")
     assert start.strftime("%d.%m.%Y") == "01.02.2026"
     assert end.strftime("%d.%m.%Y") == "01.03.2026"
+
+
+def test_report_period_extends_to_next_month_cutoff() -> None:
+    start, end = report_period("2026-09")
+    assert start.strftime("%d.%m.%Y") == "01.09.2026"
+    assert end.strftime("%d.%m.%Y") == "15.10.2026"
+
+
+def test_current_report_month_switches_after_cutoff() -> None:
+    assert current_report_month(datetime(2026, 10, 15)) == "2026-09"
+    assert current_report_month(datetime(2026, 10, 16)) == "2026-10"
 
 
 def test_story_character_count_boundary_data() -> None:
