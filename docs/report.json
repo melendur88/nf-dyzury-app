@@ -1,7 +1,7 @@
 {
   "month": "2026-09",
   "period": "01.09.2026 - 15.10.2026",
-  "updatedAt": "2026-10-04T21:32:39+02:00",
+  "updatedAt": "2026-10-05T21:32:50+02:00",
   "results": [
     {
       "username": "Ambush",
@@ -20,10 +20,10 @@
         "poniedzialek"
       ],
       "eligible": 9,
-      "commented": 3,
+      "commented": 6,
       "ownStories": 0,
-      "percentage": 33.3,
-      "passed": false
+      "percentage": 66.7,
+      "passed": true
     },
     {
       "username": "zygfryd89",
@@ -42,9 +42,9 @@
         "wtorek"
       ],
       "eligible": 5,
-      "commented": 4,
+      "commented": 5,
       "ownStories": 0,
-      "percentage": 80.0,
+      "percentage": 100.0,
       "passed": true
     },
     {
@@ -76,10 +76,10 @@
         "czwartek"
       ],
       "eligible": 8,
-      "commented": 3,
+      "commented": 5,
       "ownStories": 0,
-      "percentage": 37.5,
-      "passed": false
+      "percentage": 62.5,
+      "passed": true
     },
     {
       "username": "barniusz",
