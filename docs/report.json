@@ -1,7 +1,7 @@
 {
   "month": "2026-09",
   "period": "01.09.2026 - 15.10.2026",
-  "updatedAt": "2026-10-07T21:32:53+02:00",
+  "updatedAt": "2026-10-08T21:32:34+02:00",
   "results": [
     {
       "username": "Ambush",
@@ -76,9 +76,9 @@
         "czwartek"
       ],
       "eligible": 8,
-      "commented": 7,
+      "commented": 8,
       "ownStories": 0,
-      "percentage": 87.5,
+      "percentage": 100.0,
       "passed": true
     },
     {
