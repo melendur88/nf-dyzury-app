@@ -1,7 +1,7 @@
 {
   "month": "2026-09",
   "period": "01.09.2026 - 15.10.2026",
-  "updatedAt": "2026-10-09T21:32:37+02:00",
+  "updatedAt": "2026-10-10T21:32:41+02:00",
   "results": [
     {
       "username": "Ambush",
@@ -9,9 +9,9 @@
         "poniedzialek"
       ],
       "eligible": 9,
-      "commented": 6,
+      "commented": 7,
       "ownStories": 0,
-      "percentage": 66.7,
+      "percentage": 77.8,
       "passed": true
     },
     {
@@ -31,9 +31,9 @@
         "wtorek"
       ],
       "eligible": 5,
-      "commented": 0,
+      "commented": 1,
       "ownStories": 0,
-      "percentage": 0.0,
+      "percentage": 20.0,
       "passed": false
     },
     {
@@ -97,10 +97,10 @@
       "weekdays": [
         "piatek"
       ],
-      "eligible": 11,
-      "commented": 8,
+      "eligible": 10,
+      "commented": 7,
       "ownStories": 0,
-      "percentage": 72.7,
+      "percentage": 70.0,
       "passed": true
     },
     {
@@ -108,8 +108,8 @@
       "weekdays": [
         "piatek"
       ],
-      "eligible": 11,
-      "commented": 11,
+      "eligible": 10,
+      "commented": 10,
       "ownStories": 0,
       "percentage": 100.0,
       "passed": true
