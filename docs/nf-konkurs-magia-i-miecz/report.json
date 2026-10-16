@@ -2,16 +2,32 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-16T02:33:58+02:00",
+  "updatedAt": "2026-10-16T08:34:18+02:00",
   "summary": {
-    "stories": 1,
-    "authors": 1,
-    "comments": 0,
-    "substantiveComments": 0
+    "stories": 3,
+    "authors": 3,
+    "comments": 1,
+    "substantiveComments": 1
   },
   "users": [
     {
+      "username": "Bardjaskier",
+      "submittedStories": 1,
+      "comments": 1,
+      "substantiveComments": 1,
+      "ownStoryComments": 0,
+      "storiesCommented": 1
+    },
+    {
       "username": "marzan",
+      "submittedStories": 1,
+      "comments": 0,
+      "substantiveComments": 0,
+      "ownStoryComments": 0,
+      "storiesCommented": 0
+    },
+    {
+      "username": "Szafirowy Smok",
       "submittedStories": 1,
       "comments": 0,
       "substantiveComments": 0,
@@ -20,6 +36,30 @@
     }
   ],
   "stories": [
+    {
+      "title": "O potworach",
+      "url": "https://www.fantastyka.pl/opowiadania/pokaz/35590",
+      "author": "Szafirowy Smok",
+      "publishedAt": "2026-10-16T05:33+02:00",
+      "comments": 1,
+      "substantiveComments": 1,
+      "commenters": [
+        {
+          "username": "Bardjaskier",
+          "comments": 1,
+          "substantiveComments": 1
+        }
+      ]
+    },
+    {
+      "title": "Cena sławy",
+      "url": "https://www.fantastyka.pl/opowiadania/pokaz/35647",
+      "author": "Bardjaskier",
+      "publishedAt": "2026-10-16T05:29+02:00",
+      "comments": 0,
+      "substantiveComments": 0,
+      "commenters": []
+    },
     {
       "title": "Oda do pogardy",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35638",
