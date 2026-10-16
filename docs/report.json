@@ -1,32 +1,43 @@
 {
-  "month": "2026-09",
-  "period": "01.09.2026 - 15.10.2026",
-  "updatedAt": "2026-10-15T21:32:38+02:00",
+  "month": "2026-10",
+  "period": "01.10.2026 - 15.11.2026",
+  "updatedAt": "2026-10-16T21:31:46+02:00",
   "results": [
     {
       "username": "Ambush",
       "weekdays": [
         "poniedzialek"
       ],
-      "eligible": 9,
-      "commented": 7,
+      "eligible": 2,
+      "commented": 0,
       "ownStories": 0,
-      "percentage": 77.8,
-      "passed": true
+      "percentage": 0.0,
+      "passed": false
     },
     {
       "username": "beeeecki",
       "weekdays": [
         "poniedzialek"
       ],
-      "eligible": 9,
-      "commented": 6,
+      "eligible": 2,
+      "commented": 0,
       "ownStories": 0,
-      "percentage": 66.7,
-      "passed": true
+      "percentage": 0.0,
+      "passed": false
     },
     {
       "username": "zygfryd89",
+      "weekdays": [
+        "wtorek"
+      ],
+      "eligible": 5,
+      "commented": 0,
+      "ownStories": 0,
+      "percentage": 0.0,
+      "passed": false
+    },
+    {
+      "username": "Marszawa",
       "weekdays": [
         "wtorek"
       ],
@@ -37,26 +48,15 @@
       "passed": false
     },
     {
-      "username": "Marszawa",
-      "weekdays": [
-        "wtorek"
-      ],
-      "eligible": 5,
-      "commented": 5,
-      "ownStories": 0,
-      "percentage": 100.0,
-      "passed": true
-    },
-    {
       "username": "regulatorzy",
       "weekdays": [
         "sroda",
         "sobota"
       ],
-      "eligible": 13,
-      "commented": 10,
+      "eligible": 9,
+      "commented": 8,
       "ownStories": 0,
-      "percentage": 76.9,
+      "percentage": 88.9,
       "passed": true
     },
     {
@@ -64,30 +64,30 @@
       "weekdays": [
         "sroda"
       ],
-      "eligible": 7,
-      "commented": 5,
+      "eligible": 2,
+      "commented": 0,
       "ownStories": 0,
-      "percentage": 71.4,
-      "passed": true
+      "percentage": 0.0,
+      "passed": false
     },
     {
       "username": "Sagitt",
       "weekdays": [
         "czwartek"
       ],
-      "eligible": 8,
-      "commented": 8,
+      "eligible": 9,
+      "commented": 2,
       "ownStories": 0,
-      "percentage": 100.0,
-      "passed": true
+      "percentage": 22.2,
+      "passed": false
     },
     {
       "username": "barniusz",
       "weekdays": [
         "czwartek"
       ],
-      "eligible": 8,
-      "commented": 8,
+      "eligible": 9,
+      "commented": 9,
       "ownStories": 0,
       "percentage": 100.0,
       "passed": true
@@ -97,22 +97,22 @@
       "weekdays": [
         "piatek"
       ],
-      "eligible": 10,
-      "commented": 7,
+      "eligible": 4,
+      "commented": 0,
       "ownStories": 0,
-      "percentage": 70.0,
-      "passed": true
+      "percentage": 0.0,
+      "passed": false
     },
     {
       "username": "OldGuard",
       "weekdays": [
         "piatek"
       ],
-      "eligible": 10,
-      "commented": 10,
+      "eligible": 4,
+      "commented": 1,
       "ownStories": 0,
-      "percentage": 100.0,
-      "passed": true
+      "percentage": 25.0,
+      "passed": false
     },
     {
       "username": "Bardjaskier",
@@ -120,9 +120,9 @@
         "niedziela"
       ],
       "eligible": 5,
-      "commented": 5,
+      "commented": 4,
       "ownStories": 0,
-      "percentage": 100.0,
+      "percentage": 80.0,
       "passed": true
     },
     {
@@ -131,9 +131,9 @@
         "niedziela"
       ],
       "eligible": 5,
-      "commented": 5,
+      "commented": 4,
       "ownStories": 0,
-      "percentage": 100.0,
+      "percentage": 80.0,
       "passed": true
     }
   ]
