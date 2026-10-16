@@ -2,13 +2,32 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-15T20:33:43+02:00",
+  "updatedAt": "2026-10-16T02:33:58+02:00",
   "summary": {
-    "stories": 0,
-    "authors": 0,
+    "stories": 1,
+    "authors": 1,
     "comments": 0,
     "substantiveComments": 0
   },
-  "users": [],
-  "stories": []
+  "users": [
+    {
+      "username": "marzan",
+      "submittedStories": 1,
+      "comments": 0,
+      "substantiveComments": 0,
+      "ownStoryComments": 0,
+      "storiesCommented": 0
+    }
+  ],
+  "stories": [
+    {
+      "title": "Oda do pogardy",
+      "url": "https://www.fantastyka.pl/opowiadania/pokaz/35638",
+      "author": "marzan",
+      "publishedAt": "2026-10-16T00:02+02:00",
+      "comments": 0,
+      "substantiveComments": 0,
+      "commenters": []
+    }
+  ]
 }
