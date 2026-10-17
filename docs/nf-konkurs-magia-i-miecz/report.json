@@ -2,18 +2,18 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-17T14:35:55+02:00",
+  "updatedAt": "2026-10-17T20:36:16+02:00",
   "summary": {
-    "stories": 3,
-    "authors": 3,
-    "comments": 66,
-    "substantiveComments": 60
+    "stories": 4,
+    "authors": 4,
+    "comments": 76,
+    "substantiveComments": 69
   },
   "users": [
     {
       "username": "Szafirowy Smok",
       "submittedStories": 1,
-      "comments": 12,
+      "comments": 13,
       "substantiveComments": 11,
       "ownStoryComments": 9,
       "storiesCommented": 3
@@ -27,19 +27,19 @@
       "storiesCommented": 3
     },
     {
+      "username": "Bardjaskier",
+      "submittedStories": 1,
+      "comments": 9,
+      "substantiveComments": 9,
+      "ownStoryComments": 5,
+      "storiesCommented": 4
+    },
+    {
       "username": "marzan",
       "submittedStories": 1,
       "comments": 9,
       "substantiveComments": 9,
       "ownStoryComments": 6,
-      "storiesCommented": 3
-    },
-    {
-      "username": "Bardjaskier",
-      "submittedStories": 1,
-      "comments": 7,
-      "substantiveComments": 7,
-      "ownStoryComments": 4,
       "storiesCommented": 3
     },
     {
@@ -51,6 +51,22 @@
       "storiesCommented": 3
     },
     {
+      "username": "Zielony_Rycerz",
+      "submittedStories": 0,
+      "comments": 5,
+      "substantiveComments": 5,
+      "ownStoryComments": 0,
+      "storiesCommented": 2
+    },
+    {
+      "username": "AP",
+      "submittedStories": 0,
+      "comments": 3,
+      "substantiveComments": 3,
+      "ownStoryComments": 0,
+      "storiesCommented": 1
+    },
+    {
       "username": "beeeecki",
       "submittedStories": 0,
       "comments": 3,
@@ -59,19 +75,11 @@
       "storiesCommented": 1
     },
     {
-      "username": "Zielony_Rycerz",
-      "submittedStories": 0,
-      "comments": 3,
-      "substantiveComments": 3,
-      "ownStoryComments": 0,
-      "storiesCommented": 2
-    },
-    {
-      "username": "AP",
-      "submittedStories": 0,
+      "username": "Jim",
+      "submittedStories": 1,
       "comments": 2,
       "substantiveComments": 2,
-      "ownStoryComments": 0,
+      "ownStoryComments": 2,
       "storiesCommented": 1
     },
     {
@@ -115,6 +123,14 @@
       "storiesCommented": 2
     },
     {
+      "username": "CZARNA2",
+      "submittedStories": 0,
+      "comments": 1,
+      "substantiveComments": 1,
+      "ownStoryComments": 0,
+      "storiesCommented": 1
+    },
+    {
       "username": "dawidiq150",
       "submittedStories": 0,
       "comments": 1,
@@ -147,6 +163,14 @@
       "storiesCommented": 1
     },
     {
+      "username": "nul",
+      "submittedStories": 0,
+      "comments": 1,
+      "substantiveComments": 1,
+      "ownStoryComments": 0,
+      "storiesCommented": 1
+    },
+    {
       "username": "OldGuard",
       "submittedStories": 0,
       "comments": 1,
@@ -157,12 +181,37 @@
   ],
   "stories": [
     {
+      "title": "Trzech przeklętych",
+      "url": "https://www.fantastyka.pl/opowiadania/pokaz/35652",
+      "author": "Jim",
+      "publishedAt": "2026-10-17T18:54+02:00",
+      "comments": 4,
+      "substantiveComments": 4,
+      "commenters": [
+        {
+          "username": "Jim",
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
+          "username": "Bardjaskier",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "CZARNA2",
+          "comments": 1,
+          "substantiveComments": 1
+        }
+      ]
+    },
+    {
       "title": "O potworach",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35590",
       "author": "Szafirowy Smok",
       "publishedAt": "2026-10-16T05:33+02:00",
-      "comments": 28,
-      "substantiveComments": 24,
+      "comments": 29,
+      "substantiveComments": 25,
       "commenters": [
         {
           "username": "Szafirowy Smok",
@@ -170,13 +219,13 @@
           "substantiveComments": 8
         },
         {
-          "username": "beeeecki",
+          "username": "AP",
           "comments": 3,
-          "substantiveComments": 2
+          "substantiveComments": 3
         },
         {
-          "username": "AP",
-          "comments": 2,
+          "username": "beeeecki",
+          "comments": 3,
           "substantiveComments": 2
         },
         {
@@ -236,21 +285,26 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35647",
       "author": "Bardjaskier",
       "publishedAt": "2026-10-16T05:29+02:00",
-      "comments": 16,
-      "substantiveComments": 16,
+      "comments": 19,
+      "substantiveComments": 19,
       "commenters": [
+        {
+          "username": "Bardjaskier",
+          "comments": 5,
+          "substantiveComments": 5
+        },
         {
           "username": "bruce",
           "comments": 5,
           "substantiveComments": 5
         },
         {
-          "username": "Bardjaskier",
-          "comments": 4,
-          "substantiveComments": 4
+          "username": "tlok303",
+          "comments": 3,
+          "substantiveComments": 3
         },
         {
-          "username": "tlok303",
+          "username": "Zielony_Rycerz",
           "comments": 3,
           "substantiveComments": 3
         },
@@ -268,11 +322,6 @@
           "username": "Szafirowy Smok",
           "comments": 1,
           "substantiveComments": 1
-        },
-        {
-          "username": "Zielony_Rycerz",
-          "comments": 1,
-          "substantiveComments": 1
         }
       ]
     },
@@ -281,8 +330,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35638",
       "author": "marzan",
       "publishedAt": "2026-10-16T00:02+02:00",
-      "comments": 22,
-      "substantiveComments": 20,
+      "comments": 24,
+      "substantiveComments": 21,
       "commenters": [
         {
           "username": "marzan",
@@ -295,12 +344,12 @@
           "substantiveComments": 3
         },
         {
-          "username": "Bardjaskier",
-          "comments": 2,
+          "username": "Szafirowy Smok",
+          "comments": 3,
           "substantiveComments": 2
         },
         {
-          "username": "Szafirowy Smok",
+          "username": "Bardjaskier",
           "comments": 2,
           "substantiveComments": 2
         },
@@ -331,6 +380,11 @@
         },
         {
           "username": "MichaelBullfinch",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "nul",
           "comments": 1,
           "substantiveComments": 1
         },
