@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-18T14:37:23+02:00",
+  "updatedAt": "2026-10-18T20:37:46+02:00",
   "summary": {
-    "stories": 4,
-    "authors": 4,
-    "comments": 90,
-    "substantiveComments": 82
+    "stories": 5,
+    "authors": 5,
+    "comments": 100,
+    "substantiveComments": 91
   },
   "users": [
     {
@@ -21,18 +21,18 @@
     {
       "username": "Bardjaskier",
       "submittedStories": 1,
-      "comments": 11,
-      "substantiveComments": 11,
-      "ownStoryComments": 6,
+      "comments": 13,
+      "substantiveComments": 13,
+      "ownStoryComments": 8,
       "storiesCommented": 4
     },
     {
       "username": "bruce",
       "submittedStories": 0,
-      "comments": 10,
-      "substantiveComments": 9,
+      "comments": 12,
+      "substantiveComments": 11,
       "ownStoryComments": 0,
-      "storiesCommented": 3
+      "storiesCommented": 5
     },
     {
       "username": "marzan",
@@ -41,6 +41,14 @@
       "substantiveComments": 9,
       "ownStoryComments": 6,
       "storiesCommented": 3
+    },
+    {
+      "username": "barniusz",
+      "submittedStories": 0,
+      "comments": 6,
+      "substantiveComments": 5,
+      "ownStoryComments": 0,
+      "storiesCommented": 4
     },
     {
       "username": "Zielony_Rycerz",
@@ -55,14 +63,6 @@
       "submittedStories": 0,
       "comments": 5,
       "substantiveComments": 5,
-      "ownStoryComments": 0,
-      "storiesCommented": 3
-    },
-    {
-      "username": "barniusz",
-      "submittedStories": 0,
-      "comments": 4,
-      "substantiveComments": 3,
       "ownStoryComments": 0,
       "storiesCommented": 3
     },
@@ -91,6 +91,14 @@
       "storiesCommented": 1
     },
     {
+      "username": "dawidiq150",
+      "submittedStories": 0,
+      "comments": 3,
+      "substantiveComments": 2,
+      "ownStoryComments": 0,
+      "storiesCommented": 2
+    },
+    {
       "username": "JolkaK",
       "submittedStories": 0,
       "comments": 3,
@@ -100,6 +108,14 @@
     },
     {
       "username": "OneTwo",
+      "submittedStories": 0,
+      "comments": 3,
+      "substantiveComments": 3,
+      "ownStoryComments": 0,
+      "storiesCommented": 2
+    },
+    {
+      "username": "Robert Raks",
       "submittedStories": 0,
       "comments": 3,
       "substantiveComments": 3,
@@ -147,14 +163,6 @@
       "storiesCommented": 1
     },
     {
-      "username": "dawidiq150",
-      "submittedStories": 0,
-      "comments": 1,
-      "substantiveComments": 1,
-      "ownStoryComments": 0,
-      "storiesCommented": 1
-    },
-    {
       "username": "Hesket",
       "submittedStories": 0,
       "comments": 1,
@@ -187,22 +195,37 @@
       "storiesCommented": 1
     },
     {
-      "username": "Robert Raks",
-      "submittedStories": 0,
-      "comments": 1,
-      "substantiveComments": 1,
+      "username": "Storm",
+      "submittedStories": 1,
+      "comments": 0,
+      "substantiveComments": 0,
       "ownStoryComments": 0,
-      "storiesCommented": 1
+      "storiesCommented": 0
     }
   ],
   "stories": [
+    {
+      "title": "Droga miecza",
+      "url": "https://www.fantastyka.pl/opowiadania/pokaz/35562",
+      "author": "Storm",
+      "publishedAt": "2026-10-18T16:46+02:00",
+      "comments": 1,
+      "substantiveComments": 1,
+      "commenters": [
+        {
+          "username": "bruce",
+          "comments": 1,
+          "substantiveComments": 1
+        }
+      ]
+    },
     {
       "title": "Trzech przeklętych",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35652",
       "author": "Jim",
       "publishedAt": "2026-10-17T18:54+02:00",
-      "comments": 7,
-      "substantiveComments": 7,
+      "comments": 9,
+      "substantiveComments": 9,
       "commenters": [
         {
           "username": "Jim",
@@ -213,6 +236,16 @@
           "username": "Bardjaskier",
           "comments": 2,
           "substantiveComments": 2
+        },
+        {
+          "username": "barniusz",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "bruce",
+          "comments": 1,
+          "substantiveComments": 1
         },
         {
           "username": "CZARNA2",
@@ -311,13 +344,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35647",
       "author": "Bardjaskier",
       "publishedAt": "2026-10-16T05:29+02:00",
-      "comments": 22,
-      "substantiveComments": 22,
+      "comments": 29,
+      "substantiveComments": 28,
       "commenters": [
         {
           "username": "Bardjaskier",
-          "comments": 6,
-          "substantiveComments": 6
+          "comments": 8,
+          "substantiveComments": 8
         },
         {
           "username": "bruce",
@@ -336,8 +369,18 @@
         },
         {
           "username": "barniusz",
-          "comments": 1,
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
+          "username": "dawidiq150",
+          "comments": 2,
           "substantiveComments": 1
+        },
+        {
+          "username": "Robert Raks",
+          "comments": 2,
+          "substantiveComments": 2
         },
         {
           "username": "JolkaK",
