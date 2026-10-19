@@ -1,14 +1,14 @@
 {
   "month": "2026-10",
   "period": "01.10.2026 - 15.11.2026",
-  "updatedAt": "2026-10-18T21:31:55+02:00",
+  "updatedAt": "2026-10-19T21:31:59+02:00",
   "results": [
     {
       "username": "Ambush",
       "weekdays": [
         "poniedzialek"
       ],
-      "eligible": 2,
+      "eligible": 5,
       "commented": 0,
       "ownStories": 0,
       "percentage": 0.0,
@@ -19,7 +19,7 @@
       "weekdays": [
         "poniedzialek"
       ],
-      "eligible": 2,
+      "eligible": 5,
       "commented": 0,
       "ownStories": 0,
       "percentage": 0.0,
@@ -53,10 +53,10 @@
         "sroda",
         "sobota"
       ],
-      "eligible": 11,
-      "commented": 9,
+      "eligible": 10,
+      "commented": 8,
       "ownStories": 0,
-      "percentage": 81.8,
+      "percentage": 80.0,
       "passed": true
     },
     {
@@ -64,7 +64,7 @@
       "weekdays": [
         "sroda"
       ],
-      "eligible": 2,
+      "eligible": 1,
       "commented": 0,
       "ownStories": 0,
       "percentage": 0.0,
@@ -76,9 +76,9 @@
         "czwartek"
       ],
       "eligible": 9,
-      "commented": 2,
+      "commented": 3,
       "ownStories": 0,
-      "percentage": 22.2,
+      "percentage": 33.3,
       "passed": false
     },
     {
