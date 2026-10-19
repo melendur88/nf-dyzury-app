@@ -2,28 +2,28 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-18T20:37:46+02:00",
+  "updatedAt": "2026-10-19T02:38:12+02:00",
   "summary": {
     "stories": 5,
     "authors": 5,
-    "comments": 100,
-    "substantiveComments": 91
+    "comments": 106,
+    "substantiveComments": 97
   },
   "users": [
     {
       "username": "Szafirowy Smok",
       "submittedStories": 1,
-      "comments": 16,
-      "substantiveComments": 14,
-      "ownStoryComments": 11,
+      "comments": 17,
+      "substantiveComments": 15,
+      "ownStoryComments": 12,
       "storiesCommented": 4
     },
     {
       "username": "Bardjaskier",
       "submittedStories": 1,
-      "comments": 13,
-      "substantiveComments": 13,
-      "ownStoryComments": 8,
+      "comments": 14,
+      "substantiveComments": 14,
+      "ownStoryComments": 9,
       "storiesCommented": 4
     },
     {
@@ -37,9 +37,9 @@
     {
       "username": "marzan",
       "submittedStories": 1,
-      "comments": 9,
-      "substantiveComments": 9,
-      "ownStoryComments": 6,
+      "comments": 10,
+      "substantiveComments": 10,
+      "ownStoryComments": 7,
       "storiesCommented": 3
     },
     {
@@ -63,6 +63,14 @@
       "submittedStories": 0,
       "comments": 5,
       "substantiveComments": 5,
+      "ownStoryComments": 0,
+      "storiesCommented": 3
+    },
+    {
+      "username": "Robert Raks",
+      "submittedStories": 0,
+      "comments": 4,
+      "substantiveComments": 4,
       "ownStoryComments": 0,
       "storiesCommented": 3
     },
@@ -107,15 +115,15 @@
       "storiesCommented": 3
     },
     {
-      "username": "OneTwo",
+      "username": "Marszawa",
       "submittedStories": 0,
       "comments": 3,
       "substantiveComments": 3,
       "ownStoryComments": 0,
-      "storiesCommented": 2
+      "storiesCommented": 3
     },
     {
-      "username": "Robert Raks",
+      "username": "OneTwo",
       "submittedStories": 0,
       "comments": 3,
       "substantiveComments": 3,
@@ -171,14 +179,6 @@
       "storiesCommented": 1
     },
     {
-      "username": "Marszawa",
-      "submittedStories": 0,
-      "comments": 1,
-      "substantiveComments": 1,
-      "ownStoryComments": 0,
-      "storiesCommented": 1
-    },
-    {
       "username": "nul",
       "submittedStories": 0,
       "comments": 1,
@@ -224,8 +224,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35652",
       "author": "Jim",
       "publishedAt": "2026-10-17T18:54+02:00",
-      "comments": 9,
-      "substantiveComments": 9,
+      "comments": 10,
+      "substantiveComments": 10,
       "commenters": [
         {
           "username": "Jim",
@@ -253,6 +253,11 @@
           "substantiveComments": 1
         },
         {
+          "username": "Marszawa",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
           "username": "Szafirowy Smok",
           "comments": 1,
           "substantiveComments": 1
@@ -264,13 +269,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35590",
       "author": "Szafirowy Smok",
       "publishedAt": "2026-10-16T05:33+02:00",
-      "comments": 33,
-      "substantiveComments": 28,
+      "comments": 35,
+      "substantiveComments": 30,
       "commenters": [
         {
           "username": "Szafirowy Smok",
-          "comments": 11,
-          "substantiveComments": 10
+          "comments": 12,
+          "substantiveComments": 11
         },
         {
           "username": "AP",
@@ -333,6 +338,11 @@
           "substantiveComments": 0
         },
         {
+          "username": "Robert Raks",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
           "username": "tlok303",
           "comments": 1,
           "substantiveComments": 1
@@ -344,13 +354,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35647",
       "author": "Bardjaskier",
       "publishedAt": "2026-10-16T05:29+02:00",
-      "comments": 29,
-      "substantiveComments": 28,
+      "comments": 31,
+      "substantiveComments": 30,
       "commenters": [
         {
           "username": "Bardjaskier",
-          "comments": 8,
-          "substantiveComments": 8
+          "comments": 9,
+          "substantiveComments": 9
         },
         {
           "username": "bruce",
@@ -388,6 +398,11 @@
           "substantiveComments": 1
         },
         {
+          "username": "Marszawa",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
           "username": "marzan",
           "comments": 1,
           "substantiveComments": 1
@@ -409,13 +424,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35638",
       "author": "marzan",
       "publishedAt": "2026-10-16T00:02+02:00",
-      "comments": 28,
-      "substantiveComments": 25,
+      "comments": 29,
+      "substantiveComments": 26,
       "commenters": [
         {
           "username": "marzan",
-          "comments": 6,
-          "substantiveComments": 6
+          "comments": 7,
+          "substantiveComments": 7
         },
         {
           "username": "bruce",
