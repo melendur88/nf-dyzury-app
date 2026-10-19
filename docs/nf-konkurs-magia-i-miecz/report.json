@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-19T02:38:12+02:00",
+  "updatedAt": "2026-10-19T08:38:37+02:00",
   "summary": {
     "stories": 5,
     "authors": 5,
-    "comments": 106,
-    "substantiveComments": 97
+    "comments": 108,
+    "substantiveComments": 99
   },
   "users": [
     {
@@ -37,9 +37,9 @@
     {
       "username": "marzan",
       "submittedStories": 1,
-      "comments": 10,
-      "substantiveComments": 10,
-      "ownStoryComments": 7,
+      "comments": 11,
+      "substantiveComments": 11,
+      "ownStoryComments": 8,
       "storiesCommented": 3
     },
     {
@@ -63,6 +63,14 @@
       "submittedStories": 0,
       "comments": 5,
       "substantiveComments": 5,
+      "ownStoryComments": 0,
+      "storiesCommented": 3
+    },
+    {
+      "username": "OneTwo",
+      "submittedStories": 0,
+      "comments": 4,
+      "substantiveComments": 4,
       "ownStoryComments": 0,
       "storiesCommented": 3
     },
@@ -121,14 +129,6 @@
       "substantiveComments": 3,
       "ownStoryComments": 0,
       "storiesCommented": 3
-    },
-    {
-      "username": "OneTwo",
-      "submittedStories": 0,
-      "comments": 3,
-      "substantiveComments": 3,
-      "ownStoryComments": 0,
-      "storiesCommented": 2
     },
     {
       "username": "freki",
@@ -224,8 +224,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35652",
       "author": "Jim",
       "publishedAt": "2026-10-17T18:54+02:00",
-      "comments": 10,
-      "substantiveComments": 10,
+      "comments": 11,
+      "substantiveComments": 11,
       "commenters": [
         {
           "username": "Jim",
@@ -254,6 +254,11 @@
         },
         {
           "username": "Marszawa",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "OneTwo",
           "comments": 1,
           "substantiveComments": 1
         },
@@ -424,13 +429,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35638",
       "author": "marzan",
       "publishedAt": "2026-10-16T00:02+02:00",
-      "comments": 29,
-      "substantiveComments": 26,
+      "comments": 30,
+      "substantiveComments": 27,
       "commenters": [
         {
           "username": "marzan",
-          "comments": 7,
-          "substantiveComments": 7
+          "comments": 8,
+          "substantiveComments": 8
         },
         {
           "username": "bruce",
