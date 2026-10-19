@@ -45,7 +45,7 @@ fetch("report.json", { cache: "no-store" })
         cell(user.username),
         cell(user.submittedStories),
         cell(user.storiesCommented),
-        cell(`${user.comments} / ${user.substantiveComments}`),
+        cell(user.substantiveComments),
         cell(user.ownStoryComments)
       );
       return row;
