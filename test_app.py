@@ -98,6 +98,17 @@ def test_comment_counts_include_own_and_short_comments() -> None:
     assert parse_comment_counts(html, 10) == {"autor": ("Autor", 2, 1)}
 
 
+def test_comment_counts_ignore_duplicate_content_from_same_author() -> None:
+    html = """
+    <section class="kom">
+      <article><p class="naglowek-kom"><a class="login">Autor</a></p><div class="avek-tekst"><p>jeden dwa trzy cztery piec szesc siedem osiem dziewiec dziesiec</p></div></article>
+      <article><p class="naglowek-kom"><a class="login">autor:</a></p><div class="avek-tekst"><p>  JEDEN dwa trzy cztery piec szesc siedem osiem dziewiec dziesiec  </p></div></article>
+      <article><p class="naglowek-kom"><a class="login">Autor</a></p><div class="avek-tekst"><p>To jest inny komentarz tego samego autora.</p></div></article>
+    </section>
+    """
+    assert parse_comment_counts(html, 10) == {"autor": ("Autor", 2, 1)}
+
+
 def test_month_bounds() -> None:
     start, end = month_bounds("2026-02")
     assert start.strftime("%d.%m.%Y") == "01.02.2026"

@@ -220,6 +220,7 @@ def parse_comment_counts(html: str, min_words: int) -> dict[str, tuple[str, int,
     """Return normalized commenter -> display name, all comments, substantive comments."""
     soup = BeautifulSoup(html, "html.parser")
     commenters: dict[str, tuple[str, int, int]] = {}
+    seen_comments: set[tuple[str, str]] = set()
     for article in soup.select("section.kom > article"):
         link = article.select_one("p.naglowek-kom a.login")
         body = article.select_one("div.avek-tekst")
@@ -234,7 +235,12 @@ def parse_comment_counts(html: str, min_words: int) -> dict[str, tuple[str, int,
             aside.decompose()
         for signature in body.select("p.sygnaturka"):
             signature.decompose()
-        words = len(WORD_RE.findall(" ".join(body.get_text(" ", strip=True).split())))
+        content = " ".join(body.get_text(" ", strip=True).split())
+        fingerprint = (commenter, content.casefold())
+        if fingerprint in seen_comments:
+            continue
+        seen_comments.add(fingerprint)
+        words = len(WORD_RE.findall(content))
         previous_name, comments, substantive = commenters.get(
             commenter, (display_name, 0, 0)
         )
