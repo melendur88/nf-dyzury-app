@@ -2,221 +2,229 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-20T21:58:44+02:00",
+  "updatedAt": "2026-10-21T02:41:56+02:00",
   "summary": {
     "stories": 6,
     "authors": 6,
-    "comments": 160,
-    "substantiveComments": 144
+    "comments": 165,
+    "substantiveComments": 149
   },
   "users": [
     {
       "username": "Szafirowy Smok",
       "submittedStories": 1,
-      "storiesCommented": 6,
       "comments": 21,
       "substantiveComments": 19,
-      "ownStoryComments": 14
+      "ownStoryComments": 14,
+      "storiesCommented": 6
     },
     {
       "username": "Bardjaskier",
       "submittedStories": 1,
-      "storiesCommented": 4,
       "comments": 18,
       "substantiveComments": 17,
-      "ownStoryComments": 13
+      "ownStoryComments": 13,
+      "storiesCommented": 4
     },
     {
       "username": "bruce",
       "submittedStories": 0,
-      "storiesCommented": 6,
       "comments": 18,
       "substantiveComments": 15,
-      "ownStoryComments": 0
+      "ownStoryComments": 0,
+      "storiesCommented": 6
     },
     {
       "username": "marzan",
       "submittedStories": 1,
-      "storiesCommented": 4,
-      "comments": 15,
-      "substantiveComments": 15,
-      "ownStoryComments": 9
+      "comments": 17,
+      "substantiveComments": 17,
+      "ownStoryComments": 10,
+      "storiesCommented": 4
     },
     {
       "username": "dawidiq150",
       "submittedStories": 1,
-      "storiesCommented": 5,
       "comments": 10,
       "substantiveComments": 9,
-      "ownStoryComments": 5
+      "ownStoryComments": 5,
+      "storiesCommented": 5
     },
     {
       "username": "tlok303",
       "submittedStories": 0,
-      "storiesCommented": 6,
       "comments": 9,
       "substantiveComments": 8,
-      "ownStoryComments": 0
-    },
-    {
-      "username": "barniusz",
-      "submittedStories": 0,
-      "storiesCommented": 6,
-      "comments": 8,
-      "substantiveComments": 7,
-      "ownStoryComments": 0
+      "ownStoryComments": 0,
+      "storiesCommented": 6
     },
     {
       "username": "Zielony_Rycerz",
       "submittedStories": 0,
-      "storiesCommented": 4,
+      "comments": 9,
+      "substantiveComments": 9,
+      "ownStoryComments": 0,
+      "storiesCommented": 4
+    },
+    {
+      "username": "barniusz",
+      "submittedStories": 0,
       "comments": 8,
-      "substantiveComments": 8,
-      "ownStoryComments": 0
+      "substantiveComments": 7,
+      "ownStoryComments": 0,
+      "storiesCommented": 6
     },
     {
       "username": "Jim",
       "submittedStories": 1,
-      "storiesCommented": 1,
       "comments": 5,
       "substantiveComments": 5,
-      "ownStoryComments": 5
+      "ownStoryComments": 5,
+      "storiesCommented": 1
     },
     {
       "username": "Storm",
       "submittedStories": 1,
-      "storiesCommented": 3,
       "comments": 5,
       "substantiveComments": 5,
-      "ownStoryComments": 2
+      "ownStoryComments": 2,
+      "storiesCommented": 3
     },
     {
       "username": "OneTwo",
       "submittedStories": 0,
-      "storiesCommented": 4,
       "comments": 5,
       "substantiveComments": 5,
-      "ownStoryComments": 0
+      "ownStoryComments": 0,
+      "storiesCommented": 4
     },
     {
       "username": "Robert Raks",
       "submittedStories": 0,
-      "storiesCommented": 4,
       "comments": 5,
       "substantiveComments": 5,
-      "ownStoryComments": 0
+      "ownStoryComments": 0,
+      "storiesCommented": 4
     },
     {
       "username": "AP",
       "submittedStories": 0,
-      "storiesCommented": 1,
       "comments": 3,
       "substantiveComments": 3,
-      "ownStoryComments": 0
+      "ownStoryComments": 0,
+      "storiesCommented": 1
     },
     {
       "username": "beeeecki",
       "submittedStories": 0,
-      "storiesCommented": 1,
       "comments": 3,
       "substantiveComments": 2,
-      "ownStoryComments": 0
+      "ownStoryComments": 0,
+      "storiesCommented": 1
     },
     {
       "username": "Hesket",
       "submittedStories": 0,
-      "storiesCommented": 3,
       "comments": 3,
       "substantiveComments": 3,
-      "ownStoryComments": 0
+      "ownStoryComments": 0,
+      "storiesCommented": 3
     },
     {
       "username": "JolkaK",
       "submittedStories": 0,
-      "storiesCommented": 3,
       "comments": 3,
       "substantiveComments": 3,
-      "ownStoryComments": 0
+      "ownStoryComments": 0,
+      "storiesCommented": 3
     },
     {
       "username": "Marszawa",
       "submittedStories": 0,
-      "storiesCommented": 3,
       "comments": 3,
       "substantiveComments": 3,
-      "ownStoryComments": 0
+      "ownStoryComments": 0,
+      "storiesCommented": 3
     },
     {
       "username": "melendur88",
       "submittedStories": 0,
-      "storiesCommented": 3,
       "comments": 3,
       "substantiveComments": 0,
-      "ownStoryComments": 0
+      "ownStoryComments": 0,
+      "storiesCommented": 3
     },
     {
       "username": "MichaelBullfinch",
       "submittedStories": 0,
-      "storiesCommented": 3,
       "comments": 3,
       "substantiveComments": 3,
-      "ownStoryComments": 0
+      "ownStoryComments": 0,
+      "storiesCommented": 3
     },
     {
       "username": "OldGuard",
       "submittedStories": 0,
-      "storiesCommented": 3,
       "comments": 3,
       "substantiveComments": 0,
-      "ownStoryComments": 0
-    },
-    {
-      "username": "CZARNA2",
-      "submittedStories": 0,
-      "storiesCommented": 2,
-      "comments": 2,
-      "substantiveComments": 2,
-      "ownStoryComments": 0
-    },
-    {
-      "username": "freki",
-      "submittedStories": 0,
-      "storiesCommented": 2,
-      "comments": 2,
-      "substantiveComments": 2,
-      "ownStoryComments": 0
+      "ownStoryComments": 0,
+      "storiesCommented": 3
     },
     {
       "username": "UnaBomba",
       "submittedStories": 0,
-      "storiesCommented": 2,
+      "comments": 3,
+      "substantiveComments": 3,
+      "ownStoryComments": 0,
+      "storiesCommented": 2
+    },
+    {
+      "username": "CZARNA2",
+      "submittedStories": 0,
       "comments": 2,
       "substantiveComments": 2,
-      "ownStoryComments": 0
+      "ownStoryComments": 0,
+      "storiesCommented": 2
+    },
+    {
+      "username": "freki",
+      "submittedStories": 0,
+      "comments": 2,
+      "substantiveComments": 2,
+      "ownStoryComments": 0,
+      "storiesCommented": 2
     },
     {
       "username": "Caern",
       "submittedStories": 0,
-      "storiesCommented": 1,
       "comments": 1,
       "substantiveComments": 1,
-      "ownStoryComments": 0
+      "ownStoryComments": 0,
+      "storiesCommented": 1
     },
     {
       "username": "jonaszf",
       "submittedStories": 0,
-      "storiesCommented": 1,
       "comments": 1,
       "substantiveComments": 1,
-      "ownStoryComments": 0
+      "ownStoryComments": 0,
+      "storiesCommented": 1
     },
     {
       "username": "nul",
       "submittedStories": 0,
-      "storiesCommented": 1,
       "comments": 1,
       "substantiveComments": 1,
-      "ownStoryComments": 0
+      "ownStoryComments": 0,
+      "storiesCommented": 1
+    },
+    {
+      "username": "SknerusMacKwacz",
+      "submittedStories": 0,
+      "comments": 1,
+      "substantiveComments": 1,
+      "ownStoryComments": 0,
+      "storiesCommented": 1
     }
   ],
   "stories": [
@@ -224,7 +232,7 @@
       "title": "Przemiana",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35662",
       "author": "dawidiq150",
-      "publishedAt": "2026-10-19T14:30",
+      "publishedAt": "2026-10-19T14:30+02:00",
       "comments": 14,
       "substantiveComments": 14,
       "commenters": [
@@ -279,7 +287,7 @@
       "title": "Droga miecza",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35562",
       "author": "Storm",
-      "publishedAt": "2026-10-18T16:46",
+      "publishedAt": "2026-10-18T16:46+02:00",
       "comments": 12,
       "substantiveComments": 10,
       "commenters": [
@@ -324,9 +332,9 @@
       "title": "Trzech przeklętych",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35652",
       "author": "Jim",
-      "publishedAt": "2026-10-17T18:54",
-      "comments": 20,
-      "substantiveComments": 19,
+      "publishedAt": "2026-10-17T18:54+02:00",
+      "comments": 21,
+      "substantiveComments": 20,
       "commenters": [
         {
           "username": "Jim",
@@ -342,6 +350,11 @@
           "username": "bruce",
           "comments": 2,
           "substantiveComments": 1
+        },
+        {
+          "username": "Zielony_Rycerz",
+          "comments": 2,
+          "substantiveComments": 2
         },
         {
           "username": "barniusz",
@@ -392,11 +405,6 @@
           "username": "UnaBomba",
           "comments": 1,
           "substantiveComments": 1
-        },
-        {
-          "username": "Zielony_Rycerz",
-          "comments": 1,
-          "substantiveComments": 1
         }
       ]
     },
@@ -404,7 +412,7 @@
       "title": "O potworach",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35590",
       "author": "Szafirowy Smok",
-      "publishedAt": "2026-10-16T05:33",
+      "publishedAt": "2026-10-16T05:33+02:00",
       "comments": 40,
       "substantiveComments": 34,
       "commenters": [
@@ -504,9 +512,9 @@
       "title": "Cena sławy",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35647",
       "author": "Bardjaskier",
-      "publishedAt": "2026-10-16T05:29",
-      "comments": 41,
-      "substantiveComments": 37,
+      "publishedAt": "2026-10-16T05:29+02:00",
+      "comments": 42,
+      "substantiveComments": 38,
       "commenters": [
         {
           "username": "Bardjaskier",
@@ -520,8 +528,8 @@
         },
         {
           "username": "marzan",
-          "comments": 3,
-          "substantiveComments": 3
+          "comments": 4,
+          "substantiveComments": 4
         },
         {
           "username": "tlok303",
@@ -589,14 +597,14 @@
       "title": "Oda do pogardy",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35638",
       "author": "marzan",
-      "publishedAt": "2026-10-16T00:02",
-      "comments": 33,
-      "substantiveComments": 30,
+      "publishedAt": "2026-10-16T00:02+02:00",
+      "comments": 36,
+      "substantiveComments": 33,
       "commenters": [
         {
           "username": "marzan",
-          "comments": 9,
-          "substantiveComments": 9
+          "comments": 10,
+          "substantiveComments": 10
         },
         {
           "username": "bruce",
@@ -610,6 +618,11 @@
         },
         {
           "username": "Bardjaskier",
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
+          "username": "UnaBomba",
           "comments": 2,
           "substantiveComments": 2
         },
@@ -679,12 +692,12 @@
           "substantiveComments": 1
         },
         {
-          "username": "tlok303",
+          "username": "SknerusMacKwacz",
           "comments": 1,
           "substantiveComments": 1
         },
         {
-          "username": "UnaBomba",
+          "username": "tlok303",
           "comments": 1,
           "substantiveComments": 1
         }
