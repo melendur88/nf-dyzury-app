@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-21T02:41:56+02:00",
+  "updatedAt": "2026-10-21T08:42:24+02:00",
   "summary": {
     "stories": 6,
     "authors": 6,
-    "comments": 165,
-    "substantiveComments": 149
+    "comments": 167,
+    "substantiveComments": 151
   },
   "users": [
     {
@@ -21,9 +21,17 @@
     {
       "username": "Bardjaskier",
       "submittedStories": 1,
+      "comments": 19,
+      "substantiveComments": 18,
+      "ownStoryComments": 14,
+      "storiesCommented": 4
+    },
+    {
+      "username": "marzan",
+      "submittedStories": 1,
       "comments": 18,
-      "substantiveComments": 17,
-      "ownStoryComments": 13,
+      "substantiveComments": 18,
+      "ownStoryComments": 11,
       "storiesCommented": 4
     },
     {
@@ -33,14 +41,6 @@
       "substantiveComments": 15,
       "ownStoryComments": 0,
       "storiesCommented": 6
-    },
-    {
-      "username": "marzan",
-      "submittedStories": 1,
-      "comments": 17,
-      "substantiveComments": 17,
-      "ownStoryComments": 10,
-      "storiesCommented": 4
     },
     {
       "username": "dawidiq150",
@@ -513,13 +513,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35647",
       "author": "Bardjaskier",
       "publishedAt": "2026-10-16T05:29+02:00",
-      "comments": 42,
-      "substantiveComments": 38,
+      "comments": 43,
+      "substantiveComments": 39,
       "commenters": [
         {
           "username": "Bardjaskier",
-          "comments": 13,
-          "substantiveComments": 12
+          "comments": 14,
+          "substantiveComments": 13
         },
         {
           "username": "bruce",
@@ -598,13 +598,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35638",
       "author": "marzan",
       "publishedAt": "2026-10-16T00:02+02:00",
-      "comments": 36,
-      "substantiveComments": 33,
+      "comments": 37,
+      "substantiveComments": 34,
       "commenters": [
         {
           "username": "marzan",
-          "comments": 10,
-          "substantiveComments": 10
+          "comments": 11,
+          "substantiveComments": 11
         },
         {
           "username": "bruce",
