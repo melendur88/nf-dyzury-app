@@ -1,7 +1,7 @@
 {
   "month": "2026-10",
   "period": "01.10.2026 - 15.11.2026",
-  "updatedAt": "2026-10-20T21:32:13+02:00",
+  "updatedAt": "2026-10-22T21:32:15+02:00",
   "results": [
     {
       "username": "Ambush",
@@ -9,9 +9,9 @@
         "poniedzialek"
       ],
       "eligible": 6,
-      "commented": 0,
+      "commented": 2,
       "ownStories": 0,
-      "percentage": 0.0,
+      "percentage": 33.3,
       "passed": false
     },
     {
@@ -20,9 +20,9 @@
         "poniedzialek"
       ],
       "eligible": 6,
-      "commented": 0,
+      "commented": 2,
       "ownStories": 0,
-      "percentage": 0.0,
+      "percentage": 33.3,
       "passed": false
     },
     {
@@ -30,7 +30,7 @@
       "weekdays": [
         "wtorek"
       ],
-      "eligible": 7,
+      "eligible": 8,
       "commented": 0,
       "ownStories": 0,
       "percentage": 0.0,
@@ -41,10 +41,10 @@
       "weekdays": [
         "wtorek"
       ],
-      "eligible": 7,
+      "eligible": 8,
       "commented": 1,
       "ownStories": 0,
-      "percentage": 14.3,
+      "percentage": 12.5,
       "passed": false
     },
     {
@@ -53,10 +53,10 @@
         "sroda",
         "sobota"
       ],
-      "eligible": 10,
-      "commented": 8,
+      "eligible": 11,
+      "commented": 10,
       "ownStories": 0,
-      "percentage": 80.0,
+      "percentage": 90.9,
       "passed": true
     },
     {
@@ -64,7 +64,7 @@
       "weekdays": [
         "sroda"
       ],
-      "eligible": 1,
+      "eligible": 2,
       "commented": 0,
       "ownStories": 0,
       "percentage": 0.0,
@@ -75,10 +75,10 @@
       "weekdays": [
         "czwartek"
       ],
-      "eligible": 9,
-      "commented": 3,
+      "eligible": 11,
+      "commented": 4,
       "ownStories": 0,
-      "percentage": 33.3,
+      "percentage": 36.4,
       "passed": false
     },
     {
@@ -86,10 +86,10 @@
       "weekdays": [
         "czwartek"
       ],
-      "eligible": 9,
-      "commented": 9,
+      "eligible": 11,
+      "commented": 10,
       "ownStories": 0,
-      "percentage": 100.0,
+      "percentage": 90.9,
       "passed": true
     },
     {
