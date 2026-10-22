@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-22T14:45:11+02:00",
+  "updatedAt": "2026-10-22T20:45:40+02:00",
   "summary": {
     "stories": 6,
     "authors": 6,
-    "comments": 177,
-    "substantiveComments": 159
+    "comments": 183,
+    "substantiveComments": 165
   },
   "users": [
     {
@@ -29,9 +29,9 @@
     {
       "username": "marzan",
       "submittedStories": 1,
-      "comments": 18,
-      "substantiveComments": 18,
-      "ownStoryComments": 11,
+      "comments": 20,
+      "substantiveComments": 20,
+      "ownStoryComments": 13,
       "storiesCommented": 4
     },
     {
@@ -91,6 +91,14 @@
       "storiesCommented": 3
     },
     {
+      "username": "Robert Raks",
+      "submittedStories": 0,
+      "comments": 6,
+      "substantiveComments": 6,
+      "ownStoryComments": 0,
+      "storiesCommented": 5
+    },
+    {
       "username": "OneTwo",
       "submittedStories": 0,
       "comments": 5,
@@ -99,12 +107,12 @@
       "storiesCommented": 4
     },
     {
-      "username": "Robert Raks",
+      "username": "beeeecki",
       "submittedStories": 0,
-      "comments": 5,
-      "substantiveComments": 5,
+      "comments": 4,
+      "substantiveComments": 3,
       "ownStoryComments": 0,
-      "storiesCommented": 4
+      "storiesCommented": 2
     },
     {
       "username": "Hesket",
@@ -131,12 +139,12 @@
       "storiesCommented": 1
     },
     {
-      "username": "beeeecki",
+      "username": "GalicyjskiZakapior",
       "submittedStories": 0,
       "comments": 3,
-      "substantiveComments": 2,
+      "substantiveComments": 3,
       "ownStoryComments": 0,
-      "storiesCommented": 1
+      "storiesCommented": 2
     },
     {
       "username": "JolkaK",
@@ -204,14 +212,6 @@
     },
     {
       "username": "Caern",
-      "submittedStories": 0,
-      "comments": 1,
-      "substantiveComments": 1,
-      "ownStoryComments": 0,
-      "storiesCommented": 1
-    },
-    {
-      "username": "GalicyjskiZakapior",
       "submittedStories": 0,
       "comments": 1,
       "substantiveComments": 1,
@@ -296,8 +296,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35562",
       "author": "Storm",
       "publishedAt": "2026-10-18T16:46+02:00",
-      "comments": 14,
-      "substantiveComments": 12,
+      "comments": 15,
+      "substantiveComments": 13,
       "commenters": [
         {
           "username": "bruce",
@@ -335,6 +335,11 @@
           "substantiveComments": 1
         },
         {
+          "username": "Robert Raks",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
           "username": "Szafirowy Smok",
           "comments": 1,
           "substantiveComments": 1
@@ -346,8 +351,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35652",
       "author": "Jim",
       "publishedAt": "2026-10-17T18:54+02:00",
-      "comments": 24,
-      "substantiveComments": 21,
+      "comments": 25,
+      "substantiveComments": 22,
       "commenters": [
         {
           "username": "Jim",
@@ -371,6 +376,11 @@
         },
         {
           "username": "barniusz",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "beeeecki",
           "comments": 1,
           "substantiveComments": 1
         },
@@ -531,8 +541,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35647",
       "author": "Bardjaskier",
       "publishedAt": "2026-10-16T05:29+02:00",
-      "comments": 47,
-      "substantiveComments": 43,
+      "comments": 48,
+      "substantiveComments": 44,
       "commenters": [
         {
           "username": "Bardjaskier",
@@ -578,6 +588,11 @@
           "username": "Storm",
           "comments": 2,
           "substantiveComments": 2
+        },
+        {
+          "username": "GalicyjskiZakapior",
+          "comments": 1,
+          "substantiveComments": 1
         },
         {
           "username": "Hesket",
@@ -626,13 +641,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35638",
       "author": "marzan",
       "publishedAt": "2026-10-16T00:02+02:00",
-      "comments": 38,
-      "substantiveComments": 35,
+      "comments": 41,
+      "substantiveComments": 38,
       "commenters": [
         {
           "username": "marzan",
-          "comments": 11,
-          "substantiveComments": 11
+          "comments": 13,
+          "substantiveComments": 13
         },
         {
           "username": "bruce",
@@ -646,6 +661,11 @@
         },
         {
           "username": "Bardjaskier",
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
+          "username": "GalicyjskiZakapior",
           "comments": 2,
           "substantiveComments": 2
         },
@@ -676,11 +696,6 @@
         },
         {
           "username": "freki",
-          "comments": 1,
-          "substantiveComments": 1
-        },
-        {
-          "username": "GalicyjskiZakapior",
           "comments": 1,
           "substantiveComments": 1
         },
