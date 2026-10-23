@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-23T08:46:39+02:00",
+  "updatedAt": "2026-10-23T14:47:10+02:00",
   "summary": {
-    "stories": 6,
-    "authors": 6,
-    "comments": 187,
-    "substantiveComments": 169
+    "stories": 7,
+    "authors": 7,
+    "comments": 191,
+    "substantiveComments": 173
   },
   "users": [
     {
@@ -21,9 +21,9 @@
     {
       "username": "Szafirowy Smok",
       "submittedStories": 1,
-      "comments": 21,
-      "substantiveComments": 19,
-      "ownStoryComments": 14,
+      "comments": 23,
+      "substantiveComments": 21,
+      "ownStoryComments": 15,
       "storiesCommented": 6
     },
     {
@@ -37,8 +37,8 @@
     {
       "username": "bruce",
       "submittedStories": 0,
-      "comments": 18,
-      "substantiveComments": 15,
+      "comments": 19,
+      "substantiveComments": 16,
       "ownStoryComments": 0,
       "storiesCommented": 6
     },
@@ -51,20 +51,20 @@
       "storiesCommented": 6
     },
     {
+      "username": "Zielony_Rycerz",
+      "submittedStories": 0,
+      "comments": 10,
+      "substantiveComments": 10,
+      "ownStoryComments": 0,
+      "storiesCommented": 5
+    },
+    {
       "username": "tlok303",
       "submittedStories": 0,
       "comments": 9,
       "substantiveComments": 8,
       "ownStoryComments": 0,
       "storiesCommented": 6
-    },
-    {
-      "username": "Zielony_Rycerz",
-      "submittedStories": 0,
-      "comments": 9,
-      "substantiveComments": 9,
-      "ownStoryComments": 0,
-      "storiesCommented": 4
     },
     {
       "username": "barniusz",
@@ -108,7 +108,7 @@
     },
     {
       "username": "beeeecki",
-      "submittedStories": 0,
+      "submittedStories": 1,
       "comments": 4,
       "substantiveComments": 3,
       "ownStoryComments": 0,
@@ -237,6 +237,15 @@
   ],
   "stories": [
     {
+      "title": "Sprawy zbyt poważne",
+      "url": "https://www.fantastyka.pl/opowiadania/pokaz/35651",
+      "author": "beeeecki",
+      "publishedAt": "2026-10-23T14:21+02:00",
+      "comments": 0,
+      "substantiveComments": 0,
+      "commenters": []
+    },
+    {
       "title": "Przemiana",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35662",
       "author": "dawidiq150",
@@ -296,8 +305,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35562",
       "author": "Storm",
       "publishedAt": "2026-10-18T16:46+02:00",
-      "comments": 17,
-      "substantiveComments": 15,
+      "comments": 18,
+      "substantiveComments": 16,
       "commenters": [
         {
           "username": "bruce",
@@ -348,6 +357,11 @@
           "username": "Szafirowy Smok",
           "comments": 1,
           "substantiveComments": 1
+        },
+        {
+          "username": "Zielony_Rycerz",
+          "comments": 1,
+          "substantiveComments": 1
         }
       ]
     },
@@ -356,8 +370,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35652",
       "author": "Jim",
       "publishedAt": "2026-10-17T18:54+02:00",
-      "comments": 25,
-      "substantiveComments": 22,
+      "comments": 26,
+      "substantiveComments": 23,
       "commenters": [
         {
           "username": "Jim",
@@ -371,8 +385,8 @@
         },
         {
           "username": "bruce",
-          "comments": 2,
-          "substantiveComments": 1
+          "comments": 3,
+          "substantiveComments": 2
         },
         {
           "username": "Zielony_Rycerz",
@@ -446,13 +460,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35590",
       "author": "Szafirowy Smok",
       "publishedAt": "2026-10-16T05:33+02:00",
-      "comments": 41,
-      "substantiveComments": 35,
+      "comments": 42,
+      "substantiveComments": 36,
       "commenters": [
         {
           "username": "Szafirowy Smok",
-          "comments": 14,
-          "substantiveComments": 13
+          "comments": 15,
+          "substantiveComments": 14
         },
         {
           "username": "AP",
@@ -651,8 +665,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35638",
       "author": "marzan",
       "publishedAt": "2026-10-16T00:02+02:00",
-      "comments": 41,
-      "substantiveComments": 38,
+      "comments": 42,
+      "substantiveComments": 39,
       "commenters": [
         {
           "username": "marzan",
@@ -660,14 +674,14 @@
           "substantiveComments": 13
         },
         {
-          "username": "bruce",
-          "comments": 3,
+          "username": "Szafirowy Smok",
+          "comments": 4,
           "substantiveComments": 3
         },
         {
-          "username": "Szafirowy Smok",
+          "username": "bruce",
           "comments": 3,
-          "substantiveComments": 2
+          "substantiveComments": 3
         },
         {
           "username": "Bardjaskier",
