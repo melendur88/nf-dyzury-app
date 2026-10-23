@@ -2,20 +2,20 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-22T20:45:40+02:00",
+  "updatedAt": "2026-10-23T02:46:09+02:00",
   "summary": {
     "stories": 6,
     "authors": 6,
-    "comments": 183,
-    "substantiveComments": 165
+    "comments": 187,
+    "substantiveComments": 169
   },
   "users": [
     {
       "username": "Bardjaskier",
       "submittedStories": 1,
-      "comments": 23,
-      "substantiveComments": 21,
-      "ownStoryComments": 16,
+      "comments": 24,
+      "substantiveComments": 22,
+      "ownStoryComments": 17,
       "storiesCommented": 5
     },
     {
@@ -45,10 +45,10 @@
     {
       "username": "dawidiq150",
       "submittedStories": 1,
-      "comments": 10,
-      "substantiveComments": 9,
+      "comments": 11,
+      "substantiveComments": 10,
       "ownStoryComments": 5,
-      "storiesCommented": 5
+      "storiesCommented": 6
     },
     {
       "username": "tlok303",
@@ -75,20 +75,20 @@
       "storiesCommented": 6
     },
     {
+      "username": "Storm",
+      "submittedStories": 1,
+      "comments": 7,
+      "substantiveComments": 7,
+      "ownStoryComments": 4,
+      "storiesCommented": 3
+    },
+    {
       "username": "Jim",
       "submittedStories": 1,
       "comments": 6,
       "substantiveComments": 6,
       "ownStoryComments": 6,
       "storiesCommented": 1
-    },
-    {
-      "username": "Storm",
-      "submittedStories": 1,
-      "comments": 6,
-      "substantiveComments": 6,
-      "ownStoryComments": 3,
-      "storiesCommented": 3
     },
     {
       "username": "Robert Raks",
@@ -179,6 +179,14 @@
       "storiesCommented": 3
     },
     {
+      "username": "SknerusMacKwacz",
+      "submittedStories": 0,
+      "comments": 3,
+      "substantiveComments": 3,
+      "ownStoryComments": 0,
+      "storiesCommented": 3
+    },
+    {
       "username": "UnaBomba",
       "submittedStories": 0,
       "comments": 3,
@@ -196,14 +204,6 @@
     },
     {
       "username": "freki",
-      "submittedStories": 0,
-      "comments": 2,
-      "substantiveComments": 2,
-      "ownStoryComments": 0,
-      "storiesCommented": 2
-    },
-    {
-      "username": "SknerusMacKwacz",
       "submittedStories": 0,
       "comments": 2,
       "substantiveComments": 2,
@@ -296,8 +296,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35562",
       "author": "Storm",
       "publishedAt": "2026-10-18T16:46+02:00",
-      "comments": 15,
-      "substantiveComments": 13,
+      "comments": 17,
+      "substantiveComments": 15,
       "commenters": [
         {
           "username": "bruce",
@@ -306,8 +306,8 @@
         },
         {
           "username": "Storm",
-          "comments": 3,
-          "substantiveComments": 3
+          "comments": 4,
+          "substantiveComments": 4
         },
         {
           "username": "tlok303",
@@ -321,6 +321,11 @@
         },
         {
           "username": "barniusz",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "dawidiq150",
           "comments": 1,
           "substantiveComments": 1
         },
@@ -441,8 +446,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35590",
       "author": "Szafirowy Smok",
       "publishedAt": "2026-10-16T05:33+02:00",
-      "comments": 40,
-      "substantiveComments": 34,
+      "comments": 41,
+      "substantiveComments": 35,
       "commenters": [
         {
           "username": "Szafirowy Smok",
@@ -530,6 +535,11 @@
           "substantiveComments": 1
         },
         {
+          "username": "SknerusMacKwacz",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
           "username": "tlok303",
           "comments": 1,
           "substantiveComments": 1
@@ -541,13 +551,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35647",
       "author": "Bardjaskier",
       "publishedAt": "2026-10-16T05:29+02:00",
-      "comments": 48,
-      "substantiveComments": 44,
+      "comments": 49,
+      "substantiveComments": 45,
       "commenters": [
         {
           "username": "Bardjaskier",
-          "comments": 16,
-          "substantiveComments": 15
+          "comments": 17,
+          "substantiveComments": 16
         },
         {
           "username": "bruce",
