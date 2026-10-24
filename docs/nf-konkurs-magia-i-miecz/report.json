@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-23T20:47:41+02:00",
+  "updatedAt": "2026-10-24T02:48:11+02:00",
   "summary": {
     "stories": 7,
     "authors": 7,
-    "comments": 204,
-    "substantiveComments": 186
+    "comments": 206,
+    "substantiveComments": 188
   },
   "users": [
     {
@@ -67,6 +67,14 @@
       "storiesCommented": 7
     },
     {
+      "username": "beeeecki",
+      "submittedStories": 1,
+      "comments": 8,
+      "substantiveComments": 7,
+      "ownStoryComments": 4,
+      "storiesCommented": 3
+    },
+    {
       "username": "Storm",
       "submittedStories": 1,
       "comments": 8,
@@ -81,14 +89,6 @@
       "substantiveComments": 7,
       "ownStoryComments": 0,
       "storiesCommented": 6
-    },
-    {
-      "username": "beeeecki",
-      "submittedStories": 1,
-      "comments": 6,
-      "substantiveComments": 5,
-      "ownStoryComments": 2,
-      "storiesCommented": 3
     },
     {
       "username": "Jim",
@@ -257,13 +257,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35651",
       "author": "beeeecki",
       "publishedAt": "2026-10-23T14:21+02:00",
-      "comments": 8,
-      "substantiveComments": 8,
+      "comments": 10,
+      "substantiveComments": 10,
       "commenters": [
         {
           "username": "beeeecki",
-          "comments": 2,
-          "substantiveComments": 2
+          "comments": 4,
+          "substantiveComments": 4
         },
         {
           "username": "HollyHell91",
