@@ -2,11 +2,11 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-24T02:48:11+02:00",
+  "updatedAt": "2026-10-24T08:48:44+02:00",
   "summary": {
     "stories": 7,
     "authors": 7,
-    "comments": 206,
+    "comments": 207,
     "substantiveComments": 188
   },
   "users": [
@@ -37,7 +37,7 @@
     {
       "username": "bruce",
       "submittedStories": 0,
-      "comments": 20,
+      "comments": 21,
       "substantiveComments": 17,
       "ownStoryComments": 0,
       "storiesCommented": 7
@@ -257,7 +257,7 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35651",
       "author": "beeeecki",
       "publishedAt": "2026-10-23T14:21+02:00",
-      "comments": 10,
+      "comments": 11,
       "substantiveComments": 10,
       "commenters": [
         {
@@ -266,14 +266,14 @@
           "substantiveComments": 4
         },
         {
+          "username": "bruce",
+          "comments": 2,
+          "substantiveComments": 1
+        },
+        {
           "username": "HollyHell91",
           "comments": 2,
           "substantiveComments": 2
-        },
-        {
-          "username": "bruce",
-          "comments": 1,
-          "substantiveComments": 1
         },
         {
           "username": "Grzesiek_W",
