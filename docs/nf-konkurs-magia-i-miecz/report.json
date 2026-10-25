@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-25T02:50:26+02:00",
+  "updatedAt": "2026-10-25T07:51:02+01:00",
   "summary": {
     "stories": 7,
     "authors": 7,
-    "comments": 235,
-    "substantiveComments": 216
+    "comments": 236,
+    "substantiveComments": 217
   },
   "users": [
     {
@@ -45,8 +45,8 @@
     {
       "username": "Zielony_Rycerz",
       "submittedStories": 0,
-      "comments": 14,
-      "substantiveComments": 14,
+      "comments": 15,
+      "substantiveComments": 15,
       "ownStoryComments": 0,
       "storiesCommented": 7
     },
@@ -273,8 +273,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35651",
       "author": "beeeecki",
       "publishedAt": "2026-10-23T14:21+02:00",
-      "comments": 25,
-      "substantiveComments": 25,
+      "comments": 26,
+      "substantiveComments": 26,
       "commenters": [
         {
           "username": "beeeecki",
@@ -285,6 +285,11 @@
           "username": "bruce",
           "comments": 4,
           "substantiveComments": 4
+        },
+        {
+          "username": "Zielony_Rycerz",
+          "comments": 3,
+          "substantiveComments": 3
         },
         {
           "username": "HollyHell91",
@@ -298,11 +303,6 @@
         },
         {
           "username": "tlok303",
-          "comments": 2,
-          "substantiveComments": 2
-        },
-        {
-          "username": "Zielony_Rycerz",
           "comments": 2,
           "substantiveComments": 2
         },
