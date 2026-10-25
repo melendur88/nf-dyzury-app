@@ -2,19 +2,19 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-25T13:51:39+01:00",
+  "updatedAt": "2026-10-25T19:52:15+01:00",
   "summary": {
     "stories": 7,
     "authors": 7,
-    "comments": 241,
-    "substantiveComments": 222
+    "comments": 242,
+    "substantiveComments": 223
   },
   "users": [
     {
       "username": "Szafirowy Smok",
       "submittedStories": 1,
-      "comments": 29,
-      "substantiveComments": 27,
+      "comments": 30,
+      "substantiveComments": 28,
       "ownStoryComments": 16,
       "storiesCommented": 7
     },
@@ -793,8 +793,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35638",
       "author": "marzan",
       "publishedAt": "2026-10-16T00:02+02:00",
-      "comments": 49,
-      "substantiveComments": 46,
+      "comments": 50,
+      "substantiveComments": 47,
       "commenters": [
         {
           "username": "marzan",
@@ -803,8 +803,8 @@
         },
         {
           "username": "Szafirowy Smok",
-          "comments": 7,
-          "substantiveComments": 6
+          "comments": 8,
+          "substantiveComments": 7
         },
         {
           "username": "bruce",
