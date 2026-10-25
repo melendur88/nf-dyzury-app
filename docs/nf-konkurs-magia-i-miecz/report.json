@@ -2,19 +2,19 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-24T20:49:48+02:00",
+  "updatedAt": "2026-10-25T02:50:26+02:00",
   "summary": {
     "stories": 7,
     "authors": 7,
-    "comments": 227,
-    "substantiveComments": 208
+    "comments": 235,
+    "substantiveComments": 216
   },
   "users": [
     {
       "username": "Szafirowy Smok",
       "submittedStories": 1,
-      "comments": 26,
-      "substantiveComments": 24,
+      "comments": 27,
+      "substantiveComments": 25,
       "ownStoryComments": 15,
       "storiesCommented": 7
     },
@@ -27,20 +27,20 @@
       "storiesCommented": 5
     },
     {
+      "username": "marzan",
+      "submittedStories": 1,
+      "comments": 24,
+      "substantiveComments": 24,
+      "ownStoryComments": 15,
+      "storiesCommented": 5
+    },
+    {
       "username": "bruce",
       "submittedStories": 0,
       "comments": 24,
       "substantiveComments": 20,
       "ownStoryComments": 0,
       "storiesCommented": 7
-    },
-    {
-      "username": "marzan",
-      "submittedStories": 1,
-      "comments": 23,
-      "substantiveComments": 23,
-      "ownStoryComments": 15,
-      "storiesCommented": 5
     },
     {
       "username": "Zielony_Rycerz",
@@ -67,20 +67,20 @@
       "storiesCommented": 7
     },
     {
+      "username": "beeeecki",
+      "submittedStories": 1,
+      "comments": 10,
+      "substantiveComments": 9,
+      "ownStoryComments": 6,
+      "storiesCommented": 3
+    },
+    {
       "username": "Storm",
       "submittedStories": 1,
       "comments": 9,
       "substantiveComments": 9,
       "ownStoryComments": 5,
       "storiesCommented": 4
-    },
-    {
-      "username": "beeeecki",
-      "submittedStories": 1,
-      "comments": 8,
-      "substantiveComments": 7,
-      "ownStoryComments": 4,
-      "storiesCommented": 3
     },
     {
       "username": "barniusz",
@@ -109,10 +109,18 @@
     {
       "username": "OneTwo",
       "submittedStories": 0,
+      "comments": 6,
+      "substantiveComments": 6,
+      "ownStoryComments": 0,
+      "storiesCommented": 5
+    },
+    {
+      "username": "Marszawa",
+      "submittedStories": 0,
       "comments": 5,
       "substantiveComments": 5,
       "ownStoryComments": 0,
-      "storiesCommented": 4
+      "storiesCommented": 5
     },
     {
       "username": "Hesket",
@@ -164,14 +172,6 @@
     },
     {
       "username": "JolkaK",
-      "submittedStories": 0,
-      "comments": 3,
-      "substantiveComments": 3,
-      "ownStoryComments": 0,
-      "storiesCommented": 3
-    },
-    {
-      "username": "Marszawa",
       "submittedStories": 0,
       "comments": 3,
       "substantiveComments": 3,
@@ -257,6 +257,14 @@
       "substantiveComments": 1,
       "ownStoryComments": 0,
       "storiesCommented": 1
+    },
+    {
+      "username": "Ślimak Zagłady",
+      "submittedStories": 0,
+      "comments": 1,
+      "substantiveComments": 1,
+      "ownStoryComments": 0,
+      "storiesCommented": 1
     }
   ],
   "stories": [
@@ -265,13 +273,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35651",
       "author": "beeeecki",
       "publishedAt": "2026-10-23T14:21+02:00",
-      "comments": 20,
-      "substantiveComments": 20,
+      "comments": 25,
+      "substantiveComments": 25,
       "commenters": [
         {
           "username": "beeeecki",
-          "comments": 4,
-          "substantiveComments": 4
+          "comments": 6,
+          "substantiveComments": 6
         },
         {
           "username": "bruce",
@@ -280,6 +288,11 @@
         },
         {
           "username": "HollyHell91",
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
+          "username": "marzan",
           "comments": 2,
           "substantiveComments": 2
         },
@@ -309,12 +322,17 @@
           "substantiveComments": 1
         },
         {
-          "username": "marzan",
+          "username": "Marszawa",
           "comments": 1,
           "substantiveComments": 1
         },
         {
           "username": "MichaelBullfinch",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "OneTwo",
           "comments": 1,
           "substantiveComments": 1
         },
@@ -460,8 +478,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35652",
       "author": "Jim",
       "publishedAt": "2026-10-17T18:54+02:00",
-      "comments": 30,
-      "substantiveComments": 26,
+      "comments": 31,
+      "substantiveComments": 27,
       "commenters": [
         {
           "username": "Jim",
@@ -552,6 +570,11 @@
           "username": "UnaBomba",
           "comments": 1,
           "substantiveComments": 1
+        },
+        {
+          "username": "Ślimak Zagłady",
+          "comments": 1,
+          "substantiveComments": 1
         }
       ]
     },
@@ -560,8 +583,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35590",
       "author": "Szafirowy Smok",
       "publishedAt": "2026-10-16T05:33+02:00",
-      "comments": 42,
-      "substantiveComments": 36,
+      "comments": 43,
+      "substantiveComments": 37,
       "commenters": [
         {
           "username": "Szafirowy Smok",
@@ -625,6 +648,11 @@
         },
         {
           "username": "JolkaK",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Marszawa",
           "comments": 1,
           "substantiveComments": 1
         },
@@ -765,8 +793,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35638",
       "author": "marzan",
       "publishedAt": "2026-10-16T00:02+02:00",
-      "comments": 47,
-      "substantiveComments": 44,
+      "comments": 48,
+      "substantiveComments": 45,
       "commenters": [
         {
           "username": "marzan",
@@ -775,8 +803,8 @@
         },
         {
           "username": "Szafirowy Smok",
-          "comments": 6,
-          "substantiveComments": 5
+          "comments": 7,
+          "substantiveComments": 6
         },
         {
           "username": "bruce",
