@@ -2,29 +2,29 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-26T07:53:28+01:00",
+  "updatedAt": "2026-10-26T13:54:06+01:00",
   "summary": {
     "stories": 8,
     "authors": 8,
-    "comments": 247,
-    "substantiveComments": 228
+    "comments": 253,
+    "substantiveComments": 233
   },
   "users": [
     {
       "username": "Szafirowy Smok",
       "submittedStories": 1,
-      "comments": 30,
-      "substantiveComments": 28,
-      "ownStoryComments": 16,
+      "comments": 32,
+      "substantiveComments": 30,
+      "ownStoryComments": 18,
       "storiesCommented": 7
     },
     {
       "username": "marzan",
       "submittedStories": 1,
-      "comments": 26,
-      "substantiveComments": 26,
+      "comments": 28,
+      "substantiveComments": 28,
       "ownStoryComments": 16,
-      "storiesCommented": 5
+      "storiesCommented": 6
     },
     {
       "username": "bruce",
@@ -147,6 +147,14 @@
       "storiesCommented": 4
     },
     {
+      "username": "OldGuard",
+      "submittedStories": 0,
+      "comments": 4,
+      "substantiveComments": 0,
+      "ownStoryComments": 0,
+      "storiesCommented": 4
+    },
+    {
       "username": "SknerusMacKwacz",
       "submittedStories": 0,
       "comments": 4,
@@ -175,14 +183,6 @@
       "submittedStories": 0,
       "comments": 3,
       "substantiveComments": 3,
-      "ownStoryComments": 0,
-      "storiesCommented": 3
-    },
-    {
-      "username": "OldGuard",
-      "submittedStories": 0,
-      "comments": 3,
-      "substantiveComments": 0,
       "ownStoryComments": 0,
       "storiesCommented": 3
     },
@@ -244,6 +244,14 @@
     },
     {
       "username": "Caern",
+      "submittedStories": 0,
+      "comments": 1,
+      "substantiveComments": 1,
+      "ownStoryComments": 0,
+      "storiesCommented": 1
+    },
+    {
+      "username": "Darkside",
       "submittedStories": 0,
       "comments": 1,
       "substantiveComments": 1,
@@ -427,8 +435,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35562",
       "author": "Storm",
       "publishedAt": "2026-10-18T16:46+02:00",
-      "comments": 19,
-      "substantiveComments": 17,
+      "comments": 20,
+      "substantiveComments": 18,
       "commenters": [
         {
           "username": "Storm",
@@ -471,6 +479,11 @@
           "substantiveComments": 1
         },
         {
+          "username": "marzan",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
           "username": "Robert Raks",
           "comments": 1,
           "substantiveComments": 1
@@ -492,8 +505,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35652",
       "author": "Jim",
       "publishedAt": "2026-10-17T18:54+02:00",
-      "comments": 35,
-      "substantiveComments": 31,
+      "comments": 37,
+      "substantiveComments": 32,
       "commenters": [
         {
           "username": "Jim",
@@ -541,6 +554,11 @@
           "substantiveComments": 1
         },
         {
+          "username": "Darkside",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
           "username": "dawidiq150",
           "comments": 1,
           "substantiveComments": 1
@@ -557,6 +575,11 @@
         },
         {
           "username": "melendur88",
+          "comments": 1,
+          "substantiveComments": 0
+        },
+        {
+          "username": "OldGuard",
           "comments": 1,
           "substantiveComments": 0
         },
@@ -597,13 +620,18 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35590",
       "author": "Szafirowy Smok",
       "publishedAt": "2026-10-16T05:33+02:00",
-      "comments": 45,
-      "substantiveComments": 39,
+      "comments": 48,
+      "substantiveComments": 42,
       "commenters": [
         {
           "username": "Szafirowy Smok",
-          "comments": 16,
-          "substantiveComments": 15
+          "comments": 18,
+          "substantiveComments": 17
+        },
+        {
+          "username": "marzan",
+          "comments": 4,
+          "substantiveComments": 4
         },
         {
           "username": "AP",
@@ -614,11 +642,6 @@
           "username": "beeeecki",
           "comments": 3,
           "substantiveComments": 2
-        },
-        {
-          "username": "marzan",
-          "comments": 3,
-          "substantiveComments": 3
         },
         {
           "username": "barniusz",
