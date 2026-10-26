@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-26T01:52:52+01:00",
+  "updatedAt": "2026-10-26T07:53:28+01:00",
   "summary": {
     "stories": 8,
     "authors": 8,
-    "comments": 246,
-    "substantiveComments": 227
+    "comments": 247,
+    "substantiveComments": 228
   },
   "users": [
     {
@@ -115,7 +115,7 @@
       "storiesCommented": 5
     },
     {
-      "username": "Marszawa",
+      "username": "Hesket",
       "submittedStories": 0,
       "comments": 5,
       "substantiveComments": 5,
@@ -123,12 +123,12 @@
       "storiesCommented": 5
     },
     {
-      "username": "Hesket",
+      "username": "Marszawa",
       "submittedStories": 0,
-      "comments": 4,
-      "substantiveComments": 4,
+      "comments": 5,
+      "substantiveComments": 5,
       "ownStoryComments": 0,
-      "storiesCommented": 4
+      "storiesCommented": 5
     },
     {
       "username": "melendur88",
@@ -282,8 +282,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35651",
       "author": "beeeecki",
       "publishedAt": "2026-10-23T14:21+02:00",
-      "comments": 28,
-      "substantiveComments": 28,
+      "comments": 29,
+      "substantiveComments": 29,
       "commenters": [
         {
           "username": "beeeecki",
@@ -327,6 +327,11 @@
         },
         {
           "username": "Grzesiek_W",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Hesket",
           "comments": 1,
           "substantiveComments": 1
         },
