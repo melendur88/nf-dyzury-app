@@ -2,29 +2,29 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-26T13:54:06+01:00",
+  "updatedAt": "2026-10-26T19:54:46+01:00",
   "summary": {
     "stories": 8,
     "authors": 8,
-    "comments": 253,
-    "substantiveComments": 233
+    "comments": 260,
+    "substantiveComments": 240
   },
   "users": [
     {
       "username": "Szafirowy Smok",
       "submittedStories": 1,
-      "comments": 32,
-      "substantiveComments": 30,
+      "comments": 33,
+      "substantiveComments": 31,
       "ownStoryComments": 18,
       "storiesCommented": 7
     },
     {
       "username": "marzan",
       "submittedStories": 1,
-      "comments": 28,
-      "substantiveComments": 28,
+      "comments": 29,
+      "substantiveComments": 29,
       "ownStoryComments": 16,
-      "storiesCommented": 6
+      "storiesCommented": 7
     },
     {
       "username": "bruce",
@@ -61,25 +61,25 @@
     {
       "username": "tlok303",
       "submittedStories": 1,
-      "comments": 11,
-      "substantiveComments": 10,
-      "ownStoryComments": 0,
-      "storiesCommented": 7
+      "comments": 12,
+      "substantiveComments": 11,
+      "ownStoryComments": 1,
+      "storiesCommented": 8
     },
     {
       "username": "beeeecki",
       "submittedStories": 1,
-      "comments": 10,
-      "substantiveComments": 9,
-      "ownStoryComments": 6,
+      "comments": 11,
+      "substantiveComments": 10,
+      "ownStoryComments": 7,
       "storiesCommented": 3
     },
     {
       "username": "Jim",
       "submittedStories": 1,
-      "comments": 9,
-      "substantiveComments": 9,
-      "ownStoryComments": 9,
+      "comments": 10,
+      "substantiveComments": 10,
+      "ownStoryComments": 10,
       "storiesCommented": 1
     },
     {
@@ -109,10 +109,10 @@
     {
       "username": "OneTwo",
       "submittedStories": 0,
-      "comments": 6,
-      "substantiveComments": 6,
+      "comments": 7,
+      "substantiveComments": 7,
       "ownStoryComments": 0,
-      "storiesCommented": 5
+      "storiesCommented": 6
     },
     {
       "username": "Hesket",
@@ -219,6 +219,14 @@
       "storiesCommented": 2
     },
     {
+      "username": "Darkside",
+      "submittedStories": 0,
+      "comments": 2,
+      "substantiveComments": 2,
+      "ownStoryComments": 0,
+      "storiesCommented": 1
+    },
+    {
       "username": "freki",
       "submittedStories": 0,
       "comments": 2,
@@ -251,14 +259,6 @@
       "storiesCommented": 1
     },
     {
-      "username": "Darkside",
-      "submittedStories": 0,
-      "comments": 1,
-      "substantiveComments": 1,
-      "ownStoryComments": 0,
-      "storiesCommented": 1
-    },
-    {
       "username": "Grzesiek_W",
       "submittedStories": 0,
       "comments": 1,
@@ -281,27 +281,48 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35693",
       "author": "tlok303",
       "publishedAt": "2026-10-25T21:30+01:00",
-      "comments": 0,
-      "substantiveComments": 0,
-      "commenters": []
+      "comments": 3,
+      "substantiveComments": 3,
+      "commenters": [
+        {
+          "username": "marzan",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "OneTwo",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "tlok303",
+          "comments": 1,
+          "substantiveComments": 1
+        }
+      ]
     },
     {
       "title": "Sprawy zbyt poważne",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35651",
       "author": "beeeecki",
       "publishedAt": "2026-10-23T14:21+02:00",
-      "comments": 29,
-      "substantiveComments": 29,
+      "comments": 31,
+      "substantiveComments": 31,
       "commenters": [
         {
           "username": "beeeecki",
-          "comments": 6,
-          "substantiveComments": 6
+          "comments": 7,
+          "substantiveComments": 7
         },
         {
           "username": "bruce",
           "comments": 5,
           "substantiveComments": 5
+        },
+        {
+          "username": "Szafirowy Smok",
+          "comments": 3,
+          "substantiveComments": 3
         },
         {
           "username": "Zielony_Rycerz",
@@ -315,11 +336,6 @@
         },
         {
           "username": "marzan",
-          "comments": 2,
-          "substantiveComments": 2
-        },
-        {
-          "username": "Szafirowy Smok",
           "comments": 2,
           "substantiveComments": 2
         },
@@ -505,13 +521,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35652",
       "author": "Jim",
       "publishedAt": "2026-10-17T18:54+02:00",
-      "comments": 37,
-      "substantiveComments": 32,
+      "comments": 39,
+      "substantiveComments": 34,
       "commenters": [
         {
           "username": "Jim",
-          "comments": 9,
-          "substantiveComments": 9
+          "comments": 10,
+          "substantiveComments": 10
         },
         {
           "username": "bruce",
@@ -527,6 +543,11 @@
           "username": "Ślimak Zagłady",
           "comments": 3,
           "substantiveComments": 3
+        },
+        {
+          "username": "Darkside",
+          "comments": 2,
+          "substantiveComments": 2
         },
         {
           "username": "Zielony_Rycerz",
@@ -550,11 +571,6 @@
         },
         {
           "username": "CZARNA2",
-          "comments": 1,
-          "substantiveComments": 1
-        },
-        {
-          "username": "Darkside",
           "comments": 1,
           "substantiveComments": 1
         },
