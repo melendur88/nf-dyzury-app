@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-25T19:52:15+01:00",
+  "updatedAt": "2026-10-26T01:52:52+01:00",
   "summary": {
-    "stories": 7,
-    "authors": 7,
-    "comments": 242,
-    "substantiveComments": 223
+    "stories": 8,
+    "authors": 8,
+    "comments": 246,
+    "substantiveComments": 227
   },
   "users": [
     {
@@ -21,8 +21,8 @@
     {
       "username": "marzan",
       "submittedStories": 1,
-      "comments": 25,
-      "substantiveComments": 25,
+      "comments": 26,
+      "substantiveComments": 26,
       "ownStoryComments": 16,
       "storiesCommented": 5
     },
@@ -60,7 +60,7 @@
     },
     {
       "username": "tlok303",
-      "submittedStories": 0,
+      "submittedStories": 1,
       "comments": 11,
       "substantiveComments": 10,
       "ownStoryComments": 0,
@@ -75,20 +75,20 @@
       "storiesCommented": 3
     },
     {
+      "username": "Jim",
+      "submittedStories": 1,
+      "comments": 9,
+      "substantiveComments": 9,
+      "ownStoryComments": 9,
+      "storiesCommented": 1
+    },
+    {
       "username": "Storm",
       "submittedStories": 1,
       "comments": 9,
       "substantiveComments": 9,
       "ownStoryComments": 5,
       "storiesCommented": 4
-    },
-    {
-      "username": "Jim",
-      "submittedStories": 1,
-      "comments": 8,
-      "substantiveComments": 8,
-      "ownStoryComments": 8,
-      "storiesCommented": 1
     },
     {
       "username": "barniusz",
@@ -195,6 +195,14 @@
       "storiesCommented": 2
     },
     {
+      "username": "Ślimak Zagłady",
+      "submittedStories": 0,
+      "comments": 3,
+      "substantiveComments": 3,
+      "ownStoryComments": 0,
+      "storiesCommented": 1
+    },
+    {
       "username": "Ambush",
       "submittedStories": 0,
       "comments": 2,
@@ -257,17 +265,18 @@
       "substantiveComments": 1,
       "ownStoryComments": 0,
       "storiesCommented": 1
-    },
-    {
-      "username": "Ślimak Zagłady",
-      "submittedStories": 0,
-      "comments": 1,
-      "substantiveComments": 1,
-      "ownStoryComments": 0,
-      "storiesCommented": 1
     }
   ],
   "stories": [
+    {
+      "title": "Epickie opowieści: Do góry i na dół",
+      "url": "https://www.fantastyka.pl/opowiadania/pokaz/35693",
+      "author": "tlok303",
+      "publishedAt": "2026-10-25T21:30+01:00",
+      "comments": 0,
+      "substantiveComments": 0,
+      "commenters": []
+    },
     {
       "title": "Sprawy zbyt poważne",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35651",
@@ -478,13 +487,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35652",
       "author": "Jim",
       "publishedAt": "2026-10-17T18:54+02:00",
-      "comments": 32,
-      "substantiveComments": 28,
+      "comments": 35,
+      "substantiveComments": 31,
       "commenters": [
         {
           "username": "Jim",
-          "comments": 8,
-          "substantiveComments": 8
+          "comments": 9,
+          "substantiveComments": 9
         },
         {
           "username": "bruce",
@@ -495,6 +504,11 @@
           "username": "Bardjaskier",
           "comments": 3,
           "substantiveComments": 2
+        },
+        {
+          "username": "Ślimak Zagłady",
+          "comments": 3,
+          "substantiveComments": 3
         },
         {
           "username": "Zielony_Rycerz",
@@ -570,11 +584,6 @@
           "username": "UnaBomba",
           "comments": 1,
           "substantiveComments": 1
-        },
-        {
-          "username": "Ślimak Zagłady",
-          "comments": 1,
-          "substantiveComments": 1
         }
       ]
     },
@@ -583,8 +592,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35590",
       "author": "Szafirowy Smok",
       "publishedAt": "2026-10-16T05:33+02:00",
-      "comments": 44,
-      "substantiveComments": 38,
+      "comments": 45,
+      "substantiveComments": 39,
       "commenters": [
         {
           "username": "Szafirowy Smok",
@@ -602,6 +611,11 @@
           "substantiveComments": 2
         },
         {
+          "username": "marzan",
+          "comments": 3,
+          "substantiveComments": 3
+        },
+        {
           "username": "barniusz",
           "comments": 2,
           "substantiveComments": 1
@@ -610,11 +624,6 @@
           "username": "bruce",
           "comments": 2,
           "substantiveComments": 1
-        },
-        {
-          "username": "marzan",
-          "comments": 2,
-          "substantiveComments": 2
         },
         {
           "username": "OneTwo",
