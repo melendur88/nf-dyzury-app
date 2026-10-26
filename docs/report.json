@@ -1,17 +1,17 @@
 {
   "month": "2026-10",
   "period": "01.10.2026 - 15.11.2026",
-  "updatedAt": "2026-10-25T21:32:43+01:00",
+  "updatedAt": "2026-10-26T21:32:56+01:00",
   "results": [
     {
       "username": "Ambush",
       "weekdays": [
         "poniedzialek"
       ],
-      "eligible": 6,
-      "commented": 2,
+      "eligible": 11,
+      "commented": 3,
       "ownStories": 0,
-      "percentage": 33.3,
+      "percentage": 27.3,
       "passed": false
     },
     {
@@ -19,10 +19,10 @@
       "weekdays": [
         "poniedzialek"
       ],
-      "eligible": 6,
-      "commented": 2,
+      "eligible": 11,
+      "commented": 5,
       "ownStories": 0,
-      "percentage": 33.3,
+      "percentage": 45.5,
       "passed": false
     },
     {
@@ -54,9 +54,9 @@
         "sobota"
       ],
       "eligible": 13,
-      "commented": 10,
+      "commented": 12,
       "ownStories": 0,
-      "percentage": 76.9,
+      "percentage": 92.3,
       "passed": true
     },
     {
@@ -119,10 +119,10 @@
       "weekdays": [
         "niedziela"
       ],
-      "eligible": 5,
+      "eligible": 6,
       "commented": 4,
       "ownStories": 0,
-      "percentage": 80.0,
+      "percentage": 66.7,
       "passed": true
     },
     {
@@ -130,10 +130,10 @@
       "weekdays": [
         "niedziela"
       ],
-      "eligible": 5,
-      "commented": 4,
+      "eligible": 6,
+      "commented": 5,
       "ownStories": 0,
-      "percentage": 80.0,
+      "percentage": 83.3,
       "passed": true
     }
   ]
