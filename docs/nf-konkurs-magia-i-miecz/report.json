@@ -2,19 +2,19 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-26T19:54:46+01:00",
+  "updatedAt": "2026-10-27T01:55:24+01:00",
   "summary": {
     "stories": 8,
     "authors": 8,
-    "comments": 260,
-    "substantiveComments": 240
+    "comments": 266,
+    "substantiveComments": 244
   },
   "users": [
     {
       "username": "Szafirowy Smok",
       "submittedStories": 1,
-      "comments": 33,
-      "substantiveComments": 31,
+      "comments": 35,
+      "substantiveComments": 32,
       "ownStoryComments": 18,
       "storiesCommented": 7
     },
@@ -51,6 +51,14 @@
       "storiesCommented": 7
     },
     {
+      "username": "beeeecki",
+      "submittedStories": 1,
+      "comments": 13,
+      "substantiveComments": 12,
+      "ownStoryComments": 9,
+      "storiesCommented": 3
+    },
+    {
       "username": "dawidiq150",
       "submittedStories": 1,
       "comments": 13,
@@ -65,14 +73,6 @@
       "substantiveComments": 11,
       "ownStoryComments": 1,
       "storiesCommented": 8
-    },
-    {
-      "username": "beeeecki",
-      "submittedStories": 1,
-      "comments": 11,
-      "substantiveComments": 10,
-      "ownStoryComments": 7,
-      "storiesCommented": 3
     },
     {
       "username": "Jim",
@@ -91,18 +91,18 @@
       "storiesCommented": 4
     },
     {
+      "username": "Robert Raks",
+      "submittedStories": 0,
+      "comments": 9,
+      "substantiveComments": 9,
+      "ownStoryComments": 0,
+      "storiesCommented": 7
+    },
+    {
       "username": "barniusz",
       "submittedStories": 0,
       "comments": 8,
       "substantiveComments": 7,
-      "ownStoryComments": 0,
-      "storiesCommented": 6
-    },
-    {
-      "username": "Robert Raks",
-      "submittedStories": 0,
-      "comments": 8,
-      "substantiveComments": 8,
       "ownStoryComments": 0,
       "storiesCommented": 6
     },
@@ -133,10 +133,10 @@
     {
       "username": "melendur88",
       "submittedStories": 0,
-      "comments": 4,
+      "comments": 5,
       "substantiveComments": 0,
       "ownStoryComments": 0,
-      "storiesCommented": 4
+      "storiesCommented": 5
     },
     {
       "username": "MichaelBullfinch",
@@ -306,13 +306,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35651",
       "author": "beeeecki",
       "publishedAt": "2026-10-23T14:21+02:00",
-      "comments": 31,
-      "substantiveComments": 31,
+      "comments": 36,
+      "substantiveComments": 35,
       "commenters": [
         {
           "username": "beeeecki",
-          "comments": 7,
-          "substantiveComments": 7
+          "comments": 9,
+          "substantiveComments": 9
         },
         {
           "username": "bruce",
@@ -321,8 +321,8 @@
         },
         {
           "username": "Szafirowy Smok",
-          "comments": 3,
-          "substantiveComments": 3
+          "comments": 5,
+          "substantiveComments": 4
         },
         {
           "username": "Zielony_Rycerz",
@@ -376,6 +376,11 @@
         },
         {
           "username": "OneTwo",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Robert Raks",
           "comments": 1,
           "substantiveComments": 1
         }
@@ -451,7 +456,7 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35562",
       "author": "Storm",
       "publishedAt": "2026-10-18T16:46+02:00",
-      "comments": 20,
+      "comments": 21,
       "substantiveComments": 18,
       "commenters": [
         {
@@ -498,6 +503,11 @@
           "username": "marzan",
           "comments": 1,
           "substantiveComments": 1
+        },
+        {
+          "username": "melendur88",
+          "comments": 1,
+          "substantiveComments": 0
         },
         {
           "username": "Robert Raks",
