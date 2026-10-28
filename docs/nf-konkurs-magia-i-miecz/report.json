@@ -2,20 +2,20 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-27T19:57:22+01:00",
+  "updatedAt": "2026-10-28T01:58:01+01:00",
   "summary": {
     "stories": 8,
     "authors": 8,
-    "comments": 280,
-    "substantiveComments": 257
+    "comments": 283,
+    "substantiveComments": 260
   },
   "users": [
     {
       "username": "Szafirowy Smok",
       "submittedStories": 1,
-      "comments": 38,
-      "substantiveComments": 35,
-      "ownStoryComments": 19,
+      "comments": 39,
+      "substantiveComments": 36,
+      "ownStoryComments": 20,
       "storiesCommented": 8
     },
     {
@@ -51,20 +51,20 @@
       "storiesCommented": 7
     },
     {
+      "username": "beeeecki",
+      "submittedStories": 1,
+      "comments": 14,
+      "substantiveComments": 13,
+      "ownStoryComments": 10,
+      "storiesCommented": 3
+    },
+    {
       "username": "tlok303",
       "submittedStories": 1,
       "comments": 14,
       "substantiveComments": 13,
       "ownStoryComments": 3,
       "storiesCommented": 8
-    },
-    {
-      "username": "beeeecki",
-      "submittedStories": 1,
-      "comments": 13,
-      "substantiveComments": 12,
-      "ownStoryComments": 9,
-      "storiesCommented": 3
     },
     {
       "username": "dawidiq150",
@@ -275,6 +275,14 @@
       "storiesCommented": 1
     },
     {
+      "username": "Młody pisarz",
+      "submittedStories": 0,
+      "comments": 1,
+      "substantiveComments": 1,
+      "ownStoryComments": 0,
+      "storiesCommented": 1
+    },
+    {
       "username": "nul",
       "submittedStories": 0,
       "comments": 1,
@@ -324,13 +332,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35651",
       "author": "beeeecki",
       "publishedAt": "2026-10-23T14:21+02:00",
-      "comments": 39,
-      "substantiveComments": 38,
+      "comments": 40,
+      "substantiveComments": 39,
       "commenters": [
         {
           "username": "beeeecki",
-          "comments": 9,
-          "substantiveComments": 9
+          "comments": 10,
+          "substantiveComments": 10
         },
         {
           "username": "bruce",
@@ -674,13 +682,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35590",
       "author": "Szafirowy Smok",
       "publishedAt": "2026-10-16T05:33+02:00",
-      "comments": 52,
-      "substantiveComments": 46,
+      "comments": 53,
+      "substantiveComments": 47,
       "commenters": [
         {
           "username": "Szafirowy Smok",
-          "comments": 19,
-          "substantiveComments": 18
+          "comments": 20,
+          "substantiveComments": 19
         },
         {
           "username": "marzan",
@@ -894,8 +902,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35638",
       "author": "marzan",
       "publishedAt": "2026-10-16T00:02+02:00",
-      "comments": 50,
-      "substantiveComments": 47,
+      "comments": 51,
+      "substantiveComments": 48,
       "commenters": [
         {
           "username": "marzan",
@@ -969,6 +977,11 @@
         },
         {
           "username": "MichaelBullfinch",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Młody pisarz",
           "comments": 1,
           "substantiveComments": 1
         },
