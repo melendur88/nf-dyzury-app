@@ -2,28 +2,28 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-28T07:58:41+01:00",
+  "updatedAt": "2026-10-28T13:59:20+01:00",
   "summary": {
     "stories": 8,
     "authors": 8,
-    "comments": 285,
-    "substantiveComments": 262
+    "comments": 289,
+    "substantiveComments": 266
   },
   "users": [
     {
       "username": "Szafirowy Smok",
       "submittedStories": 1,
-      "comments": 39,
-      "substantiveComments": 36,
+      "comments": 41,
+      "substantiveComments": 38,
       "ownStoryComments": 20,
       "storiesCommented": 8
     },
     {
       "username": "marzan",
       "submittedStories": 1,
-      "comments": 31,
-      "substantiveComments": 31,
-      "ownStoryComments": 17,
+      "comments": 32,
+      "substantiveComments": 32,
+      "ownStoryComments": 18,
       "storiesCommented": 7
     },
     {
@@ -139,6 +139,14 @@
       "storiesCommented": 5
     },
     {
+      "username": "Ajas",
+      "submittedStories": 0,
+      "comments": 4,
+      "substantiveComments": 4,
+      "ownStoryComments": 0,
+      "storiesCommented": 2
+    },
+    {
       "username": "MichaelBullfinch",
       "submittedStories": 0,
       "comments": 4,
@@ -161,14 +169,6 @@
       "substantiveComments": 4,
       "ownStoryComments": 0,
       "storiesCommented": 4
-    },
-    {
-      "username": "Ajas",
-      "submittedStories": 0,
-      "comments": 3,
-      "substantiveComments": 3,
-      "ownStoryComments": 0,
-      "storiesCommented": 2
     },
     {
       "username": "AP",
@@ -332,8 +332,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35651",
       "author": "beeeecki",
       "publishedAt": "2026-10-23T14:21+02:00",
-      "comments": 41,
-      "substantiveComments": 40,
+      "comments": 42,
+      "substantiveComments": 41,
       "commenters": [
         {
           "username": "beeeecki",
@@ -361,6 +361,11 @@
           "substantiveComments": 3
         },
         {
+          "username": "Ajas",
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
           "username": "marzan",
           "comments": 2,
           "substantiveComments": 2
@@ -369,11 +374,6 @@
           "username": "tlok303",
           "comments": 2,
           "substantiveComments": 2
-        },
-        {
-          "username": "Ajas",
-          "comments": 1,
-          "substantiveComments": 1
         },
         {
           "username": "Ambush",
@@ -902,18 +902,18 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35638",
       "author": "marzan",
       "publishedAt": "2026-10-16T00:02+02:00",
-      "comments": 52,
-      "substantiveComments": 49,
+      "comments": 55,
+      "substantiveComments": 52,
       "commenters": [
         {
           "username": "marzan",
-          "comments": 17,
-          "substantiveComments": 17
+          "comments": 18,
+          "substantiveComments": 18
         },
         {
           "username": "Szafirowy Smok",
-          "comments": 8,
-          "substantiveComments": 7
+          "comments": 10,
+          "substantiveComments": 9
         },
         {
           "username": "bruce",
