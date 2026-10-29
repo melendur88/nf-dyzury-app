@@ -2,34 +2,34 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-28T19:59:57+01:00",
+  "updatedAt": "2026-10-29T02:00:40+01:00",
   "summary": {
-    "stories": 8,
-    "authors": 8,
-    "comments": 298,
-    "substantiveComments": 275
+    "stories": 9,
+    "authors": 9,
+    "comments": 307,
+    "substantiveComments": 283
   },
   "users": [
     {
       "username": "Szafirowy Smok",
       "submittedStories": 1,
-      "comments": 42,
-      "substantiveComments": 39,
-      "ownStoryComments": 21,
+      "comments": 43,
+      "substantiveComments": 40,
+      "ownStoryComments": 22,
       "storiesCommented": 8
     },
     {
       "username": "marzan",
       "submittedStories": 1,
-      "comments": 32,
-      "substantiveComments": 32,
+      "comments": 35,
+      "substantiveComments": 35,
       "ownStoryComments": 18,
-      "storiesCommented": 7
+      "storiesCommented": 8
     },
     {
       "username": "bruce",
       "submittedStories": 0,
-      "comments": 27,
+      "comments": 28,
       "substantiveComments": 23,
       "ownStoryComments": 0,
       "storiesCommented": 7
@@ -77,17 +77,17 @@
     {
       "username": "Jim",
       "submittedStories": 1,
-      "comments": 11,
-      "substantiveComments": 11,
-      "ownStoryComments": 11,
+      "comments": 12,
+      "substantiveComments": 12,
+      "ownStoryComments": 12,
       "storiesCommented": 1
     },
     {
       "username": "Storm",
       "submittedStories": 1,
-      "comments": 11,
-      "substantiveComments": 11,
-      "ownStoryComments": 6,
+      "comments": 12,
+      "substantiveComments": 12,
+      "ownStoryComments": 7,
       "storiesCommented": 5
     },
     {
@@ -113,6 +113,14 @@
       "substantiveComments": 7,
       "ownStoryComments": 0,
       "storiesCommented": 6
+    },
+    {
+      "username": "JolkaK",
+      "submittedStories": 1,
+      "comments": 5,
+      "substantiveComments": 5,
+      "ownStoryComments": 1,
+      "storiesCommented": 5
     },
     {
       "username": "GalicyjskiZakapior",
@@ -155,12 +163,12 @@
       "storiesCommented": 2
     },
     {
-      "username": "JolkaK",
+      "username": "AP",
       "submittedStories": 0,
       "comments": 4,
       "substantiveComments": 4,
       "ownStoryComments": 0,
-      "storiesCommented": 4
+      "storiesCommented": 2
     },
     {
       "username": "MichaelBullfinch",
@@ -185,14 +193,6 @@
       "substantiveComments": 4,
       "ownStoryComments": 0,
       "storiesCommented": 4
-    },
-    {
-      "username": "AP",
-      "submittedStories": 0,
-      "comments": 3,
-      "substantiveComments": 3,
-      "ownStoryComments": 0,
-      "storiesCommented": 1
     },
     {
       "username": "CZARNA2",
@@ -300,6 +300,26 @@
     }
   ],
   "stories": [
+    {
+      "title": "Kokosy jak ze snów, czyli jak uratować kolegę",
+      "url": "https://www.fantastyka.pl/opowiadania/pokaz/35707",
+      "author": "JolkaK",
+      "publishedAt": "2026-10-28T21:05+01:00",
+      "comments": 4,
+      "substantiveComments": 4,
+      "commenters": [
+        {
+          "username": "marzan",
+          "comments": 3,
+          "substantiveComments": 3
+        },
+        {
+          "username": "JolkaK",
+          "comments": 1,
+          "substantiveComments": 1
+        }
+      ]
+    },
     {
       "title": "Epickie opowieści: Do góry i na dół",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35693",
@@ -510,13 +530,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35562",
       "author": "Storm",
       "publishedAt": "2026-10-18T16:46+02:00",
-      "comments": 23,
-      "substantiveComments": 20,
+      "comments": 24,
+      "substantiveComments": 21,
       "commenters": [
         {
           "username": "Storm",
-          "comments": 6,
-          "substantiveComments": 6
+          "comments": 7,
+          "substantiveComments": 7
         },
         {
           "username": "bruce",
@@ -585,17 +605,17 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35652",
       "author": "Jim",
       "publishedAt": "2026-10-17T18:54+02:00",
-      "comments": 43,
-      "substantiveComments": 38,
+      "comments": 45,
+      "substantiveComments": 39,
       "commenters": [
         {
           "username": "Jim",
-          "comments": 11,
-          "substantiveComments": 11
+          "comments": 12,
+          "substantiveComments": 12
         },
         {
           "username": "bruce",
-          "comments": 5,
+          "comments": 6,
           "substantiveComments": 3
         },
         {
@@ -710,13 +730,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35590",
       "author": "Szafirowy Smok",
       "publishedAt": "2026-10-16T05:33+02:00",
-      "comments": 56,
-      "substantiveComments": 50,
+      "comments": 57,
+      "substantiveComments": 51,
       "commenters": [
         {
           "username": "Szafirowy Smok",
-          "comments": 21,
-          "substantiveComments": 20
+          "comments": 22,
+          "substantiveComments": 21
         },
         {
           "username": "marzan",
@@ -935,8 +955,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35638",
       "author": "marzan",
       "publishedAt": "2026-10-16T00:02+02:00",
-      "comments": 55,
-      "substantiveComments": 52,
+      "comments": 56,
+      "substantiveComments": 53,
       "commenters": [
         {
           "username": "marzan",
@@ -972,6 +992,11 @@
           "username": "Zielony_Rycerz",
           "comments": 2,
           "substantiveComments": 2
+        },
+        {
+          "username": "AP",
+          "comments": 1,
+          "substantiveComments": 1
         },
         {
           "username": "barniusz",
