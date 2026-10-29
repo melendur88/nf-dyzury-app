@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-29T02:00:40+01:00",
+  "updatedAt": "2026-10-29T08:01:20+01:00",
   "summary": {
     "stories": 9,
     "authors": 9,
-    "comments": 307,
-    "substantiveComments": 283
+    "comments": 308,
+    "substantiveComments": 284
   },
   "users": [
     {
@@ -43,6 +43,14 @@
       "storiesCommented": 5
     },
     {
+      "username": "tlok303",
+      "submittedStories": 1,
+      "comments": 15,
+      "substantiveComments": 14,
+      "ownStoryComments": 4,
+      "storiesCommented": 8
+    },
+    {
       "username": "Zielony_Rycerz",
       "submittedStories": 0,
       "comments": 15,
@@ -57,14 +65,6 @@
       "substantiveComments": 13,
       "ownStoryComments": 10,
       "storiesCommented": 3
-    },
-    {
-      "username": "tlok303",
-      "submittedStories": 1,
-      "comments": 14,
-      "substantiveComments": 13,
-      "ownStoryComments": 3,
-      "storiesCommented": 8
     },
     {
       "username": "dawidiq150",
@@ -325,13 +325,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35693",
       "author": "tlok303",
       "publishedAt": "2026-10-25T21:30+01:00",
-      "comments": 9,
-      "substantiveComments": 8,
+      "comments": 10,
+      "substantiveComments": 9,
       "commenters": [
         {
           "username": "tlok303",
-          "comments": 3,
-          "substantiveComments": 3
+          "comments": 4,
+          "substantiveComments": 4
         },
         {
           "username": "Szafirowy Smok",
