@@ -2,29 +2,29 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-29T14:02:02+01:00",
+  "updatedAt": "2026-10-29T20:02:45+01:00",
   "summary": {
     "stories": 10,
     "authors": 10,
-    "comments": 313,
-    "substantiveComments": 289
+    "comments": 323,
+    "substantiveComments": 299
   },
   "users": [
     {
       "username": "Szafirowy Smok",
       "submittedStories": 1,
-      "comments": 43,
-      "substantiveComments": 40,
+      "comments": 44,
+      "substantiveComments": 41,
       "ownStoryComments": 22,
-      "storiesCommented": 8
+      "storiesCommented": 9
     },
     {
       "username": "marzan",
       "submittedStories": 1,
-      "comments": 37,
-      "substantiveComments": 37,
-      "ownStoryComments": 18,
-      "storiesCommented": 8
+      "comments": 41,
+      "substantiveComments": 41,
+      "ownStoryComments": 19,
+      "storiesCommented": 9
     },
     {
       "username": "bruce",
@@ -37,18 +37,18 @@
     {
       "username": "Bardjaskier",
       "submittedStories": 1,
-      "comments": 24,
-      "substantiveComments": 22,
-      "ownStoryComments": 17,
+      "comments": 25,
+      "substantiveComments": 23,
+      "ownStoryComments": 18,
       "storiesCommented": 5
     },
     {
       "username": "tlok303",
       "submittedStories": 1,
-      "comments": 15,
-      "substantiveComments": 14,
+      "comments": 16,
+      "substantiveComments": 15,
       "ownStoryComments": 4,
-      "storiesCommented": 8
+      "storiesCommented": 9
     },
     {
       "username": "Zielony_Rycerz",
@@ -107,20 +107,20 @@
       "storiesCommented": 6
     },
     {
+      "username": "JolkaK",
+      "submittedStories": 1,
+      "comments": 7,
+      "substantiveComments": 7,
+      "ownStoryComments": 3,
+      "storiesCommented": 5
+    },
+    {
       "username": "OneTwo",
       "submittedStories": 0,
       "comments": 7,
       "substantiveComments": 7,
       "ownStoryComments": 0,
       "storiesCommented": 6
-    },
-    {
-      "username": "JolkaK",
-      "submittedStories": 1,
-      "comments": 6,
-      "substantiveComments": 6,
-      "ownStoryComments": 2,
-      "storiesCommented": 5
     },
     {
       "username": "Ajas",
@@ -179,6 +179,14 @@
       "storiesCommented": 4
     },
     {
+      "username": "CZARNA2",
+      "submittedStories": 0,
+      "comments": 4,
+      "substantiveComments": 3,
+      "ownStoryComments": 0,
+      "storiesCommented": 4
+    },
+    {
       "username": "OldGuard",
       "submittedStories": 0,
       "comments": 4,
@@ -195,12 +203,12 @@
       "storiesCommented": 4
     },
     {
-      "username": "CZARNA2",
+      "username": "Darkside",
       "submittedStories": 0,
       "comments": 3,
-      "substantiveComments": 2,
+      "substantiveComments": 3,
       "ownStoryComments": 0,
-      "storiesCommented": 3
+      "storiesCommented": 2
     },
     {
       "username": "freki",
@@ -241,14 +249,6 @@
       "substantiveComments": 2,
       "ownStoryComments": 0,
       "storiesCommented": 2
-    },
-    {
-      "username": "Darkside",
-      "submittedStories": 0,
-      "comments": 2,
-      "substantiveComments": 2,
-      "ownStoryComments": 0,
-      "storiesCommented": 1
     },
     {
       "username": "jonaszf",
@@ -305,27 +305,53 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35667",
       "author": "MichaelBullfinch",
       "publishedAt": "2026-10-29T13:14+01:00",
-      "comments": 0,
-      "substantiveComments": 0,
-      "commenters": []
+      "comments": 3,
+      "substantiveComments": 3,
+      "commenters": [
+        {
+          "username": "CZARNA2",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Darkside",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "marzan",
+          "comments": 1,
+          "substantiveComments": 1
+        }
+      ]
     },
     {
       "title": "Kokosy jak ze snów, czyli jak uratować kolegę",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35707",
       "author": "JolkaK",
       "publishedAt": "2026-10-28T21:05+01:00",
-      "comments": 6,
-      "substantiveComments": 6,
+      "comments": 10,
+      "substantiveComments": 10,
       "commenters": [
         {
           "username": "marzan",
-          "comments": 4,
-          "substantiveComments": 4
+          "comments": 5,
+          "substantiveComments": 5
         },
         {
           "username": "JolkaK",
-          "comments": 2,
-          "substantiveComments": 2
+          "comments": 3,
+          "substantiveComments": 3
+        },
+        {
+          "username": "Szafirowy Smok",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "tlok303",
+          "comments": 1,
+          "substantiveComments": 1
         }
       ]
     },
@@ -539,8 +565,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35562",
       "author": "Storm",
       "publishedAt": "2026-10-18T16:46+02:00",
-      "comments": 25,
-      "substantiveComments": 22,
+      "comments": 26,
+      "substantiveComments": 23,
       "commenters": [
         {
           "username": "Storm",
@@ -554,8 +580,8 @@
         },
         {
           "username": "marzan",
-          "comments": 3,
-          "substantiveComments": 3
+          "comments": 4,
+          "substantiveComments": 4
         },
         {
           "username": "tlok303",
@@ -869,13 +895,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35647",
       "author": "Bardjaskier",
       "publishedAt": "2026-10-16T05:29+02:00",
-      "comments": 50,
-      "substantiveComments": 46,
+      "comments": 51,
+      "substantiveComments": 47,
       "commenters": [
         {
           "username": "Bardjaskier",
-          "comments": 17,
-          "substantiveComments": 16
+          "comments": 18,
+          "substantiveComments": 17
         },
         {
           "username": "bruce",
@@ -974,13 +1000,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35638",
       "author": "marzan",
       "publishedAt": "2026-10-16T00:02+02:00",
-      "comments": 56,
-      "substantiveComments": 53,
+      "comments": 57,
+      "substantiveComments": 54,
       "commenters": [
         {
           "username": "marzan",
-          "comments": 18,
-          "substantiveComments": 18
+          "comments": 19,
+          "substantiveComments": 19
         },
         {
           "username": "Szafirowy Smok",
