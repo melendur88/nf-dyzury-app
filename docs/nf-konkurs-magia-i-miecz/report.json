@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-30T02:03:32+01:00",
+  "updatedAt": "2026-10-30T08:04:16+01:00",
   "summary": {
     "stories": 11,
     "authors": 11,
-    "comments": 334,
-    "substantiveComments": 308
+    "comments": 337,
+    "substantiveComments": 309
   },
   "users": [
     {
@@ -77,10 +77,10 @@
     {
       "username": "Jim",
       "submittedStories": 1,
-      "comments": 13,
+      "comments": 14,
       "substantiveComments": 13,
       "ownStoryComments": 13,
-      "storiesCommented": 1
+      "storiesCommented": 2
     },
     {
       "username": "Storm",
@@ -227,6 +227,14 @@
       "storiesCommented": 1
     },
     {
+      "username": "jonaszf",
+      "submittedStories": 0,
+      "comments": 3,
+      "substantiveComments": 3,
+      "ownStoryComments": 0,
+      "storiesCommented": 3
+    },
+    {
       "username": "mitr",
       "submittedStories": 0,
       "comments": 3,
@@ -259,12 +267,12 @@
       "storiesCommented": 2
     },
     {
-      "username": "jonaszf",
-      "submittedStories": 0,
-      "comments": 2,
-      "substantiveComments": 2,
-      "ownStoryComments": 0,
-      "storiesCommented": 2
+      "username": "cezary_cezary",
+      "submittedStories": 1,
+      "comments": 1,
+      "substantiveComments": 0,
+      "ownStoryComments": 1,
+      "storiesCommented": 1
     },
     {
       "username": "Bartkowski.robert",
@@ -313,14 +321,6 @@
       "substantiveComments": 1,
       "ownStoryComments": 0,
       "storiesCommented": 1
-    },
-    {
-      "username": "cezary_cezary",
-      "submittedStories": 1,
-      "comments": 0,
-      "substantiveComments": 0,
-      "ownStoryComments": 0,
-      "storiesCommented": 0
     }
   ],
   "stories": [
@@ -329,11 +329,21 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35708",
       "author": "cezary_cezary",
       "publishedAt": "2026-10-29T23:57+01:00",
-      "comments": 1,
+      "comments": 3,
       "substantiveComments": 0,
       "commenters": [
         {
           "username": "Bartkowski.robert",
+          "comments": 1,
+          "substantiveComments": 0
+        },
+        {
+          "username": "cezary_cezary",
+          "comments": 1,
+          "substantiveComments": 0
+        },
+        {
+          "username": "Jim",
           "comments": 1,
           "substantiveComments": 0
         }
@@ -344,8 +354,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35667",
       "author": "MichaelBullfinch",
       "publishedAt": "2026-10-29T13:14+01:00",
-      "comments": 6,
-      "substantiveComments": 5,
+      "comments": 7,
+      "substantiveComments": 6,
       "commenters": [
         {
           "username": "bruce",
@@ -359,6 +369,11 @@
         },
         {
           "username": "Darkside",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "jonaszf",
           "comments": 1,
           "substantiveComments": 1
         },
