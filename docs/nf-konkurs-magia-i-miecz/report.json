@@ -2,29 +2,29 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-10-30T08:04:16+01:00",
+  "updatedAt": "2026-10-30T14:05:03+01:00",
   "summary": {
     "stories": 11,
     "authors": 11,
-    "comments": 337,
-    "substantiveComments": 309
+    "comments": 355,
+    "substantiveComments": 326
   },
   "users": [
     {
       "username": "Szafirowy Smok",
       "submittedStories": 1,
-      "comments": 44,
-      "substantiveComments": 41,
-      "ownStoryComments": 22,
-      "storiesCommented": 9
+      "comments": 48,
+      "substantiveComments": 45,
+      "ownStoryComments": 25,
+      "storiesCommented": 10
     },
     {
       "username": "marzan",
       "submittedStories": 1,
-      "comments": 43,
-      "substantiveComments": 43,
+      "comments": 47,
+      "substantiveComments": 47,
       "ownStoryComments": 21,
-      "storiesCommented": 9
+      "storiesCommented": 10
     },
     {
       "username": "bruce",
@@ -45,10 +45,10 @@
     {
       "username": "tlok303",
       "submittedStories": 1,
-      "comments": 16,
-      "substantiveComments": 15,
+      "comments": 17,
+      "substantiveComments": 16,
       "ownStoryComments": 4,
-      "storiesCommented": 9
+      "storiesCommented": 10
     },
     {
       "username": "beeeecki",
@@ -99,6 +99,14 @@
       "storiesCommented": 8
     },
     {
+      "username": "MichaelBullfinch",
+      "submittedStories": 1,
+      "comments": 8,
+      "substantiveComments": 7,
+      "ownStoryComments": 2,
+      "storiesCommented": 6
+    },
+    {
       "username": "barniusz",
       "submittedStories": 0,
       "comments": 8,
@@ -123,12 +131,12 @@
       "storiesCommented": 6
     },
     {
-      "username": "MichaelBullfinch",
-      "submittedStories": 1,
-      "comments": 5,
-      "substantiveComments": 5,
-      "ownStoryComments": 1,
-      "storiesCommented": 5
+      "username": "Hesket",
+      "submittedStories": 0,
+      "comments": 6,
+      "substantiveComments": 6,
+      "ownStoryComments": 0,
+      "storiesCommented": 6
     },
     {
       "username": "Ajas",
@@ -155,14 +163,6 @@
       "storiesCommented": 4
     },
     {
-      "username": "Hesket",
-      "submittedStories": 0,
-      "comments": 5,
-      "substantiveComments": 5,
-      "ownStoryComments": 0,
-      "storiesCommented": 5
-    },
-    {
       "username": "Marszawa",
       "submittedStories": 0,
       "comments": 5,
@@ -179,12 +179,28 @@
       "storiesCommented": 5
     },
     {
+      "username": "cezary_cezary",
+      "submittedStories": 1,
+      "comments": 4,
+      "substantiveComments": 3,
+      "ownStoryComments": 4,
+      "storiesCommented": 1
+    },
+    {
       "username": "CZARNA2",
       "submittedStories": 0,
       "comments": 4,
       "substantiveComments": 3,
       "ownStoryComments": 0,
       "storiesCommented": 4
+    },
+    {
+      "username": "mitr",
+      "submittedStories": 0,
+      "comments": 4,
+      "substantiveComments": 4,
+      "ownStoryComments": 0,
+      "storiesCommented": 1
     },
     {
       "username": "OldGuard",
@@ -235,14 +251,6 @@
       "storiesCommented": 3
     },
     {
-      "username": "mitr",
-      "submittedStories": 0,
-      "comments": 3,
-      "substantiveComments": 3,
-      "ownStoryComments": 0,
-      "storiesCommented": 1
-    },
-    {
       "username": "UnaBomba",
       "submittedStories": 0,
       "comments": 3,
@@ -267,11 +275,11 @@
       "storiesCommented": 2
     },
     {
-      "username": "cezary_cezary",
-      "submittedStories": 1,
-      "comments": 1,
-      "substantiveComments": 0,
-      "ownStoryComments": 1,
+      "username": "Finkla",
+      "submittedStories": 0,
+      "comments": 2,
+      "substantiveComments": 2,
+      "ownStoryComments": 0,
       "storiesCommented": 1
     },
     {
@@ -284,14 +292,6 @@
     },
     {
       "username": "Caern",
-      "submittedStories": 0,
-      "comments": 1,
-      "substantiveComments": 1,
-      "ownStoryComments": 0,
-      "storiesCommented": 1
-    },
-    {
-      "username": "Finkla",
       "submittedStories": 0,
       "comments": 1,
       "substantiveComments": 1,
@@ -329,16 +329,26 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35708",
       "author": "cezary_cezary",
       "publishedAt": "2026-10-29T23:57+01:00",
-      "comments": 3,
-      "substantiveComments": 0,
+      "comments": 10,
+      "substantiveComments": 6,
       "commenters": [
         {
-          "username": "Bartkowski.robert",
-          "comments": 1,
-          "substantiveComments": 0
+          "username": "cezary_cezary",
+          "comments": 4,
+          "substantiveComments": 3
         },
         {
-          "username": "cezary_cezary",
+          "username": "marzan",
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
+          "username": "MichaelBullfinch",
+          "comments": 2,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Bartkowski.robert",
           "comments": 1,
           "substantiveComments": 0
         },
@@ -354,13 +364,18 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35667",
       "author": "MichaelBullfinch",
       "publishedAt": "2026-10-29T13:14+01:00",
-      "comments": 7,
-      "substantiveComments": 6,
+      "comments": 11,
+      "substantiveComments": 10,
       "commenters": [
         {
           "username": "bruce",
           "comments": 2,
           "substantiveComments": 1
+        },
+        {
+          "username": "MichaelBullfinch",
+          "comments": 2,
+          "substantiveComments": 2
         },
         {
           "username": "CZARNA2",
@@ -369,6 +384,11 @@
         },
         {
           "username": "Darkside",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Hesket",
           "comments": 1,
           "substantiveComments": 1
         },
@@ -383,7 +403,12 @@
           "substantiveComments": 1
         },
         {
-          "username": "MichaelBullfinch",
+          "username": "Szafirowy Smok",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "tlok303",
           "comments": 1,
           "substantiveComments": 1
         }
@@ -839,16 +864,21 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35590",
       "author": "Szafirowy Smok",
       "publishedAt": "2026-10-16T05:33+02:00",
-      "comments": 58,
-      "substantiveComments": 52,
+      "comments": 64,
+      "substantiveComments": 58,
       "commenters": [
         {
           "username": "Szafirowy Smok",
-          "comments": 22,
-          "substantiveComments": 21
+          "comments": 25,
+          "substantiveComments": 24
         },
         {
           "username": "marzan",
+          "comments": 6,
+          "substantiveComments": 6
+        },
+        {
+          "username": "mitr",
           "comments": 4,
           "substantiveComments": 4
         },
@@ -861,11 +891,6 @@
           "username": "beeeecki",
           "comments": 3,
           "substantiveComments": 2
-        },
-        {
-          "username": "mitr",
-          "comments": 3,
-          "substantiveComments": 3
         },
         {
           "username": "Ajas",
@@ -1069,8 +1094,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35638",
       "author": "marzan",
       "publishedAt": "2026-10-16T00:02+02:00",
-      "comments": 60,
-      "substantiveComments": 57,
+      "comments": 61,
+      "substantiveComments": 58,
       "commenters": [
         {
           "username": "marzan",
@@ -1089,6 +1114,11 @@
         },
         {
           "username": "Bardjaskier",
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
+          "username": "Finkla",
           "comments": 2,
           "substantiveComments": 2
         },
@@ -1124,11 +1154,6 @@
         },
         {
           "username": "dawidiq150",
-          "comments": 1,
-          "substantiveComments": 1
-        },
-        {
-          "username": "Finkla",
           "comments": 1,
           "substantiveComments": 1
         },
