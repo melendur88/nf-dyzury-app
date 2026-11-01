@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-01T02:09:40+01:00",
+  "updatedAt": "2026-11-01T08:10:26+01:00",
   "summary": {
     "stories": 10,
     "authors": 10,
-    "comments": 406,
-    "substantiveComments": 375
+    "comments": 407,
+    "substantiveComments": 376
   },
   "users": [
     {
@@ -37,10 +37,10 @@
     {
       "username": "Bardjaskier",
       "submittedStories": 1,
-      "comments": 28,
-      "substantiveComments": 26,
+      "comments": 29,
+      "substantiveComments": 27,
       "ownStoryComments": 21,
-      "storiesCommented": 5
+      "storiesCommented": 6
     },
     {
       "username": "tlok303",
@@ -517,8 +517,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35651",
       "author": "beeeecki",
       "publishedAt": "2026-10-23T14:21+02:00",
-      "comments": 48,
-      "substantiveComments": 47,
+      "comments": 49,
+      "substantiveComments": 48,
       "commenters": [
         {
           "username": "beeeecki",
@@ -567,6 +567,11 @@
         },
         {
           "username": "Ambush",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Bardjaskier",
           "comments": 1,
           "substantiveComments": 1
         },
