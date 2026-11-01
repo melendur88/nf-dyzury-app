@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-01T08:10:26+01:00",
+  "updatedAt": "2026-11-01T14:11:11+01:00",
   "summary": {
     "stories": 10,
     "authors": 10,
-    "comments": 407,
-    "substantiveComments": 376
+    "comments": 410,
+    "substantiveComments": 379
   },
   "users": [
     {
@@ -51,20 +51,20 @@
       "storiesCommented": 10
     },
     {
+      "username": "Zielony_Rycerz",
+      "submittedStories": 0,
+      "comments": 19,
+      "substantiveComments": 19,
+      "ownStoryComments": 0,
+      "storiesCommented": 10
+    },
+    {
       "username": "beeeecki",
       "submittedStories": 1,
       "comments": 18,
       "substantiveComments": 17,
       "ownStoryComments": 12,
       "storiesCommented": 4
-    },
-    {
-      "username": "Zielony_Rycerz",
-      "submittedStories": 0,
-      "comments": 18,
-      "substantiveComments": 18,
-      "ownStoryComments": 0,
-      "storiesCommented": 9
     },
     {
       "username": "dawidiq150",
@@ -147,6 +147,14 @@
       "storiesCommented": 4
     },
     {
+      "username": "Finkla",
+      "submittedStories": 0,
+      "comments": 6,
+      "substantiveComments": 6,
+      "ownStoryComments": 0,
+      "storiesCommented": 3
+    },
+    {
       "username": "Hesket",
       "submittedStories": 0,
       "comments": 6,
@@ -177,14 +185,6 @@
       "substantiveComments": 5,
       "ownStoryComments": 0,
       "storiesCommented": 3
-    },
-    {
-      "username": "Finkla",
-      "submittedStories": 0,
-      "comments": 5,
-      "substantiveComments": 5,
-      "ownStoryComments": 0,
-      "storiesCommented": 2
     },
     {
       "username": "GalicyjskiZakapior",
@@ -283,6 +283,14 @@
       "storiesCommented": 2
     },
     {
+      "username": "regulatorzy",
+      "submittedStories": 0,
+      "comments": 2,
+      "substantiveComments": 2,
+      "ownStoryComments": 0,
+      "storiesCommented": 1
+    },
+    {
       "username": "Caern",
       "submittedStories": 0,
       "comments": 1,
@@ -321,14 +329,6 @@
       "substantiveComments": 1,
       "ownStoryComments": 0,
       "storiesCommented": 1
-    },
-    {
-      "username": "regulatorzy",
-      "submittedStories": 0,
-      "comments": 1,
-      "substantiveComments": 1,
-      "ownStoryComments": 0,
-      "storiesCommented": 1
     }
   ],
   "stories": [
@@ -337,8 +337,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35667",
       "author": "MichaelBullfinch",
       "publishedAt": "2026-10-29T13:14+01:00",
-      "comments": 31,
-      "substantiveComments": 27,
+      "comments": 32,
+      "substantiveComments": 28,
       "commenters": [
         {
           "username": "MichaelBullfinch",
@@ -399,6 +399,11 @@
           "username": "Koala75",
           "comments": 1,
           "substantiveComments": 0
+        },
+        {
+          "username": "Zielony_Rycerz",
+          "comments": 1,
+          "substantiveComments": 1
         }
       ]
     },
@@ -917,8 +922,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35590",
       "author": "Szafirowy Smok",
       "publishedAt": "2026-10-16T05:33+02:00",
-      "comments": 67,
-      "substantiveComments": 61,
+      "comments": 68,
+      "substantiveComments": 62,
       "commenters": [
         {
           "username": "Szafirowy Smok",
@@ -977,6 +982,11 @@
         },
         {
           "username": "dawidiq150",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Finkla",
           "comments": 1,
           "substantiveComments": 1
         },
@@ -1152,8 +1162,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35638",
       "author": "marzan",
       "publishedAt": "2026-10-16T00:02+02:00",
-      "comments": 63,
-      "substantiveComments": 60,
+      "comments": 64,
+      "substantiveComments": 61,
       "commenters": [
         {
           "username": "marzan",
@@ -1182,6 +1192,11 @@
         },
         {
           "username": "GalicyjskiZakapior",
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
+          "username": "regulatorzy",
           "comments": 2,
           "substantiveComments": 2
         },
@@ -1257,11 +1272,6 @@
         },
         {
           "username": "OneTwo",
-          "comments": 1,
-          "substantiveComments": 1
-        },
-        {
-          "username": "regulatorzy",
           "comments": 1,
           "substantiveComments": 1
         },
