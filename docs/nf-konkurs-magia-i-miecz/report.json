@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-03T02:16:08+01:00",
+  "updatedAt": "2026-11-03T08:17:07+01:00",
   "summary": {
     "stories": 12,
     "authors": 12,
-    "comments": 522,
-    "substantiveComments": 476
+    "comments": 524,
+    "substantiveComments": 478
   },
   "users": [
     {
@@ -21,8 +21,8 @@
     {
       "username": "marzan",
       "submittedStories": 1,
-      "comments": 59,
-      "substantiveComments": 59,
+      "comments": 60,
+      "substantiveComments": 60,
       "ownStoryComments": 26,
       "storiesCommented": 11
     },
@@ -179,6 +179,14 @@
       "storiesCommented": 8
     },
     {
+      "username": "HollyHell91",
+      "submittedStories": 1,
+      "comments": 7,
+      "substantiveComments": 7,
+      "ownStoryComments": 4,
+      "storiesCommented": 2
+    },
+    {
       "username": "Darkside",
       "submittedStories": 0,
       "comments": 7,
@@ -193,14 +201,6 @@
       "substantiveComments": 5,
       "ownStoryComments": 1,
       "storiesCommented": 6
-    },
-    {
-      "username": "HollyHell91",
-      "submittedStories": 1,
-      "comments": 6,
-      "substantiveComments": 6,
-      "ownStoryComments": 3,
-      "storiesCommented": 2
     },
     {
       "username": "Hesket",
@@ -345,18 +345,18 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35726",
       "author": "CZARNA2",
       "publishedAt": "2026-11-02T15:54+01:00",
-      "comments": 9,
-      "substantiveComments": 8,
+      "comments": 10,
+      "substantiveComments": 9,
       "commenters": [
         {
-          "username": "Paweł_Sawicki",
+          "username": "marzan",
           "comments": 3,
           "substantiveComments": 3
         },
         {
-          "username": "marzan",
-          "comments": 2,
-          "substantiveComments": 2
+          "username": "Paweł_Sawicki",
+          "comments": 3,
+          "substantiveComments": 3
         },
         {
           "username": "Ajas",
@@ -385,9 +385,14 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35714",
       "author": "HollyHell91",
       "publishedAt": "2026-11-01T21:01+01:00",
-      "comments": 26,
-      "substantiveComments": 24,
+      "comments": 27,
+      "substantiveComments": 25,
       "commenters": [
+        {
+          "username": "HollyHell91",
+          "comments": 4,
+          "substantiveComments": 4
+        },
         {
           "username": "marzan",
           "comments": 4,
@@ -410,11 +415,6 @@
         },
         {
           "username": "bruce",
-          "comments": 3,
-          "substantiveComments": 3
-        },
-        {
-          "username": "HollyHell91",
           "comments": 3,
           "substantiveComments": 3
         },
