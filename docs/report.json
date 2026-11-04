@@ -1,7 +1,7 @@
 {
   "month": "2026-10",
   "period": "01.10.2026 - 15.11.2026",
-  "updatedAt": "2026-11-03T21:33:08+01:00",
+  "updatedAt": "2026-11-04T21:33:05+01:00",
   "results": [
     {
       "username": "Ambush",
@@ -109,10 +109,10 @@
         "piatek"
       ],
       "eligible": 5,
-      "commented": 1,
+      "commented": 3,
       "ownStories": 0,
-      "percentage": 20.0,
-      "passed": false
+      "percentage": 60.0,
+      "passed": true
     },
     {
       "username": "Bardjaskier",
