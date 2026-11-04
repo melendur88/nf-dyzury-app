@@ -2,18 +2,18 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-04T08:20:49+01:00",
+  "updatedAt": "2026-11-04T14:21:45+01:00",
   "summary": {
     "stories": 12,
     "authors": 12,
-    "comments": 570,
-    "substantiveComments": 517
+    "comments": 582,
+    "substantiveComments": 527
   },
   "users": [
     {
       "username": "Szafirowy Smok",
       "submittedStories": 1,
-      "comments": 67,
+      "comments": 68,
       "substantiveComments": 58,
       "ownStoryComments": 30,
       "storiesCommented": 12
@@ -21,9 +21,9 @@
     {
       "username": "marzan",
       "submittedStories": 1,
-      "comments": 62,
-      "substantiveComments": 62,
-      "ownStoryComments": 26,
+      "comments": 63,
+      "substantiveComments": 63,
+      "ownStoryComments": 27,
       "storiesCommented": 11
     },
     {
@@ -45,10 +45,18 @@
     {
       "username": "tlok303",
       "submittedStories": 1,
+      "comments": 29,
+      "substantiveComments": 28,
+      "ownStoryComments": 12,
+      "storiesCommented": 10
+    },
+    {
+      "username": "MichaelBullfinch",
+      "submittedStories": 1,
       "comments": 27,
       "substantiveComments": 26,
-      "ownStoryComments": 10,
-      "storiesCommented": 10
+      "ownStoryComments": 14,
+      "storiesCommented": 7
     },
     {
       "username": "beeeecki",
@@ -57,14 +65,6 @@
       "substantiveComments": 24,
       "ownStoryComments": 17,
       "storiesCommented": 5
-    },
-    {
-      "username": "MichaelBullfinch",
-      "submittedStories": 1,
-      "comments": 25,
-      "substantiveComments": 25,
-      "ownStoryComments": 12,
-      "storiesCommented": 7
     },
     {
       "username": "Zielony_Rycerz",
@@ -89,6 +89,14 @@
       "substantiveComments": 16,
       "ownStoryComments": 10,
       "storiesCommented": 7
+    },
+    {
+      "username": "HollyHell91",
+      "submittedStories": 1,
+      "comments": 16,
+      "substantiveComments": 15,
+      "ownStoryComments": 10,
+      "storiesCommented": 3
     },
     {
       "username": "dawidiq150",
@@ -123,20 +131,12 @@
       "storiesCommented": 5
     },
     {
-      "username": "HollyHell91",
-      "submittedStories": 1,
-      "comments": 12,
-      "substantiveComments": 11,
-      "ownStoryComments": 8,
-      "storiesCommented": 3
-    },
-    {
       "username": "Ajas",
       "submittedStories": 0,
-      "comments": 11,
-      "substantiveComments": 11,
+      "comments": 13,
+      "substantiveComments": 13,
       "ownStoryComments": 0,
-      "storiesCommented": 6
+      "storiesCommented": 7
     },
     {
       "username": "Finkla",
@@ -425,17 +425,17 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35714",
       "author": "HollyHell91",
       "publishedAt": "2026-11-01T21:01+01:00",
-      "comments": 40,
-      "substantiveComments": 36,
+      "comments": 43,
+      "substantiveComments": 38,
       "commenters": [
         {
           "username": "HollyHell91",
-          "comments": 8,
-          "substantiveComments": 7
+          "comments": 10,
+          "substantiveComments": 9
         },
         {
           "username": "Szafirowy Smok",
-          "comments": 7,
+          "comments": 8,
           "substantiveComments": 5
         },
         {
@@ -500,13 +500,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35667",
       "author": "MichaelBullfinch",
       "publishedAt": "2026-10-29T13:14+01:00",
-      "comments": 42,
-      "substantiveComments": 37,
+      "comments": 48,
+      "substantiveComments": 42,
       "commenters": [
         {
           "username": "MichaelBullfinch",
-          "comments": 12,
-          "substantiveComments": 12
+          "comments": 14,
+          "substantiveComments": 13
         },
         {
           "username": "bruce",
@@ -522,6 +522,16 @@
           "username": "tlok303",
           "comments": 4,
           "substantiveComments": 4
+        },
+        {
+          "username": "HollyHell91",
+          "comments": 3,
+          "substantiveComments": 3
+        },
+        {
+          "username": "Ajas",
+          "comments": 2,
+          "substantiveComments": 2
         },
         {
           "username": "beeeecki",
@@ -560,11 +570,6 @@
         },
         {
           "username": "Hesket",
-          "comments": 1,
-          "substantiveComments": 1
-        },
-        {
-          "username": "HollyHell91",
           "comments": 1,
           "substantiveComments": 1
         },
@@ -665,13 +670,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35693",
       "author": "tlok303",
       "publishedAt": "2026-10-25T21:30+01:00",
-      "comments": 31,
-      "substantiveComments": 28,
+      "comments": 33,
+      "substantiveComments": 30,
       "commenters": [
         {
           "username": "tlok303",
-          "comments": 10,
-          "substantiveComments": 10
+          "comments": 12,
+          "substantiveComments": 12
         },
         {
           "username": "Tarnina",
@@ -1410,13 +1415,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35638",
       "author": "marzan",
       "publishedAt": "2026-10-16T00:02+02:00",
-      "comments": 74,
-      "substantiveComments": 70,
+      "comments": 75,
+      "substantiveComments": 71,
       "commenters": [
         {
           "username": "marzan",
-          "comments": 26,
-          "substantiveComments": 26
+          "comments": 27,
+          "substantiveComments": 27
         },
         {
           "username": "Szafirowy Smok",
