@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-05T02:23:34+01:00",
+  "updatedAt": "2026-11-05T08:24:27+01:00",
   "summary": {
     "stories": 12,
     "authors": 12,
-    "comments": 608,
-    "substantiveComments": 551
+    "comments": 610,
+    "substantiveComments": 553
   },
   "users": [
     {
@@ -21,8 +21,8 @@
     {
       "username": "marzan",
       "submittedStories": 1,
-      "comments": 65,
-      "substantiveComments": 65,
+      "comments": 66,
+      "substantiveComments": 66,
       "ownStoryComments": 29,
       "storiesCommented": 11
     },
@@ -221,8 +221,8 @@
     {
       "username": "Tarnina",
       "submittedStories": 0,
-      "comments": 7,
-      "substantiveComments": 6,
+      "comments": 8,
+      "substantiveComments": 7,
       "ownStoryComments": 0,
       "storiesCommented": 1
     },
@@ -353,17 +353,17 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35726",
       "author": "CZARNA2",
       "publishedAt": "2026-11-02T15:54+01:00",
-      "comments": 34,
-      "substantiveComments": 30,
+      "comments": 35,
+      "substantiveComments": 31,
       "commenters": [
+        {
+          "username": "marzan",
+          "comments": 6,
+          "substantiveComments": 6
+        },
         {
           "username": "Paweł_Sawicki",
           "comments": 6,
-          "substantiveComments": 5
-        },
-        {
-          "username": "marzan",
-          "comments": 5,
           "substantiveComments": 5
         },
         {
@@ -708,8 +708,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35693",
       "author": "tlok303",
       "publishedAt": "2026-10-25T21:30+01:00",
-      "comments": 36,
-      "substantiveComments": 33,
+      "comments": 37,
+      "substantiveComments": 34,
       "commenters": [
         {
           "username": "tlok303",
@@ -718,8 +718,8 @@
         },
         {
           "username": "Tarnina",
-          "comments": 7,
-          "substantiveComments": 6
+          "comments": 8,
+          "substantiveComments": 7
         },
         {
           "username": "marzan",
