@@ -1,7 +1,7 @@
 {
   "month": "2026-10",
   "period": "01.10.2026 - 15.11.2026",
-  "updatedAt": "2026-11-04T21:33:05+01:00",
+  "updatedAt": "2026-11-05T21:33:04+01:00",
   "results": [
     {
       "username": "Ambush",
@@ -20,10 +20,10 @@
         "poniedzialek"
       ],
       "eligible": 11,
-      "commented": 5,
+      "commented": 6,
       "ownStories": 0,
-      "percentage": 45.5,
-      "passed": false
+      "percentage": 54.5,
+      "passed": true
     },
     {
       "username": "zygfryd89",
@@ -42,9 +42,9 @@
         "wtorek"
       ],
       "eligible": 9,
-      "commented": 1,
+      "commented": 2,
       "ownStories": 0,
-      "percentage": 11.1,
+      "percentage": 22.2,
       "passed": false
     },
     {
