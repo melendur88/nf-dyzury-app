@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-06T02:27:09+01:00",
+  "updatedAt": "2026-11-06T08:28:01+01:00",
   "summary": {
     "stories": 12,
     "authors": 12,
-    "comments": 639,
-    "substantiveComments": 577
+    "comments": 640,
+    "substantiveComments": 578
   },
   "users": [
     {
@@ -187,6 +187,14 @@
       "storiesCommented": 9
     },
     {
+      "username": "Tarnina",
+      "submittedStories": 0,
+      "comments": 10,
+      "substantiveComments": 9,
+      "ownStoryComments": 0,
+      "storiesCommented": 1
+    },
+    {
       "username": "Hesket",
       "submittedStories": 0,
       "comments": 9,
@@ -201,14 +209,6 @@
       "substantiveComments": 8,
       "ownStoryComments": 0,
       "storiesCommented": 8
-    },
-    {
-      "username": "Tarnina",
-      "submittedStories": 0,
-      "comments": 9,
-      "substantiveComments": 8,
-      "ownStoryComments": 0,
-      "storiesCommented": 1
     },
     {
       "username": "AP",
@@ -718,8 +718,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35693",
       "author": "tlok303",
       "publishedAt": "2026-10-25T21:30+01:00",
-      "comments": 41,
-      "substantiveComments": 37,
+      "comments": 42,
+      "substantiveComments": 38,
       "commenters": [
         {
           "username": "tlok303",
@@ -728,8 +728,8 @@
         },
         {
           "username": "Tarnina",
-          "comments": 9,
-          "substantiveComments": 8
+          "comments": 10,
+          "substantiveComments": 9
         },
         {
           "username": "marzan",
