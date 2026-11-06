@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-05T20:26:14+01:00",
+  "updatedAt": "2026-11-06T02:27:09+01:00",
   "summary": {
     "stories": 12,
     "authors": 12,
-    "comments": 636,
-    "substantiveComments": 575
+    "comments": 639,
+    "substantiveComments": 577
   },
   "users": [
     {
@@ -69,8 +69,8 @@
     {
       "username": "Zielony_Rycerz",
       "submittedStories": 0,
-      "comments": 25,
-      "substantiveComments": 25,
+      "comments": 26,
+      "substantiveComments": 26,
       "ownStoryComments": 0,
       "storiesCommented": 12
     },
@@ -139,6 +139,14 @@
       "storiesCommented": 7
     },
     {
+      "username": "CZARNA2",
+      "submittedStories": 1,
+      "comments": 12,
+      "substantiveComments": 8,
+      "ownStoryComments": 7,
+      "storiesCommented": 6
+    },
+    {
       "username": "Paweł_Sawicki",
       "submittedStories": 0,
       "comments": 12,
@@ -177,14 +185,6 @@
       "substantiveComments": 11,
       "ownStoryComments": 0,
       "storiesCommented": 9
-    },
-    {
-      "username": "CZARNA2",
-      "submittedStories": 1,
-      "comments": 10,
-      "substantiveComments": 7,
-      "ownStoryComments": 5,
-      "storiesCommented": 6
     },
     {
       "username": "Hesket",
@@ -353,9 +353,14 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35726",
       "author": "CZARNA2",
       "publishedAt": "2026-11-02T15:54+01:00",
-      "comments": 42,
-      "substantiveComments": 35,
+      "comments": 45,
+      "substantiveComments": 37,
       "commenters": [
+        {
+          "username": "CZARNA2",
+          "comments": 7,
+          "substantiveComments": 4
+        },
         {
           "username": "marzan",
           "comments": 7,
@@ -367,11 +372,6 @@
           "substantiveComments": 5
         },
         {
-          "username": "CZARNA2",
-          "comments": 5,
-          "substantiveComments": 3
-        },
-        {
           "username": "Szafirowy Smok",
           "comments": 4,
           "substantiveComments": 2
@@ -380,6 +380,11 @@
           "username": "beeeecki",
           "comments": 3,
           "substantiveComments": 2
+        },
+        {
+          "username": "Zielony_Rycerz",
+          "comments": 3,
+          "substantiveComments": 3
         },
         {
           "username": "Hesket",
@@ -393,11 +398,6 @@
         },
         {
           "username": "OneTwo",
-          "comments": 2,
-          "substantiveComments": 2
-        },
-        {
-          "username": "Zielony_Rycerz",
           "comments": 2,
           "substantiveComments": 2
         },
