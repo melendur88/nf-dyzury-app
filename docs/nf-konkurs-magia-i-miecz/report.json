@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-06T14:28:58+01:00",
+  "updatedAt": "2026-11-06T20:29:58+01:00",
   "summary": {
-    "stories": 12,
-    "authors": 12,
-    "comments": 660,
-    "substantiveComments": 598
+    "stories": 13,
+    "authors": 13,
+    "comments": 669,
+    "substantiveComments": 607
   },
   "users": [
     {
@@ -45,17 +45,17 @@
     {
       "username": "tlok303",
       "submittedStories": 1,
-      "comments": 37,
-      "substantiveComments": 36,
-      "ownStoryComments": 17,
+      "comments": 39,
+      "substantiveComments": 38,
+      "ownStoryComments": 18,
       "storiesCommented": 12
     },
     {
       "username": "MichaelBullfinch",
       "submittedStories": 1,
-      "comments": 32,
-      "substantiveComments": 31,
-      "ownStoryComments": 16,
+      "comments": 34,
+      "substantiveComments": 33,
+      "ownStoryComments": 18,
       "storiesCommented": 10
     },
     {
@@ -83,6 +83,14 @@
       "storiesCommented": 3
     },
     {
+      "username": "regulatorzy",
+      "submittedStories": 0,
+      "comments": 21,
+      "substantiveComments": 19,
+      "ownStoryComments": 0,
+      "storiesCommented": 8
+    },
+    {
       "username": "Storm",
       "submittedStories": 1,
       "comments": 20,
@@ -99,14 +107,6 @@
       "storiesCommented": 12
     },
     {
-      "username": "regulatorzy",
-      "submittedStories": 0,
-      "comments": 18,
-      "substantiveComments": 16,
-      "ownStoryComments": 0,
-      "storiesCommented": 7
-    },
-    {
       "username": "dawidiq150",
       "submittedStories": 1,
       "comments": 16,
@@ -120,6 +120,14 @@
       "comments": 16,
       "substantiveComments": 16,
       "ownStoryComments": 0,
+      "storiesCommented": 7
+    },
+    {
+      "username": "CZARNA2",
+      "submittedStories": 1,
+      "comments": 14,
+      "substantiveComments": 10,
+      "ownStoryComments": 8,
       "storiesCommented": 7
     },
     {
@@ -139,16 +147,8 @@
       "storiesCommented": 6
     },
     {
-      "username": "CZARNA2",
-      "submittedStories": 1,
-      "comments": 13,
-      "substantiveComments": 9,
-      "ownStoryComments": 8,
-      "storiesCommented": 6
-    },
-    {
       "username": "OneTwo",
-      "submittedStories": 0,
+      "submittedStories": 1,
       "comments": 12,
       "substantiveComments": 12,
       "ownStoryComments": 0,
@@ -189,8 +189,8 @@
     {
       "username": "Tarnina",
       "submittedStories": 0,
-      "comments": 10,
-      "substantiveComments": 9,
+      "comments": 11,
+      "substantiveComments": 10,
       "ownStoryComments": 0,
       "storiesCommented": 1
     },
@@ -349,6 +349,21 @@
   ],
   "stories": [
     {
+      "title": "Cena frajerstwa",
+      "url": "https://www.fantastyka.pl/opowiadania/pokaz/35663",
+      "author": "OneTwo",
+      "publishedAt": "2026-11-06T18:58+01:00",
+      "comments": 1,
+      "substantiveComments": 1,
+      "commenters": [
+        {
+          "username": "CZARNA2",
+          "comments": 1,
+          "substantiveComments": 1
+        }
+      ]
+    },
+    {
       "title": "Egzekutor, wiedźma i regulator",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35726",
       "author": "CZARNA2",
@@ -458,8 +473,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35714",
       "author": "HollyHell91",
       "publishedAt": "2026-11-01T21:01+01:00",
-      "comments": 62,
-      "substantiveComments": 57,
+      "comments": 63,
+      "substantiveComments": 58,
       "commenters": [
         {
           "username": "HollyHell91",
@@ -497,17 +512,17 @@
           "substantiveComments": 3
         },
         {
+          "username": "tlok303",
+          "comments": 3,
+          "substantiveComments": 3
+        },
+        {
           "username": "nul",
           "comments": 2,
           "substantiveComments": 2
         },
         {
           "username": "Paweł_Sawicki",
-          "comments": 2,
-          "substantiveComments": 2
-        },
-        {
-          "username": "tlok303",
           "comments": 2,
           "substantiveComments": 2
         },
@@ -558,13 +573,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35667",
       "author": "MichaelBullfinch",
       "publishedAt": "2026-10-29T13:14+01:00",
-      "comments": 55,
-      "substantiveComments": 48,
+      "comments": 59,
+      "substantiveComments": 52,
       "commenters": [
         {
           "username": "MichaelBullfinch",
-          "comments": 16,
-          "substantiveComments": 15
+          "comments": 18,
+          "substantiveComments": 17
         },
         {
           "username": "bruce",
@@ -588,6 +603,11 @@
         },
         {
           "username": "Ajas",
+          "comments": 3,
+          "substantiveComments": 3
+        },
+        {
+          "username": "regulatorzy",
           "comments": 3,
           "substantiveComments": 3
         },
@@ -655,11 +675,6 @@
           "username": "OneTwo",
           "comments": 1,
           "substantiveComments": 1
-        },
-        {
-          "username": "regulatorzy",
-          "comments": 1,
-          "substantiveComments": 1
         }
       ]
     },
@@ -668,8 +683,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35707",
       "author": "JolkaK",
       "publishedAt": "2026-10-28T21:05+01:00",
-      "comments": 31,
-      "substantiveComments": 30,
+      "comments": 32,
+      "substantiveComments": 31,
       "commenters": [
         {
           "username": "JolkaK",
@@ -727,6 +742,11 @@
           "substantiveComments": 1
         },
         {
+          "username": "regulatorzy",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
           "username": "Robert Raks",
           "comments": 1,
           "substantiveComments": 1
@@ -738,18 +758,18 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35693",
       "author": "tlok303",
       "publishedAt": "2026-10-25T21:30+01:00",
-      "comments": 43,
-      "substantiveComments": 39,
+      "comments": 45,
+      "substantiveComments": 41,
       "commenters": [
         {
           "username": "tlok303",
-          "comments": 17,
-          "substantiveComments": 17
+          "comments": 18,
+          "substantiveComments": 18
         },
         {
           "username": "Tarnina",
-          "comments": 10,
-          "substantiveComments": 9
+          "comments": 11,
+          "substantiveComments": 10
         },
         {
           "username": "marzan",
