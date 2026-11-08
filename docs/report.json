@@ -1,7 +1,7 @@
 {
   "month": "2026-10",
   "period": "01.10.2026 - 15.11.2026",
-  "updatedAt": "2026-11-07T21:33:01+01:00",
+  "updatedAt": "2026-11-08T21:33:06+01:00",
   "results": [
     {
       "username": "Ambush",
@@ -31,10 +31,10 @@
         "wtorek"
       ],
       "eligible": 9,
-      "commented": 4,
+      "commented": 6,
       "ownStories": 0,
-      "percentage": 44.4,
-      "passed": false
+      "percentage": 66.7,
+      "passed": true
     },
     {
       "username": "Marszawa",
@@ -42,10 +42,10 @@
         "wtorek"
       ],
       "eligible": 9,
-      "commented": 4,
+      "commented": 5,
       "ownStories": 0,
-      "percentage": 44.4,
-      "passed": false
+      "percentage": 55.6,
+      "passed": true
     },
     {
       "username": "regulatorzy",
