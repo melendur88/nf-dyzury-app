@@ -2,28 +2,28 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-08T14:36:45+01:00",
+  "updatedAt": "2026-11-08T20:37:45+01:00",
   "summary": {
-    "stories": 13,
-    "authors": 13,
-    "comments": 703,
-    "substantiveComments": 638
+    "stories": 14,
+    "authors": 14,
+    "comments": 713,
+    "substantiveComments": 647
   },
   "users": [
     {
       "username": "marzan",
       "submittedStories": 1,
-      "comments": 78,
-      "substantiveComments": 78,
+      "comments": 79,
+      "substantiveComments": 79,
       "ownStoryComments": 30,
       "storiesCommented": 12
     },
     {
       "username": "Szafirowy Smok",
       "submittedStories": 1,
-      "comments": 73,
-      "substantiveComments": 62,
-      "ownStoryComments": 31,
+      "comments": 74,
+      "substantiveComments": 63,
+      "ownStoryComments": 32,
       "storiesCommented": 12
     },
     {
@@ -35,20 +35,20 @@
       "storiesCommented": 6
     },
     {
+      "username": "tlok303",
+      "submittedStories": 1,
+      "comments": 40,
+      "substantiveComments": 39,
+      "ownStoryComments": 19,
+      "storiesCommented": 12
+    },
+    {
       "username": "bruce",
       "submittedStories": 0,
       "comments": 40,
       "substantiveComments": 34,
       "ownStoryComments": 0,
       "storiesCommented": 9
-    },
-    {
-      "username": "tlok303",
-      "submittedStories": 1,
-      "comments": 39,
-      "substantiveComments": 38,
-      "ownStoryComments": 18,
-      "storiesCommented": 12
     },
     {
       "username": "MichaelBullfinch",
@@ -75,6 +75,14 @@
       "storiesCommented": 12
     },
     {
+      "username": "regulatorzy",
+      "submittedStories": 0,
+      "comments": 25,
+      "substantiveComments": 22,
+      "ownStoryComments": 0,
+      "storiesCommented": 9
+    },
+    {
       "username": "HollyHell91",
       "submittedStories": 1,
       "comments": 23,
@@ -83,20 +91,12 @@
       "storiesCommented": 3
     },
     {
-      "username": "regulatorzy",
-      "submittedStories": 0,
-      "comments": 23,
-      "substantiveComments": 20,
-      "ownStoryComments": 0,
-      "storiesCommented": 8
-    },
-    {
       "username": "Storm",
       "submittedStories": 1,
-      "comments": 21,
-      "substantiveComments": 20,
+      "comments": 22,
+      "substantiveComments": 21,
       "ownStoryComments": 13,
-      "storiesCommented": 8
+      "storiesCommented": 9
     },
     {
       "username": "barniusz",
@@ -227,20 +227,20 @@
       "storiesCommented": 5
     },
     {
+      "username": "OldGuard",
+      "submittedStories": 0,
+      "comments": 8,
+      "substantiveComments": 0,
+      "ownStoryComments": 0,
+      "storiesCommented": 8
+    },
+    {
       "username": "jonaszf",
       "submittedStories": 0,
       "comments": 7,
       "substantiveComments": 6,
       "ownStoryComments": 0,
       "storiesCommented": 5
-    },
-    {
-      "username": "OldGuard",
-      "submittedStories": 0,
-      "comments": 7,
-      "substantiveComments": 0,
-      "ownStoryComments": 0,
-      "storiesCommented": 7
     },
     {
       "username": "betweenthelines",
@@ -299,6 +299,14 @@
       "storiesCommented": 4
     },
     {
+      "username": "Ambush",
+      "submittedStories": 0,
+      "comments": 3,
+      "substantiveComments": 3,
+      "ownStoryComments": 0,
+      "storiesCommented": 3
+    },
+    {
       "username": "UnaBomba",
       "submittedStories": 0,
       "comments": 3,
@@ -307,12 +315,12 @@
       "storiesCommented": 2
     },
     {
-      "username": "Ambush",
-      "submittedStories": 0,
+      "username": "Rafael Sanki",
+      "submittedStories": 1,
       "comments": 2,
       "substantiveComments": 2,
-      "ownStoryComments": 0,
-      "storiesCommented": 2
+      "ownStoryComments": 2,
+      "storiesCommented": 1
     },
     {
       "username": "Grzesiek_W",
@@ -357,17 +365,47 @@
   ],
   "stories": [
     {
+      "title": "Głowa do dołu, głowa do góry",
+      "url": "https://www.fantastyka.pl/opowiadania/pokaz/35755",
+      "author": "Rafael Sanki",
+      "publishedAt": "2026-11-08T17:45+01:00",
+      "comments": 4,
+      "substantiveComments": 3,
+      "commenters": [
+        {
+          "username": "Rafael Sanki",
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
+          "username": "Ambush",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "OldGuard",
+          "comments": 1,
+          "substantiveComments": 0
+        }
+      ]
+    },
+    {
       "title": "Cena frajerstwa",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35663",
       "author": "OneTwo",
       "publishedAt": "2026-11-06T18:58+01:00",
-      "comments": 20,
-      "substantiveComments": 19,
+      "comments": 21,
+      "substantiveComments": 20,
       "commenters": [
         {
           "username": "OneTwo",
           "comments": 5,
           "substantiveComments": 5
+        },
+        {
+          "username": "marzan",
+          "comments": 4,
+          "substantiveComments": 4
         },
         {
           "username": "Ajas",
@@ -378,11 +416,6 @@
           "username": "jonaszf",
           "comments": 3,
           "substantiveComments": 2
-        },
-        {
-          "username": "marzan",
-          "comments": 3,
-          "substantiveComments": 3
         },
         {
           "username": "barniusz",
@@ -621,8 +654,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35667",
       "author": "MichaelBullfinch",
       "publishedAt": "2026-10-29T13:14+01:00",
-      "comments": 61,
-      "substantiveComments": 53,
+      "comments": 62,
+      "substantiveComments": 54,
       "commenters": [
         {
           "username": "MichaelBullfinch",
@@ -723,6 +756,11 @@
           "username": "OneTwo",
           "comments": 1,
           "substantiveComments": 1
+        },
+        {
+          "username": "Storm",
+          "comments": 1,
+          "substantiveComments": 1
         }
       ]
     },
@@ -806,13 +844,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35693",
       "author": "tlok303",
       "publishedAt": "2026-10-25T21:30+01:00",
-      "comments": 47,
-      "substantiveComments": 43,
+      "comments": 50,
+      "substantiveComments": 46,
       "commenters": [
         {
           "username": "tlok303",
-          "comments": 18,
-          "substantiveComments": 18
+          "comments": 19,
+          "substantiveComments": 19
         },
         {
           "username": "Tarnina",
@@ -831,6 +869,11 @@
         },
         {
           "username": "Darkside",
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
+          "username": "regulatorzy",
           "comments": 2,
           "substantiveComments": 2
         },
@@ -1351,13 +1394,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35590",
       "author": "Szafirowy Smok",
       "publishedAt": "2026-10-16T05:33+02:00",
-      "comments": 77,
-      "substantiveComments": 69,
+      "comments": 78,
+      "substantiveComments": 70,
       "commenters": [
         {
           "username": "Szafirowy Smok",
-          "comments": 31,
-          "substantiveComments": 29
+          "comments": 32,
+          "substantiveComments": 30
         },
         {
           "username": "marzan",
