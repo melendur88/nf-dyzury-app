@@ -2,19 +2,19 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-08T02:34:45+01:00",
+  "updatedAt": "2026-11-08T08:35:41+01:00",
   "summary": {
     "stories": 13,
     "authors": 13,
-    "comments": 697,
-    "substantiveComments": 632
+    "comments": 698,
+    "substantiveComments": 633
   },
   "users": [
     {
       "username": "marzan",
       "submittedStories": 1,
-      "comments": 77,
-      "substantiveComments": 77,
+      "comments": 78,
+      "substantiveComments": 78,
       "ownStoryComments": 30,
       "storiesCommented": 12
     },
@@ -361,8 +361,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35663",
       "author": "OneTwo",
       "publishedAt": "2026-11-06T18:58+01:00",
-      "comments": 17,
-      "substantiveComments": 16,
+      "comments": 18,
+      "substantiveComments": 17,
       "commenters": [
         {
           "username": "OneTwo",
@@ -375,17 +375,17 @@
           "substantiveComments": 2
         },
         {
+          "username": "marzan",
+          "comments": 3,
+          "substantiveComments": 3
+        },
+        {
           "username": "Ajas",
           "comments": 2,
           "substantiveComments": 2
         },
         {
           "username": "barniusz",
-          "comments": 2,
-          "substantiveComments": 2
-        },
-        {
-          "username": "marzan",
           "comments": 2,
           "substantiveComments": 2
         },
