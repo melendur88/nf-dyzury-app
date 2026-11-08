@@ -2,19 +2,19 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-07T20:33:46+01:00",
+  "updatedAt": "2026-11-08T02:34:45+01:00",
   "summary": {
     "stories": 13,
     "authors": 13,
-    "comments": 693,
-    "substantiveComments": 628
+    "comments": 697,
+    "substantiveComments": 632
   },
   "users": [
     {
       "username": "marzan",
       "submittedStories": 1,
-      "comments": 76,
-      "substantiveComments": 76,
+      "comments": 77,
+      "substantiveComments": 77,
       "ownStoryComments": 30,
       "storiesCommented": 12
     },
@@ -109,10 +109,18 @@
     {
       "username": "Ajas",
       "submittedStories": 0,
-      "comments": 17,
-      "substantiveComments": 17,
+      "comments": 18,
+      "substantiveComments": 18,
       "ownStoryComments": 0,
       "storiesCommented": 8
+    },
+    {
+      "username": "OneTwo",
+      "submittedStories": 1,
+      "comments": 17,
+      "substantiveComments": 17,
+      "ownStoryComments": 4,
+      "storiesCommented": 12
     },
     {
       "username": "dawidiq150",
@@ -121,14 +129,6 @@
       "substantiveComments": 15,
       "ownStoryComments": 8,
       "storiesCommented": 7
-    },
-    {
-      "username": "OneTwo",
-      "submittedStories": 1,
-      "comments": 16,
-      "substantiveComments": 16,
-      "ownStoryComments": 3,
-      "storiesCommented": 12
     },
     {
       "username": "JolkaK",
@@ -339,6 +339,14 @@
       "storiesCommented": 1
     },
     {
+      "username": "Login1",
+      "submittedStories": 0,
+      "comments": 1,
+      "substantiveComments": 1,
+      "ownStoryComments": 0,
+      "storiesCommented": 1
+    },
+    {
       "username": "Młody pisarz",
       "submittedStories": 0,
       "comments": 1,
@@ -353,18 +361,23 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35663",
       "author": "OneTwo",
       "publishedAt": "2026-11-06T18:58+01:00",
-      "comments": 13,
-      "substantiveComments": 12,
+      "comments": 17,
+      "substantiveComments": 16,
       "commenters": [
+        {
+          "username": "OneTwo",
+          "comments": 4,
+          "substantiveComments": 4
+        },
         {
           "username": "jonaszf",
           "comments": 3,
           "substantiveComments": 2
         },
         {
-          "username": "OneTwo",
-          "comments": 3,
-          "substantiveComments": 3
+          "username": "Ajas",
+          "comments": 2,
+          "substantiveComments": 2
         },
         {
           "username": "barniusz",
@@ -372,9 +385,9 @@
           "substantiveComments": 2
         },
         {
-          "username": "Ajas",
-          "comments": 1,
-          "substantiveComments": 1
+          "username": "marzan",
+          "comments": 2,
+          "substantiveComments": 2
         },
         {
           "username": "CZARNA2",
@@ -387,7 +400,7 @@
           "substantiveComments": 1
         },
         {
-          "username": "marzan",
+          "username": "Login1",
           "comments": 1,
           "substantiveComments": 1
         },
