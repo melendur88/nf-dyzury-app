@@ -2,14 +2,22 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-09T14:40:56+01:00",
+  "updatedAt": "2026-11-09T20:42:00+01:00",
   "summary": {
     "stories": 15,
     "authors": 15,
-    "comments": 727,
-    "substantiveComments": 661
+    "comments": 739,
+    "substantiveComments": 671
   },
   "users": [
+    {
+      "username": "Szafirowy Smok",
+      "submittedStories": 1,
+      "comments": 81,
+      "substantiveComments": 68,
+      "ownStoryComments": 32,
+      "storiesCommented": 15
+    },
     {
       "username": "marzan",
       "submittedStories": 1,
@@ -19,27 +27,19 @@
       "storiesCommented": 12
     },
     {
-      "username": "Szafirowy Smok",
-      "submittedStories": 1,
-      "comments": 76,
-      "substantiveComments": 65,
-      "ownStoryComments": 32,
-      "storiesCommented": 13
-    },
-    {
       "username": "Bardjaskier",
       "submittedStories": 1,
-      "comments": 44,
-      "substantiveComments": 36,
-      "ownStoryComments": 32,
+      "comments": 45,
+      "substantiveComments": 37,
+      "ownStoryComments": 33,
       "storiesCommented": 6
     },
     {
       "username": "tlok303",
       "submittedStories": 1,
-      "comments": 41,
-      "substantiveComments": 40,
-      "ownStoryComments": 20,
+      "comments": 42,
+      "substantiveComments": 41,
+      "ownStoryComments": 21,
       "storiesCommented": 12
     },
     {
@@ -85,17 +85,17 @@
     {
       "username": "barniusz",
       "submittedStories": 1,
-      "comments": 23,
-      "substantiveComments": 22,
+      "comments": 25,
+      "substantiveComments": 24,
       "ownStoryComments": 3,
       "storiesCommented": 14
     },
     {
       "username": "HollyHell91",
       "submittedStories": 1,
-      "comments": 23,
-      "substantiveComments": 22,
-      "ownStoryComments": 15,
+      "comments": 24,
+      "substantiveComments": 23,
+      "ownStoryComments": 16,
       "storiesCommented": 3
     },
     {
@@ -117,9 +117,9 @@
     {
       "username": "OneTwo",
       "submittedStories": 1,
-      "comments": 18,
-      "substantiveComments": 18,
-      "ownStoryComments": 5,
+      "comments": 19,
+      "substantiveComments": 19,
+      "ownStoryComments": 6,
       "storiesCommented": 12
     },
     {
@@ -361,6 +361,14 @@
       "substantiveComments": 1,
       "ownStoryComments": 0,
       "storiesCommented": 1
+    },
+    {
+      "username": "tfurca",
+      "submittedStories": 0,
+      "comments": 1,
+      "substantiveComments": 1,
+      "ownStoryComments": 0,
+      "storiesCommented": 1
     }
   ],
   "stories": [
@@ -399,8 +407,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35755",
       "author": "Rafael Sanki",
       "publishedAt": "2026-11-08T17:45+01:00",
-      "comments": 4,
-      "substantiveComments": 3,
+      "comments": 5,
+      "substantiveComments": 4,
       "commenters": [
         {
           "username": "Rafael Sanki",
@@ -416,6 +424,11 @@
           "username": "OldGuard",
           "comments": 1,
           "substantiveComments": 0
+        },
+        {
+          "username": "Szafirowy Smok",
+          "comments": 1,
+          "substantiveComments": 1
         }
       ]
     },
@@ -424,18 +437,28 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35663",
       "author": "OneTwo",
       "publishedAt": "2026-11-06T18:58+01:00",
-      "comments": 22,
-      "substantiveComments": 21,
+      "comments": 29,
+      "substantiveComments": 26,
       "commenters": [
         {
           "username": "OneTwo",
-          "comments": 5,
-          "substantiveComments": 5
+          "comments": 6,
+          "substantiveComments": 6
+        },
+        {
+          "username": "barniusz",
+          "comments": 4,
+          "substantiveComments": 4
         },
         {
           "username": "marzan",
           "comments": 4,
           "substantiveComments": 4
+        },
+        {
+          "username": "Szafirowy Smok",
+          "comments": 4,
+          "substantiveComments": 2
         },
         {
           "username": "Ajas",
@@ -445,11 +468,6 @@
         {
           "username": "jonaszf",
           "comments": 3,
-          "substantiveComments": 2
-        },
-        {
-          "username": "barniusz",
-          "comments": 2,
           "substantiveComments": 2
         },
         {
@@ -584,13 +602,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35714",
       "author": "HollyHell91",
       "publishedAt": "2026-11-01T21:01+01:00",
-      "comments": 65,
-      "substantiveComments": 60,
+      "comments": 66,
+      "substantiveComments": 61,
       "commenters": [
         {
           "username": "HollyHell91",
-          "comments": 15,
-          "substantiveComments": 14
+          "comments": 16,
+          "substantiveComments": 15
         },
         {
           "username": "marzan",
@@ -874,13 +892,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35693",
       "author": "tlok303",
       "publishedAt": "2026-10-25T21:30+01:00",
-      "comments": 54,
-      "substantiveComments": 50,
+      "comments": 55,
+      "substantiveComments": 51,
       "commenters": [
         {
           "username": "tlok303",
-          "comments": 20,
-          "substantiveComments": 20
+          "comments": 21,
+          "substantiveComments": 21
         },
         {
           "username": "Tarnina",
@@ -1574,13 +1592,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35647",
       "author": "Bardjaskier",
       "publishedAt": "2026-10-16T05:29+02:00",
-      "comments": 83,
-      "substantiveComments": 73,
+      "comments": 85,
+      "substantiveComments": 75,
       "commenters": [
         {
           "username": "Bardjaskier",
-          "comments": 32,
-          "substantiveComments": 26
+          "comments": 33,
+          "substantiveComments": 27
         },
         {
           "username": "bruce",
@@ -1679,6 +1697,11 @@
         },
         {
           "username": "Szafirowy Smok",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "tfurca",
           "comments": 1,
           "substantiveComments": 1
         }
