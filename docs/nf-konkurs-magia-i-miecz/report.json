@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-09T08:39:50+01:00",
+  "updatedAt": "2026-11-09T14:40:56+01:00",
   "summary": {
-    "stories": 14,
-    "authors": 14,
-    "comments": 717,
-    "substantiveComments": 651
+    "stories": 15,
+    "authors": 15,
+    "comments": 727,
+    "substantiveComments": 661
   },
   "users": [
     {
@@ -21,10 +21,10 @@
     {
       "username": "Szafirowy Smok",
       "submittedStories": 1,
-      "comments": 74,
-      "substantiveComments": 63,
+      "comments": 76,
+      "substantiveComments": 65,
       "ownStoryComments": 32,
-      "storiesCommented": 12
+      "storiesCommented": 13
     },
     {
       "username": "Bardjaskier",
@@ -43,20 +43,20 @@
       "storiesCommented": 12
     },
     {
+      "username": "MichaelBullfinch",
+      "submittedStories": 1,
+      "comments": 40,
+      "substantiveComments": 39,
+      "ownStoryComments": 20,
+      "storiesCommented": 12
+    },
+    {
       "username": "bruce",
       "submittedStories": 0,
       "comments": 40,
       "substantiveComments": 34,
       "ownStoryComments": 0,
       "storiesCommented": 9
-    },
-    {
-      "username": "MichaelBullfinch",
-      "submittedStories": 1,
-      "comments": 38,
-      "substantiveComments": 37,
-      "ownStoryComments": 19,
-      "storiesCommented": 12
     },
     {
       "username": "beeeecki",
@@ -83,6 +83,14 @@
       "storiesCommented": 12
     },
     {
+      "username": "barniusz",
+      "submittedStories": 1,
+      "comments": 23,
+      "substantiveComments": 22,
+      "ownStoryComments": 3,
+      "storiesCommented": 14
+    },
+    {
       "username": "HollyHell91",
       "submittedStories": 1,
       "comments": 23,
@@ -99,20 +107,12 @@
       "storiesCommented": 10
     },
     {
-      "username": "barniusz",
-      "submittedStories": 0,
-      "comments": 20,
-      "substantiveComments": 19,
-      "ownStoryComments": 0,
-      "storiesCommented": 13
-    },
-    {
       "username": "Ajas",
       "submittedStories": 0,
-      "comments": 19,
-      "substantiveComments": 19,
+      "comments": 21,
+      "substantiveComments": 21,
       "ownStoryComments": 0,
-      "storiesCommented": 8
+      "storiesCommented": 9
     },
     {
       "username": "OneTwo",
@@ -197,10 +197,10 @@
     {
       "username": "Hesket",
       "submittedStories": 0,
-      "comments": 9,
-      "substantiveComments": 9,
+      "comments": 10,
+      "substantiveComments": 10,
       "ownStoryComments": 0,
-      "storiesCommented": 8
+      "storiesCommented": 9
     },
     {
       "username": "Marszawa",
@@ -365,6 +365,36 @@
   ],
   "stories": [
     {
+      "title": "Przedostatnie życzenie",
+      "url": "https://www.fantastyka.pl/opowiadania/pokaz/35760",
+      "author": "barniusz",
+      "publishedAt": "2026-11-09T10:41+01:00",
+      "comments": 8,
+      "substantiveComments": 8,
+      "commenters": [
+        {
+          "username": "barniusz",
+          "comments": 3,
+          "substantiveComments": 3
+        },
+        {
+          "username": "Ajas",
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
+          "username": "Szafirowy Smok",
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
+          "username": "Hesket",
+          "comments": 1,
+          "substantiveComments": 1
+        }
+      ]
+    },
+    {
       "title": "Głowa do dołu, głowa do góry",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35755",
       "author": "Rafael Sanki",
@@ -394,8 +424,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35663",
       "author": "OneTwo",
       "publishedAt": "2026-11-06T18:58+01:00",
-      "comments": 21,
-      "substantiveComments": 20,
+      "comments": 22,
+      "substantiveComments": 21,
       "commenters": [
         {
           "username": "OneTwo",
@@ -423,6 +453,11 @@
           "substantiveComments": 2
         },
         {
+          "username": "MichaelBullfinch",
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
           "username": "CZARNA2",
           "comments": 1,
           "substantiveComments": 1
@@ -434,11 +469,6 @@
         },
         {
           "username": "Login1",
-          "comments": 1,
-          "substantiveComments": 1
-        },
-        {
-          "username": "MichaelBullfinch",
           "comments": 1,
           "substantiveComments": 1
         }
@@ -654,13 +684,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35667",
       "author": "MichaelBullfinch",
       "publishedAt": "2026-10-29T13:14+01:00",
-      "comments": 62,
-      "substantiveComments": 54,
+      "comments": 63,
+      "substantiveComments": 55,
       "commenters": [
         {
           "username": "MichaelBullfinch",
-          "comments": 19,
-          "substantiveComments": 18
+          "comments": 20,
+          "substantiveComments": 19
         },
         {
           "username": "bruce",
