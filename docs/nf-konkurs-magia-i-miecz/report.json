@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-08T20:37:45+01:00",
+  "updatedAt": "2026-11-09T02:38:47+01:00",
   "summary": {
     "stories": 14,
     "authors": 14,
-    "comments": 713,
-    "substantiveComments": 647
+    "comments": 716,
+    "substantiveComments": 650
   },
   "users": [
     {
@@ -37,9 +37,9 @@
     {
       "username": "tlok303",
       "submittedStories": 1,
-      "comments": 40,
-      "substantiveComments": 39,
-      "ownStoryComments": 19,
+      "comments": 41,
+      "substantiveComments": 40,
+      "ownStoryComments": 20,
       "storiesCommented": 12
     },
     {
@@ -67,20 +67,20 @@
       "storiesCommented": 5
     },
     {
+      "username": "regulatorzy",
+      "submittedStories": 0,
+      "comments": 26,
+      "substantiveComments": 23,
+      "ownStoryComments": 0,
+      "storiesCommented": 9
+    },
+    {
       "username": "Zielony_Rycerz",
       "submittedStories": 0,
       "comments": 26,
       "substantiveComments": 26,
       "ownStoryComments": 0,
       "storiesCommented": 12
-    },
-    {
-      "username": "regulatorzy",
-      "submittedStories": 0,
-      "comments": 25,
-      "substantiveComments": 22,
-      "ownStoryComments": 0,
-      "storiesCommented": 9
     },
     {
       "username": "HollyHell91",
@@ -93,10 +93,10 @@
     {
       "username": "Storm",
       "submittedStories": 1,
-      "comments": 22,
-      "substantiveComments": 21,
+      "comments": 23,
+      "substantiveComments": 22,
       "ownStoryComments": 13,
-      "storiesCommented": 9
+      "storiesCommented": 10
     },
     {
       "username": "barniusz",
@@ -844,13 +844,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35693",
       "author": "tlok303",
       "publishedAt": "2026-10-25T21:30+01:00",
-      "comments": 50,
-      "substantiveComments": 46,
+      "comments": 53,
+      "substantiveComments": 49,
       "commenters": [
         {
           "username": "tlok303",
-          "comments": 19,
-          "substantiveComments": 19
+          "comments": 20,
+          "substantiveComments": 20
         },
         {
           "username": "Tarnina",
@@ -863,17 +863,17 @@
           "substantiveComments": 3
         },
         {
+          "username": "regulatorzy",
+          "comments": 3,
+          "substantiveComments": 3
+        },
+        {
           "username": "barniusz",
           "comments": 2,
           "substantiveComments": 2
         },
         {
           "username": "Darkside",
-          "comments": 2,
-          "substantiveComments": 2
-        },
-        {
-          "username": "regulatorzy",
           "comments": 2,
           "substantiveComments": 2
         },
@@ -914,6 +914,11 @@
         },
         {
           "username": "Robert Raks",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Storm",
           "comments": 1,
           "substantiveComments": 1
         }
