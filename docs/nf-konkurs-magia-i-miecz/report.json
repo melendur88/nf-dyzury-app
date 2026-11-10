@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-09T20:42:00+01:00",
+  "updatedAt": "2026-11-10T02:43:07+01:00",
   "summary": {
     "stories": 15,
     "authors": 15,
-    "comments": 739,
-    "substantiveComments": 671
+    "comments": 741,
+    "substantiveComments": 673
   },
   "users": [
     {
@@ -157,10 +157,10 @@
     {
       "username": "Finkla",
       "submittedStories": 0,
-      "comments": 13,
-      "substantiveComments": 11,
+      "comments": 14,
+      "substantiveComments": 12,
       "ownStoryComments": 0,
-      "storiesCommented": 5
+      "storiesCommented": 6
     },
     {
       "username": "Tarnina",
@@ -275,18 +275,18 @@
       "storiesCommented": 1
     },
     {
-      "username": "Ślimak Zagłady",
+      "username": "nul",
       "submittedStories": 0,
       "comments": 5,
       "substantiveComments": 5,
       "ownStoryComments": 0,
-      "storiesCommented": 2
+      "storiesCommented": 3
     },
     {
-      "username": "nul",
+      "username": "Ślimak Zagłady",
       "submittedStories": 0,
-      "comments": 4,
-      "substantiveComments": 4,
+      "comments": 5,
+      "substantiveComments": 5,
       "ownStoryComments": 0,
       "storiesCommented": 2
     },
@@ -437,8 +437,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35663",
       "author": "OneTwo",
       "publishedAt": "2026-11-06T18:58+01:00",
-      "comments": 29,
-      "substantiveComments": 26,
+      "comments": 30,
+      "substantiveComments": 27,
       "commenters": [
         {
           "username": "OneTwo",
@@ -487,6 +487,11 @@
         },
         {
           "username": "Login1",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "nul",
           "comments": 1,
           "substantiveComments": 1
         }
@@ -977,8 +982,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35651",
       "author": "beeeecki",
       "publishedAt": "2026-10-23T14:21+02:00",
-      "comments": 64,
-      "substantiveComments": 62,
+      "comments": 65,
+      "substantiveComments": 63,
       "commenters": [
         {
           "username": "beeeecki",
@@ -1042,6 +1047,11 @@
         },
         {
           "username": "barniusz",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Finkla",
           "comments": 1,
           "substantiveComments": 1
         },
