@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-10T14:45:19+01:00",
+  "updatedAt": "2026-11-10T20:46:27+01:00",
   "summary": {
     "stories": 15,
     "authors": 15,
-    "comments": 747,
-    "substantiveComments": 679
+    "comments": 751,
+    "substantiveComments": 683
   },
   "users": [
     {
@@ -61,9 +61,9 @@
     {
       "username": "beeeecki",
       "submittedStories": 1,
-      "comments": 28,
-      "substantiveComments": 26,
-      "ownStoryComments": 19,
+      "comments": 30,
+      "substantiveComments": 28,
+      "ownStoryComments": 21,
       "storiesCommented": 5
     },
     {
@@ -117,9 +117,9 @@
     {
       "username": "OneTwo",
       "submittedStories": 1,
-      "comments": 19,
-      "substantiveComments": 19,
-      "ownStoryComments": 6,
+      "comments": 20,
+      "substantiveComments": 20,
+      "ownStoryComments": 7,
       "storiesCommented": 12
     },
     {
@@ -131,19 +131,19 @@
       "storiesCommented": 8
     },
     {
+      "username": "Finkla",
+      "submittedStories": 0,
+      "comments": 16,
+      "substantiveComments": 14,
+      "ownStoryComments": 0,
+      "storiesCommented": 6
+    },
+    {
       "username": "JolkaK",
       "submittedStories": 1,
       "comments": 15,
       "substantiveComments": 15,
       "ownStoryComments": 10,
-      "storiesCommented": 6
-    },
-    {
-      "username": "Finkla",
-      "submittedStories": 0,
-      "comments": 15,
-      "substantiveComments": 13,
-      "ownStoryComments": 0,
       "storiesCommented": 6
     },
     {
@@ -442,13 +442,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35663",
       "author": "OneTwo",
       "publishedAt": "2026-11-06T18:58+01:00",
-      "comments": 30,
-      "substantiveComments": 27,
+      "comments": 31,
+      "substantiveComments": 28,
       "commenters": [
         {
           "username": "OneTwo",
-          "comments": 6,
-          "substantiveComments": 6
+          "comments": 7,
+          "substantiveComments": 7
         },
         {
           "username": "barniusz",
@@ -987,13 +987,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35651",
       "author": "beeeecki",
       "publishedAt": "2026-10-23T14:21+02:00",
-      "comments": 67,
-      "substantiveComments": 65,
+      "comments": 70,
+      "substantiveComments": 68,
       "commenters": [
         {
           "username": "beeeecki",
-          "comments": 19,
-          "substantiveComments": 19
+          "comments": 21,
+          "substantiveComments": 21
         },
         {
           "username": "bruce",
@@ -1016,6 +1016,11 @@
           "substantiveComments": 4
         },
         {
+          "username": "Finkla",
+          "comments": 3,
+          "substantiveComments": 3
+        },
+        {
           "username": "Zielony_Rycerz",
           "comments": 3,
           "substantiveComments": 3
@@ -1027,11 +1032,6 @@
         },
         {
           "username": "dawidiq150",
-          "comments": 2,
-          "substantiveComments": 2
-        },
-        {
-          "username": "Finkla",
           "comments": 2,
           "substantiveComments": 2
         },
