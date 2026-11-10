@@ -2,14 +2,22 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-10T08:44:13+01:00",
+  "updatedAt": "2026-11-10T14:45:19+01:00",
   "summary": {
     "stories": 15,
     "authors": 15,
-    "comments": 741,
-    "substantiveComments": 673
+    "comments": 747,
+    "substantiveComments": 679
   },
   "users": [
+    {
+      "username": "marzan",
+      "submittedStories": 1,
+      "comments": 81,
+      "substantiveComments": 81,
+      "ownStoryComments": 30,
+      "storiesCommented": 13
+    },
     {
       "username": "Szafirowy Smok",
       "submittedStories": 1,
@@ -17,14 +25,6 @@
       "substantiveComments": 68,
       "ownStoryComments": 32,
       "storiesCommented": 15
-    },
-    {
-      "username": "marzan",
-      "submittedStories": 1,
-      "comments": 79,
-      "substantiveComments": 79,
-      "ownStoryComments": 30,
-      "storiesCommented": 12
     },
     {
       "username": "Bardjaskier",
@@ -61,10 +61,18 @@
     {
       "username": "beeeecki",
       "submittedStories": 1,
-      "comments": 27,
-      "substantiveComments": 25,
-      "ownStoryComments": 18,
+      "comments": 28,
+      "substantiveComments": 26,
+      "ownStoryComments": 19,
       "storiesCommented": 5
+    },
+    {
+      "username": "barniusz",
+      "submittedStories": 1,
+      "comments": 26,
+      "substantiveComments": 25,
+      "ownStoryComments": 4,
+      "storiesCommented": 14
     },
     {
       "username": "regulatorzy",
@@ -81,14 +89,6 @@
       "substantiveComments": 26,
       "ownStoryComments": 0,
       "storiesCommented": 12
-    },
-    {
-      "username": "barniusz",
-      "submittedStories": 1,
-      "comments": 25,
-      "substantiveComments": 24,
-      "ownStoryComments": 3,
-      "storiesCommented": 14
     },
     {
       "username": "HollyHell91",
@@ -139,6 +139,14 @@
       "storiesCommented": 6
     },
     {
+      "username": "Finkla",
+      "submittedStories": 0,
+      "comments": 15,
+      "substantiveComments": 13,
+      "ownStoryComments": 0,
+      "storiesCommented": 6
+    },
+    {
       "username": "CZARNA2",
       "submittedStories": 1,
       "comments": 14,
@@ -153,14 +161,6 @@
       "substantiveComments": 14,
       "ownStoryComments": 14,
       "storiesCommented": 1
-    },
-    {
-      "username": "Finkla",
-      "submittedStories": 0,
-      "comments": 14,
-      "substantiveComments": 12,
-      "ownStoryComments": 0,
-      "storiesCommented": 6
     },
     {
       "username": "Tarnina",
@@ -299,6 +299,14 @@
       "storiesCommented": 4
     },
     {
+      "username": "Rafael Sanki",
+      "submittedStories": 1,
+      "comments": 3,
+      "substantiveComments": 3,
+      "ownStoryComments": 3,
+      "storiesCommented": 1
+    },
+    {
       "username": "Ambush",
       "submittedStories": 0,
       "comments": 3,
@@ -313,14 +321,6 @@
       "substantiveComments": 3,
       "ownStoryComments": 0,
       "storiesCommented": 2
-    },
-    {
-      "username": "Rafael Sanki",
-      "submittedStories": 1,
-      "comments": 2,
-      "substantiveComments": 2,
-      "ownStoryComments": 2,
-      "storiesCommented": 1
     },
     {
       "username": "Grzesiek_W",
@@ -377,16 +377,21 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35760",
       "author": "barniusz",
       "publishedAt": "2026-11-09T10:41+01:00",
-      "comments": 8,
-      "substantiveComments": 8,
+      "comments": 11,
+      "substantiveComments": 11,
       "commenters": [
         {
           "username": "barniusz",
-          "comments": 3,
-          "substantiveComments": 3
+          "comments": 4,
+          "substantiveComments": 4
         },
         {
           "username": "Ajas",
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
+          "username": "marzan",
           "comments": 2,
           "substantiveComments": 2
         },
@@ -407,13 +412,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35755",
       "author": "Rafael Sanki",
       "publishedAt": "2026-11-08T17:45+01:00",
-      "comments": 5,
-      "substantiveComments": 4,
+      "comments": 6,
+      "substantiveComments": 5,
       "commenters": [
         {
           "username": "Rafael Sanki",
-          "comments": 2,
-          "substantiveComments": 2
+          "comments": 3,
+          "substantiveComments": 3
         },
         {
           "username": "Ambush",
@@ -982,13 +987,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35651",
       "author": "beeeecki",
       "publishedAt": "2026-10-23T14:21+02:00",
-      "comments": 65,
-      "substantiveComments": 63,
+      "comments": 67,
+      "substantiveComments": 65,
       "commenters": [
         {
           "username": "beeeecki",
-          "comments": 18,
-          "substantiveComments": 18
+          "comments": 19,
+          "substantiveComments": 19
         },
         {
           "username": "bruce",
@@ -1026,6 +1031,11 @@
           "substantiveComments": 2
         },
         {
+          "username": "Finkla",
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
           "username": "marzan",
           "comments": 2,
           "substantiveComments": 2
@@ -1047,11 +1057,6 @@
         },
         {
           "username": "barniusz",
-          "comments": 1,
-          "substantiveComments": 1
-        },
-        {
-          "username": "Finkla",
           "comments": 1,
           "substantiveComments": 1
         },
