@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-11T02:47:33+01:00",
+  "updatedAt": "2026-11-11T08:48:42+01:00",
   "summary": {
     "stories": 15,
     "authors": 15,
-    "comments": 755,
-    "substantiveComments": 687
+    "comments": 756,
+    "substantiveComments": 688
   },
   "users": [
     {
@@ -243,6 +243,14 @@
       "storiesCommented": 5
     },
     {
+      "username": "mitr",
+      "submittedStories": 0,
+      "comments": 7,
+      "substantiveComments": 7,
+      "ownStoryComments": 0,
+      "storiesCommented": 2
+    },
+    {
       "username": "betweenthelines",
       "submittedStories": 0,
       "comments": 6,
@@ -265,14 +273,6 @@
       "substantiveComments": 6,
       "ownStoryComments": 0,
       "storiesCommented": 5
-    },
-    {
-      "username": "mitr",
-      "submittedStories": 0,
-      "comments": 6,
-      "substantiveComments": 6,
-      "ownStoryComments": 0,
-      "storiesCommented": 2
     },
     {
       "username": "nul",
@@ -412,8 +412,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35755",
       "author": "Rafael Sanki",
       "publishedAt": "2026-11-08T17:45+01:00",
-      "comments": 8,
-      "substantiveComments": 7,
+      "comments": 9,
+      "substantiveComments": 8,
       "commenters": [
         {
           "username": "Rafael Sanki",
@@ -421,12 +421,12 @@
           "substantiveComments": 4
         },
         {
-          "username": "Ambush",
-          "comments": 1,
-          "substantiveComments": 1
+          "username": "mitr",
+          "comments": 2,
+          "substantiveComments": 2
         },
         {
-          "username": "mitr",
+          "username": "Ambush",
           "comments": 1,
           "substantiveComments": 1
         },
