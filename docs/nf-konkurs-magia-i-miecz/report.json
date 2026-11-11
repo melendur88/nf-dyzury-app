@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-11T20:50:52+01:00",
+  "updatedAt": "2026-11-11T23:08:17+01:00",
   "summary": {
     "stories": 15,
     "authors": 15,
-    "comments": 776,
-    "substantiveComments": 705
+    "comments": 778,
+    "substantiveComments": 707
   },
   "users": [
     {
@@ -67,20 +67,20 @@
       "storiesCommented": 6
     },
     {
+      "username": "barniusz",
+      "submittedStories": 1,
+      "comments": 27,
+      "substantiveComments": 26,
+      "ownStoryComments": 5,
+      "storiesCommented": 14
+    },
+    {
       "username": "Zielony_Rycerz",
       "submittedStories": 0,
       "comments": 27,
       "substantiveComments": 27,
       "ownStoryComments": 0,
       "storiesCommented": 13
-    },
-    {
-      "username": "barniusz",
-      "submittedStories": 1,
-      "comments": 26,
-      "substantiveComments": 25,
-      "ownStoryComments": 4,
-      "storiesCommented": 14
     },
     {
       "username": "regulatorzy",
@@ -235,6 +235,14 @@
       "storiesCommented": 4
     },
     {
+      "username": "GalicyjskiZakapior",
+      "submittedStories": 0,
+      "comments": 7,
+      "substantiveComments": 7,
+      "ownStoryComments": 0,
+      "storiesCommented": 6
+    },
+    {
       "username": "jonaszf",
       "submittedStories": 0,
       "comments": 7,
@@ -265,14 +273,6 @@
       "substantiveComments": 6,
       "ownStoryComments": 0,
       "storiesCommented": 6
-    },
-    {
-      "username": "GalicyjskiZakapior",
-      "submittedStories": 0,
-      "comments": 6,
-      "substantiveComments": 6,
-      "ownStoryComments": 0,
-      "storiesCommented": 5
     },
     {
       "username": "nul",
@@ -377,13 +377,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35760",
       "author": "barniusz",
       "publishedAt": "2026-11-09T10:41+01:00",
-      "comments": 12,
-      "substantiveComments": 12,
+      "comments": 14,
+      "substantiveComments": 14,
       "commenters": [
         {
           "username": "barniusz",
-          "comments": 4,
-          "substantiveComments": 4
+          "comments": 5,
+          "substantiveComments": 5
         },
         {
           "username": "Ajas",
@@ -402,6 +402,11 @@
         },
         {
           "username": "Darkside",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "GalicyjskiZakapior",
           "comments": 1,
           "substantiveComments": 1
         },
