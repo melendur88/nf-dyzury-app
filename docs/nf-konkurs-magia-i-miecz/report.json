@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-10T20:46:27+01:00",
+  "updatedAt": "2026-11-11T02:47:33+01:00",
   "summary": {
     "stories": 15,
     "authors": 15,
-    "comments": 751,
-    "substantiveComments": 683
+    "comments": 755,
+    "substantiveComments": 687
   },
   "users": [
     {
@@ -67,6 +67,14 @@
       "storiesCommented": 5
     },
     {
+      "username": "Zielony_Rycerz",
+      "submittedStories": 0,
+      "comments": 27,
+      "substantiveComments": 27,
+      "ownStoryComments": 0,
+      "storiesCommented": 13
+    },
+    {
       "username": "barniusz",
       "submittedStories": 1,
       "comments": 26,
@@ -81,14 +89,6 @@
       "substantiveComments": 23,
       "ownStoryComments": 0,
       "storiesCommented": 9
-    },
-    {
-      "username": "Zielony_Rycerz",
-      "submittedStories": 0,
-      "comments": 26,
-      "substantiveComments": 26,
-      "ownStoryComments": 0,
-      "storiesCommented": 12
     },
     {
       "username": "HollyHell91",
@@ -133,8 +133,8 @@
     {
       "username": "Finkla",
       "submittedStories": 0,
-      "comments": 16,
-      "substantiveComments": 14,
+      "comments": 17,
+      "substantiveComments": 15,
       "ownStoryComments": 0,
       "storiesCommented": 6
     },
@@ -269,10 +269,10 @@
     {
       "username": "mitr",
       "submittedStories": 0,
-      "comments": 5,
-      "substantiveComments": 5,
+      "comments": 6,
+      "substantiveComments": 6,
       "ownStoryComments": 0,
-      "storiesCommented": 1
+      "storiesCommented": 2
     },
     {
       "username": "nul",
@@ -291,20 +291,20 @@
       "storiesCommented": 2
     },
     {
+      "username": "Rafael Sanki",
+      "submittedStories": 1,
+      "comments": 4,
+      "substantiveComments": 4,
+      "ownStoryComments": 4,
+      "storiesCommented": 1
+    },
+    {
       "username": "SknerusMacKwacz",
       "submittedStories": 0,
       "comments": 4,
       "substantiveComments": 4,
       "ownStoryComments": 0,
       "storiesCommented": 4
-    },
-    {
-      "username": "Rafael Sanki",
-      "submittedStories": 1,
-      "comments": 3,
-      "substantiveComments": 3,
-      "ownStoryComments": 3,
-      "storiesCommented": 1
     },
     {
       "username": "Ambush",
@@ -412,16 +412,21 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35755",
       "author": "Rafael Sanki",
       "publishedAt": "2026-11-08T17:45+01:00",
-      "comments": 6,
-      "substantiveComments": 5,
+      "comments": 8,
+      "substantiveComments": 7,
       "commenters": [
         {
           "username": "Rafael Sanki",
-          "comments": 3,
-          "substantiveComments": 3
+          "comments": 4,
+          "substantiveComments": 4
         },
         {
           "username": "Ambush",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "mitr",
           "comments": 1,
           "substantiveComments": 1
         },
@@ -442,8 +447,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35663",
       "author": "OneTwo",
       "publishedAt": "2026-11-06T18:58+01:00",
-      "comments": 31,
-      "substantiveComments": 28,
+      "comments": 32,
+      "substantiveComments": 29,
       "commenters": [
         {
           "username": "OneTwo",
@@ -497,6 +502,11 @@
         },
         {
           "username": "nul",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Zielony_Rycerz",
           "comments": 1,
           "substantiveComments": 1
         }
@@ -987,8 +997,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35651",
       "author": "beeeecki",
       "publishedAt": "2026-10-23T14:21+02:00",
-      "comments": 70,
-      "substantiveComments": 68,
+      "comments": 71,
+      "substantiveComments": 69,
       "commenters": [
         {
           "username": "beeeecki",
@@ -1011,14 +1021,14 @@
           "substantiveComments": 4
         },
         {
-          "username": "HollyHell91",
+          "username": "Finkla",
           "comments": 4,
           "substantiveComments": 4
         },
         {
-          "username": "Finkla",
-          "comments": 3,
-          "substantiveComments": 3
+          "username": "HollyHell91",
+          "comments": 4,
+          "substantiveComments": 4
         },
         {
           "username": "Zielony_Rycerz",
