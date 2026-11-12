@@ -1,7 +1,7 @@
 {
   "month": "2026-10",
   "period": "01.10.2026 - 15.11.2026",
-  "updatedAt": "2026-11-11T21:32:54+01:00",
+  "updatedAt": "2026-11-12T21:33:13+01:00",
   "results": [
     {
       "username": "Ambush",
@@ -48,6 +48,17 @@
       "passed": true
     },
     {
+      "username": "ManeTekelFares",
+      "weekdays": [
+        "wtorek"
+      ],
+      "eligible": 9,
+      "commented": 6,
+      "ownStories": 0,
+      "percentage": 66.7,
+      "passed": true
+    },
+    {
       "username": "regulatorzy",
       "weekdays": [
         "sroda",
@@ -60,15 +71,15 @@
       "passed": true
     },
     {
-      "username": "cezary_cezary",
+      "username": "marzan",
       "weekdays": [
         "sroda"
       ],
       "eligible": 3,
-      "commented": 0,
+      "commented": 2,
       "ownStories": 0,
-      "percentage": 0.0,
-      "passed": false
+      "percentage": 66.7,
+      "passed": true
     },
     {
       "username": "Sagitt",
@@ -113,6 +124,17 @@
       "ownStories": 0,
       "percentage": 60.0,
       "passed": true
+    },
+    {
+      "username": "bruce",
+      "weekdays": [
+        "sobota"
+      ],
+      "eligible": 11,
+      "commented": 3,
+      "ownStories": 0,
+      "percentage": 27.3,
+      "passed": false
     },
     {
       "username": "Bardjaskier",
