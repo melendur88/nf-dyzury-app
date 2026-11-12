@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-12T17:11:42+01:00",
+  "updatedAt": "2026-11-12T23:12:49+01:00",
   "summary": {
     "stories": 15,
     "authors": 15,
-    "comments": 790,
-    "substantiveComments": 717
+    "comments": 795,
+    "substantiveComments": 721
   },
   "users": [
     {
@@ -29,24 +29,24 @@
     {
       "username": "Bardjaskier",
       "submittedStories": 1,
-      "comments": 47,
+      "comments": 48,
       "substantiveComments": 39,
       "ownStoryComments": 34,
       "storiesCommented": 7
+    },
+    {
+      "username": "MichaelBullfinch",
+      "submittedStories": 1,
+      "comments": 42,
+      "substantiveComments": 41,
+      "ownStoryComments": 22,
+      "storiesCommented": 12
     },
     {
       "username": "tlok303",
       "submittedStories": 1,
       "comments": 42,
       "substantiveComments": 41,
-      "ownStoryComments": 21,
-      "storiesCommented": 12
-    },
-    {
-      "username": "MichaelBullfinch",
-      "submittedStories": 1,
-      "comments": 41,
-      "substantiveComments": 40,
       "ownStoryComments": 21,
       "storiesCommented": 12
     },
@@ -117,10 +117,10 @@
     {
       "username": "Finkla",
       "submittedStories": 0,
-      "comments": 22,
-      "substantiveComments": 19,
+      "comments": 23,
+      "substantiveComments": 20,
       "ownStoryComments": 0,
-      "storiesCommented": 7
+      "storiesCommented": 8
     },
     {
       "username": "Ajas",
@@ -219,6 +219,14 @@
       "storiesCommented": 6
     },
     {
+      "username": "GalicyjskiZakapior",
+      "submittedStories": 0,
+      "comments": 9,
+      "substantiveComments": 9,
+      "ownStoryComments": 0,
+      "storiesCommented": 8
+    },
+    {
       "username": "Marszawa",
       "submittedStories": 0,
       "comments": 9,
@@ -233,14 +241,6 @@
       "substantiveComments": 8,
       "ownStoryComments": 0,
       "storiesCommented": 4
-    },
-    {
-      "username": "GalicyjskiZakapior",
-      "submittedStories": 0,
-      "comments": 7,
-      "substantiveComments": 7,
-      "ownStoryComments": 0,
-      "storiesCommented": 6
     },
     {
       "username": "jonaszf",
@@ -657,8 +657,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35714",
       "author": "HollyHell91",
       "publishedAt": "2026-11-01T21:01+01:00",
-      "comments": 67,
-      "substantiveComments": 62,
+      "comments": 68,
+      "substantiveComments": 63,
       "commenters": [
         {
           "username": "HollyHell91",
@@ -726,6 +726,11 @@
           "substantiveComments": 1
         },
         {
+          "username": "GalicyjskiZakapior",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
           "username": "Hesket",
           "comments": 1,
           "substantiveComments": 1
@@ -762,13 +767,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35667",
       "author": "MichaelBullfinch",
       "publishedAt": "2026-10-29T13:14+01:00",
-      "comments": 66,
-      "substantiveComments": 58,
+      "comments": 69,
+      "substantiveComments": 60,
       "commenters": [
         {
           "username": "MichaelBullfinch",
-          "comments": 21,
-          "substantiveComments": 20
+          "comments": 22,
+          "substantiveComments": 21
         },
         {
           "username": "bruce",
@@ -801,6 +806,11 @@
           "substantiveComments": 3
         },
         {
+          "username": "Bardjaskier",
+          "comments": 2,
+          "substantiveComments": 1
+        },
+        {
           "username": "beeeecki",
           "comments": 2,
           "substantiveComments": 2
@@ -831,17 +841,17 @@
           "substantiveComments": 2
         },
         {
-          "username": "Bardjaskier",
-          "comments": 1,
-          "substantiveComments": 1
-        },
-        {
           "username": "barniusz",
           "comments": 1,
           "substantiveComments": 1
         },
         {
           "username": "CZARNA2",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Finkla",
           "comments": 1,
           "substantiveComments": 1
         },
@@ -887,8 +897,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35707",
       "author": "JolkaK",
       "publishedAt": "2026-10-28T21:05+01:00",
-      "comments": 35,
-      "substantiveComments": 34,
+      "comments": 36,
+      "substantiveComments": 35,
       "commenters": [
         {
           "username": "JolkaK",
@@ -942,6 +952,11 @@
         },
         {
           "username": "Finkla",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "GalicyjskiZakapior",
           "comments": 1,
           "substantiveComments": 1
         },
