@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-11T23:08:17+01:00",
+  "updatedAt": "2026-11-12T05:09:25+01:00",
   "summary": {
     "stories": 15,
     "authors": 15,
-    "comments": 778,
-    "substantiveComments": 707
+    "comments": 779,
+    "substantiveComments": 708
   },
   "users": [
     {
@@ -125,10 +125,10 @@
     {
       "username": "Finkla",
       "submittedStories": 0,
-      "comments": 20,
-      "substantiveComments": 17,
+      "comments": 21,
+      "substantiveComments": 18,
       "ownStoryComments": 0,
-      "storiesCommented": 6
+      "storiesCommented": 7
     },
     {
       "username": "dawidiq150",
@@ -872,8 +872,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35707",
       "author": "JolkaK",
       "publishedAt": "2026-10-28T21:05+01:00",
-      "comments": 34,
-      "substantiveComments": 33,
+      "comments": 35,
+      "substantiveComments": 34,
       "commenters": [
         {
           "username": "JolkaK",
@@ -922,6 +922,11 @@
         },
         {
           "username": "Darkside",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Finkla",
           "comments": 1,
           "substantiveComments": 1
         },
