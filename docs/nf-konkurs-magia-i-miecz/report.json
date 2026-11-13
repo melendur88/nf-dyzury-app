@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-13T05:13:56+01:00",
+  "updatedAt": "2026-11-13T11:15:06+01:00",
   "summary": {
     "stories": 15,
     "authors": 15,
-    "comments": 801,
-    "substantiveComments": 726
+    "comments": 803,
+    "substantiveComments": 728
   },
   "users": [
     {
@@ -91,20 +91,20 @@
       "storiesCommented": 9
     },
     {
+      "username": "HollyHell91",
+      "submittedStories": 1,
+      "comments": 25,
+      "substantiveComments": 24,
+      "ownStoryComments": 16,
+      "storiesCommented": 3
+    },
+    {
       "username": "Finkla",
       "submittedStories": 0,
       "comments": 25,
       "substantiveComments": 22,
       "ownStoryComments": 0,
       "storiesCommented": 8
-    },
-    {
-      "username": "HollyHell91",
-      "submittedStories": 1,
-      "comments": 24,
-      "substantiveComments": 23,
-      "ownStoryComments": 16,
-      "storiesCommented": 3
     },
     {
       "username": "OneTwo",
@@ -141,9 +141,9 @@
     {
       "username": "JolkaK",
       "submittedStories": 1,
-      "comments": 16,
-      "substantiveComments": 16,
-      "ownStoryComments": 10,
+      "comments": 17,
+      "substantiveComments": 17,
+      "ownStoryComments": 11,
       "storiesCommented": 7
     },
     {
@@ -767,13 +767,18 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35667",
       "author": "MichaelBullfinch",
       "publishedAt": "2026-10-29T13:14+01:00",
-      "comments": 75,
-      "substantiveComments": 65,
+      "comments": 76,
+      "substantiveComments": 66,
       "commenters": [
         {
           "username": "MichaelBullfinch",
           "comments": 24,
           "substantiveComments": 23
+        },
+        {
+          "username": "HollyHell91",
+          "comments": 5,
+          "substantiveComments": 5
         },
         {
           "username": "Bardjaskier",
@@ -784,11 +789,6 @@
           "username": "bruce",
           "comments": 4,
           "substantiveComments": 3
-        },
-        {
-          "username": "HollyHell91",
-          "comments": 4,
-          "substantiveComments": 4
         },
         {
           "username": "regulatorzy",
@@ -897,13 +897,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35707",
       "author": "JolkaK",
       "publishedAt": "2026-10-28T21:05+01:00",
-      "comments": 36,
-      "substantiveComments": 35,
+      "comments": 37,
+      "substantiveComments": 36,
       "commenters": [
         {
           "username": "JolkaK",
-          "comments": 10,
-          "substantiveComments": 10
+          "comments": 11,
+          "substantiveComments": 11
         },
         {
           "username": "marzan",
