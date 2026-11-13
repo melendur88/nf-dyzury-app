@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-13T11:15:06+01:00",
+  "updatedAt": "2026-11-13T17:16:17+01:00",
   "summary": {
     "stories": 15,
     "authors": 15,
-    "comments": 803,
-    "substantiveComments": 728
+    "comments": 807,
+    "substantiveComments": 732
   },
   "users": [
     {
@@ -75,6 +75,22 @@
       "storiesCommented": 14
     },
     {
+      "username": "Finkla",
+      "submittedStories": 0,
+      "comments": 27,
+      "substantiveComments": 24,
+      "ownStoryComments": 0,
+      "storiesCommented": 8
+    },
+    {
+      "username": "regulatorzy",
+      "submittedStories": 0,
+      "comments": 27,
+      "substantiveComments": 24,
+      "ownStoryComments": 0,
+      "storiesCommented": 10
+    },
+    {
       "username": "Zielony_Rycerz",
       "submittedStories": 0,
       "comments": 27,
@@ -83,28 +99,12 @@
       "storiesCommented": 13
     },
     {
-      "username": "regulatorzy",
-      "submittedStories": 0,
-      "comments": 26,
-      "substantiveComments": 23,
-      "ownStoryComments": 0,
-      "storiesCommented": 9
-    },
-    {
       "username": "HollyHell91",
       "submittedStories": 1,
       "comments": 25,
       "substantiveComments": 24,
       "ownStoryComments": 16,
       "storiesCommented": 3
-    },
-    {
-      "username": "Finkla",
-      "submittedStories": 0,
-      "comments": 25,
-      "substantiveComments": 22,
-      "ownStoryComments": 0,
-      "storiesCommented": 8
     },
     {
       "username": "OneTwo",
@@ -364,6 +364,14 @@
     },
     {
       "username": "tfurca",
+      "submittedStories": 0,
+      "comments": 1,
+      "substantiveComments": 1,
+      "ownStoryComments": 0,
+      "storiesCommented": 1
+    },
+    {
+      "username": "Vycherpious",
       "submittedStories": 0,
       "comments": 1,
       "substantiveComments": 1,
@@ -657,8 +665,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35714",
       "author": "HollyHell91",
       "publishedAt": "2026-11-01T21:01+01:00",
-      "comments": 68,
-      "substantiveComments": 63,
+      "comments": 69,
+      "substantiveComments": 64,
       "commenters": [
         {
           "username": "HollyHell91",
@@ -751,6 +759,11 @@
           "substantiveComments": 1
         },
         {
+          "username": "regulatorzy",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
           "username": "Robert Raks",
           "comments": 1,
           "substantiveComments": 1
@@ -767,8 +780,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35667",
       "author": "MichaelBullfinch",
       "publishedAt": "2026-10-29T13:14+01:00",
-      "comments": 76,
-      "substantiveComments": 66,
+      "comments": 78,
+      "substantiveComments": 68,
       "commenters": [
         {
           "username": "MichaelBullfinch",
@@ -791,6 +804,11 @@
           "substantiveComments": 3
         },
         {
+          "username": "Finkla",
+          "comments": 4,
+          "substantiveComments": 4
+        },
+        {
           "username": "regulatorzy",
           "comments": 4,
           "substantiveComments": 3
@@ -807,11 +825,6 @@
         },
         {
           "username": "Ajas",
-          "comments": 3,
-          "substantiveComments": 3
-        },
-        {
-          "username": "Finkla",
           "comments": 3,
           "substantiveComments": 3
         },
@@ -889,6 +902,11 @@
           "username": "Storm",
           "comments": 1,
           "substantiveComments": 1
+        },
+        {
+          "username": "Vycherpious",
+          "comments": 1,
+          "substantiveComments": 1
         }
       ]
     },
@@ -897,8 +915,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35707",
       "author": "JolkaK",
       "publishedAt": "2026-10-28T21:05+01:00",
-      "comments": 37,
-      "substantiveComments": 36,
+      "comments": 38,
+      "substantiveComments": 37,
       "commenters": [
         {
           "username": "JolkaK",
@@ -926,6 +944,11 @@
           "substantiveComments": 2
         },
         {
+          "username": "Finkla",
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
           "username": "regulatorzy",
           "comments": 2,
           "substantiveComments": 2
@@ -947,11 +970,6 @@
         },
         {
           "username": "Darkside",
-          "comments": 1,
-          "substantiveComments": 1
-        },
-        {
-          "username": "Finkla",
           "comments": 1,
           "substantiveComments": 1
         },
