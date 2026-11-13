@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-12T23:12:49+01:00",
+  "updatedAt": "2026-11-13T05:13:56+01:00",
   "summary": {
     "stories": 15,
     "authors": 15,
-    "comments": 795,
-    "substantiveComments": 721
+    "comments": 801,
+    "substantiveComments": 726
   },
   "users": [
     {
@@ -29,17 +29,17 @@
     {
       "username": "Bardjaskier",
       "submittedStories": 1,
-      "comments": 48,
-      "substantiveComments": 39,
+      "comments": 50,
+      "substantiveComments": 40,
       "ownStoryComments": 34,
       "storiesCommented": 7
     },
     {
       "username": "MichaelBullfinch",
       "submittedStories": 1,
-      "comments": 42,
-      "substantiveComments": 41,
-      "ownStoryComments": 22,
+      "comments": 44,
+      "substantiveComments": 43,
+      "ownStoryComments": 24,
       "storiesCommented": 12
     },
     {
@@ -91,6 +91,14 @@
       "storiesCommented": 9
     },
     {
+      "username": "Finkla",
+      "submittedStories": 0,
+      "comments": 25,
+      "substantiveComments": 22,
+      "ownStoryComments": 0,
+      "storiesCommented": 8
+    },
+    {
       "username": "HollyHell91",
       "submittedStories": 1,
       "comments": 24,
@@ -113,14 +121,6 @@
       "substantiveComments": 22,
       "ownStoryComments": 13,
       "storiesCommented": 10
-    },
-    {
-      "username": "Finkla",
-      "submittedStories": 0,
-      "comments": 23,
-      "substantiveComments": 20,
-      "ownStoryComments": 0,
-      "storiesCommented": 8
     },
     {
       "username": "Ajas",
@@ -767,13 +767,18 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35667",
       "author": "MichaelBullfinch",
       "publishedAt": "2026-10-29T13:14+01:00",
-      "comments": 69,
-      "substantiveComments": 60,
+      "comments": 75,
+      "substantiveComments": 65,
       "commenters": [
         {
           "username": "MichaelBullfinch",
-          "comments": 22,
-          "substantiveComments": 21
+          "comments": 24,
+          "substantiveComments": 23
+        },
+        {
+          "username": "Bardjaskier",
+          "comments": 4,
+          "substantiveComments": 2
         },
         {
           "username": "bruce",
@@ -806,9 +811,9 @@
           "substantiveComments": 3
         },
         {
-          "username": "Bardjaskier",
-          "comments": 2,
-          "substantiveComments": 1
+          "username": "Finkla",
+          "comments": 3,
+          "substantiveComments": 3
         },
         {
           "username": "beeeecki",
@@ -847,11 +852,6 @@
         },
         {
           "username": "CZARNA2",
-          "comments": 1,
-          "substantiveComments": 1
-        },
-        {
-          "username": "Finkla",
           "comments": 1,
           "substantiveComments": 1
         },
