@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-14T17:20:57+01:00",
+  "updatedAt": "2026-11-14T23:22:10+01:00",
   "summary": {
     "stories": 16,
     "authors": 16,
-    "comments": 818,
-    "substantiveComments": 743
+    "comments": 825,
+    "substantiveComments": 748
   },
   "users": [
     {
@@ -37,17 +37,17 @@
     {
       "username": "MichaelBullfinch",
       "submittedStories": 1,
-      "comments": 45,
-      "substantiveComments": 44,
-      "ownStoryComments": 25,
+      "comments": 48,
+      "substantiveComments": 47,
+      "ownStoryComments": 28,
       "storiesCommented": 12
     },
     {
       "username": "tlok303",
       "submittedStories": 1,
-      "comments": 42,
+      "comments": 43,
       "substantiveComments": 41,
-      "ownStoryComments": 21,
+      "ownStoryComments": 22,
       "storiesCommented": 12
     },
     {
@@ -67,20 +67,20 @@
       "storiesCommented": 6
     },
     {
+      "username": "Finkla",
+      "submittedStories": 0,
+      "comments": 30,
+      "substantiveComments": 26,
+      "ownStoryComments": 0,
+      "storiesCommented": 8
+    },
+    {
       "username": "barniusz",
       "submittedStories": 1,
       "comments": 28,
       "substantiveComments": 27,
       "ownStoryComments": 6,
       "storiesCommented": 14
-    },
-    {
-      "username": "Finkla",
-      "submittedStories": 0,
-      "comments": 28,
-      "substantiveComments": 25,
-      "ownStoryComments": 0,
-      "storiesCommented": 8
     },
     {
       "username": "regulatorzy",
@@ -131,20 +131,20 @@
       "storiesCommented": 9
     },
     {
+      "username": "JolkaK",
+      "submittedStories": 1,
+      "comments": 18,
+      "substantiveComments": 18,
+      "ownStoryComments": 11,
+      "storiesCommented": 8
+    },
+    {
       "username": "dawidiq150",
       "submittedStories": 1,
       "comments": 17,
       "substantiveComments": 16,
       "ownStoryComments": 8,
       "storiesCommented": 8
-    },
-    {
-      "username": "JolkaK",
-      "submittedStories": 1,
-      "comments": 17,
-      "substantiveComments": 17,
-      "ownStoryComments": 11,
-      "storiesCommented": 7
     },
     {
       "username": "Robert Raks",
@@ -810,18 +810,18 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35667",
       "author": "MichaelBullfinch",
       "publishedAt": "2026-10-29T13:14+01:00",
-      "comments": 82,
-      "substantiveComments": 72,
+      "comments": 88,
+      "substantiveComments": 77,
       "commenters": [
         {
           "username": "MichaelBullfinch",
-          "comments": 25,
-          "substantiveComments": 24
+          "comments": 28,
+          "substantiveComments": 27
         },
         {
           "username": "Finkla",
-          "comments": 5,
-          "substantiveComments": 5
+          "comments": 7,
+          "substantiveComments": 6
         },
         {
           "username": "HollyHell91",
@@ -905,6 +905,11 @@
         },
         {
           "username": "Hesket",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "JolkaK",
           "comments": 1,
           "substantiveComments": 1
         },
@@ -1040,12 +1045,12 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35693",
       "author": "tlok303",
       "publishedAt": "2026-10-25T21:30+01:00",
-      "comments": 56,
+      "comments": 57,
       "substantiveComments": 52,
       "commenters": [
         {
           "username": "tlok303",
-          "comments": 21,
+          "comments": 22,
           "substantiveComments": 21
         },
         {
