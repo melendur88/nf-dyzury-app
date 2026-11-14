@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-14T11:19:48+01:00",
+  "updatedAt": "2026-11-14T17:20:57+01:00",
   "summary": {
-    "stories": 15,
-    "authors": 15,
-    "comments": 813,
-    "substantiveComments": 738
+    "stories": 16,
+    "authors": 16,
+    "comments": 818,
+    "substantiveComments": 743
   },
   "users": [
     {
@@ -29,9 +29,9 @@
     {
       "username": "Bardjaskier",
       "submittedStories": 1,
-      "comments": 50,
-      "substantiveComments": 40,
-      "ownStoryComments": 34,
+      "comments": 51,
+      "substantiveComments": 41,
+      "ownStoryComments": 35,
       "storiesCommented": 7
     },
     {
@@ -85,10 +85,10 @@
     {
       "username": "regulatorzy",
       "submittedStories": 0,
-      "comments": 27,
-      "substantiveComments": 24,
+      "comments": 28,
+      "substantiveComments": 25,
       "ownStoryComments": 0,
-      "storiesCommented": 10
+      "storiesCommented": 11
     },
     {
       "username": "Zielony_Rycerz",
@@ -179,6 +179,14 @@
       "storiesCommented": 1
     },
     {
+      "username": "Hesket",
+      "submittedStories": 0,
+      "comments": 12,
+      "substantiveComments": 12,
+      "ownStoryComments": 0,
+      "storiesCommented": 11
+    },
+    {
       "username": "Paweł_Sawicki",
       "submittedStories": 0,
       "comments": 12,
@@ -187,11 +195,11 @@
       "storiesCommented": 3
     },
     {
-      "username": "Hesket",
-      "submittedStories": 0,
+      "username": "GalicyjskiZakapior",
+      "submittedStories": 1,
       "comments": 11,
       "substantiveComments": 11,
-      "ownStoryComments": 0,
+      "ownStoryComments": 1,
       "storiesCommented": 10
     },
     {
@@ -217,14 +225,6 @@
       "substantiveComments": 9,
       "ownStoryComments": 0,
       "storiesCommented": 6
-    },
-    {
-      "username": "GalicyjskiZakapior",
-      "submittedStories": 0,
-      "comments": 9,
-      "substantiveComments": 9,
-      "ownStoryComments": 0,
-      "storiesCommented": 8
     },
     {
       "username": "Marszawa",
@@ -380,6 +380,26 @@
     }
   ],
   "stories": [
+    {
+      "title": "Turmalinowe epitafium",
+      "url": "https://www.fantastyka.pl/opowiadania/pokaz/35770",
+      "author": "GalicyjskiZakapior",
+      "publishedAt": "2026-11-14T14:58+01:00",
+      "comments": 2,
+      "substantiveComments": 2,
+      "commenters": [
+        {
+          "username": "GalicyjskiZakapior",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Hesket",
+          "comments": 1,
+          "substantiveComments": 1
+        }
+      ]
+    },
     {
       "title": "Przedostatnie życzenie",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35760",
@@ -565,8 +585,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35726",
       "author": "CZARNA2",
       "publishedAt": "2026-11-02T15:54+01:00",
-      "comments": 50,
-      "substantiveComments": 42,
+      "comments": 51,
+      "substantiveComments": 43,
       "commenters": [
         {
           "username": "marzan",
@@ -650,6 +670,11 @@
         },
         {
           "username": "MichaelBullfinch",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "regulatorzy",
           "comments": 1,
           "substantiveComments": 1
         },
@@ -1015,8 +1040,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35693",
       "author": "tlok303",
       "publishedAt": "2026-10-25T21:30+01:00",
-      "comments": 55,
-      "substantiveComments": 51,
+      "comments": 56,
+      "substantiveComments": 52,
       "commenters": [
         {
           "username": "tlok303",
@@ -1065,6 +1090,11 @@
         },
         {
           "username": "dawidiq150",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "GalicyjskiZakapior",
           "comments": 1,
           "substantiveComments": 1
         },
@@ -1725,13 +1755,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35647",
       "author": "Bardjaskier",
       "publishedAt": "2026-10-16T05:29+02:00",
-      "comments": 88,
-      "substantiveComments": 78,
+      "comments": 89,
+      "substantiveComments": 79,
       "commenters": [
         {
           "username": "Bardjaskier",
-          "comments": 34,
-          "substantiveComments": 28
+          "comments": 35,
+          "substantiveComments": 29
         },
         {
           "username": "bruce",
