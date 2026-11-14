@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-14T05:18:39+01:00",
+  "updatedAt": "2026-11-14T11:19:48+01:00",
   "summary": {
     "stories": 15,
     "authors": 15,
-    "comments": 812,
-    "substantiveComments": 737
+    "comments": 813,
+    "substantiveComments": 738
   },
   "users": [
     {
@@ -109,10 +109,10 @@
     {
       "username": "OneTwo",
       "submittedStories": 1,
-      "comments": 24,
-      "substantiveComments": 24,
+      "comments": 25,
+      "substantiveComments": 25,
       "ownStoryComments": 9,
-      "storiesCommented": 14
+      "storiesCommented": 15
     },
     {
       "username": "Storm",
@@ -1725,8 +1725,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35647",
       "author": "Bardjaskier",
       "publishedAt": "2026-10-16T05:29+02:00",
-      "comments": 87,
-      "substantiveComments": 77,
+      "comments": 88,
+      "substantiveComments": 78,
       "commenters": [
         {
           "username": "Bardjaskier",
@@ -1827,6 +1827,11 @@
           "username": "OldGuard",
           "comments": 1,
           "substantiveComments": 0
+        },
+        {
+          "username": "OneTwo",
+          "comments": 1,
+          "substantiveComments": 1
         },
         {
           "username": "SknerusMacKwacz",
