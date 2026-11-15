@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-15T17:25:43+01:00",
+  "updatedAt": "2026-11-15T23:26:56+01:00",
   "summary": {
-    "stories": 16,
-    "authors": 16,
-    "comments": 827,
-    "substantiveComments": 749
+    "stories": 17,
+    "authors": 17,
+    "comments": 830,
+    "substantiveComments": 750
   },
   "users": [
     {
@@ -53,10 +53,10 @@
     {
       "username": "bruce",
       "submittedStories": 0,
-      "comments": 40,
-      "substantiveComments": 34,
+      "comments": 41,
+      "substantiveComments": 35,
       "ownStoryComments": 0,
-      "storiesCommented": 9
+      "storiesCommented": 10
     },
     {
       "username": "beeeecki",
@@ -171,6 +171,14 @@
       "storiesCommented": 1
     },
     {
+      "username": "melendur88",
+      "submittedStories": 1,
+      "comments": 13,
+      "substantiveComments": 1,
+      "ownStoryComments": 0,
+      "storiesCommented": 12
+    },
+    {
       "username": "Tarnina",
       "submittedStories": 0,
       "comments": 13,
@@ -200,14 +208,6 @@
       "comments": 11,
       "substantiveComments": 11,
       "ownStoryComments": 1,
-      "storiesCommented": 10
-    },
-    {
-      "username": "melendur88",
-      "submittedStories": 0,
-      "comments": 11,
-      "substantiveComments": 1,
-      "ownStoryComments": 0,
       "storiesCommented": 10
     },
     {
@@ -381,13 +381,27 @@
   ],
   "stories": [
     {
+      "title": "Gdzie diabeł nie może, tam babę pośle czyli przygody pana Kornatowskiego",
+      "url": "https://www.fantastyka.pl/opowiadania/pokaz/35790",
+      "author": "melendur88",
+      "publishedAt": "2026-11-15T19:31+01:00",
+      "comments": 0,
+      "substantiveComments": 0,
+      "commenters": []
+    },
+    {
       "title": "Turmalinowe epitafium",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35770",
       "author": "GalicyjskiZakapior",
       "publishedAt": "2026-11-14T14:58+01:00",
-      "comments": 2,
-      "substantiveComments": 2,
+      "comments": 3,
+      "substantiveComments": 3,
       "commenters": [
+        {
+          "username": "bruce",
+          "comments": 1,
+          "substantiveComments": 1
+        },
         {
           "username": "GalicyjskiZakapior",
           "comments": 1,
@@ -510,7 +524,7 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35663",
       "author": "OneTwo",
       "publishedAt": "2026-11-06T18:58+01:00",
-      "comments": 37,
+      "comments": 38,
       "substantiveComments": 33,
       "commenters": [
         {
@@ -562,6 +576,11 @@
           "username": "Login1",
           "comments": 1,
           "substantiveComments": 1
+        },
+        {
+          "username": "melendur88",
+          "comments": 1,
+          "substantiveComments": 0
         },
         {
           "username": "nul",
@@ -960,7 +979,7 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35707",
       "author": "JolkaK",
       "publishedAt": "2026-10-28T21:05+01:00",
-      "comments": 38,
+      "comments": 39,
       "substantiveComments": 37,
       "commenters": [
         {
@@ -1022,6 +1041,11 @@
           "username": "GalicyjskiZakapior",
           "comments": 1,
           "substantiveComments": 1
+        },
+        {
+          "username": "melendur88",
+          "comments": 1,
+          "substantiveComments": 0
         },
         {
           "username": "MichaelBullfinch",
