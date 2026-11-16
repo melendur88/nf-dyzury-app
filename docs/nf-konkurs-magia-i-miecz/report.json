@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-15T23:26:56+01:00",
+  "updatedAt": "2026-11-16T05:28:10+01:00",
   "summary": {
     "stories": 17,
     "authors": 17,
-    "comments": 830,
-    "substantiveComments": 750
+    "comments": 834,
+    "substantiveComments": 754
   },
   "users": [
     {
@@ -37,9 +37,9 @@
     {
       "username": "MichaelBullfinch",
       "submittedStories": 1,
-      "comments": 49,
-      "substantiveComments": 47,
-      "ownStoryComments": 29,
+      "comments": 50,
+      "substantiveComments": 48,
+      "ownStoryComments": 30,
       "storiesCommented": 12
     },
     {
@@ -187,6 +187,14 @@
       "storiesCommented": 1
     },
     {
+      "username": "GalicyjskiZakapior",
+      "submittedStories": 1,
+      "comments": 12,
+      "substantiveComments": 12,
+      "ownStoryComments": 2,
+      "storiesCommented": 10
+    },
+    {
       "username": "Hesket",
       "submittedStories": 0,
       "comments": 12,
@@ -201,14 +209,6 @@
       "substantiveComments": 11,
       "ownStoryComments": 0,
       "storiesCommented": 3
-    },
-    {
-      "username": "GalicyjskiZakapior",
-      "submittedStories": 1,
-      "comments": 11,
-      "substantiveComments": 11,
-      "ownStoryComments": 1,
-      "storiesCommented": 10
     },
     {
       "username": "OldGuard",
@@ -245,10 +245,10 @@
     {
       "username": "jonaszf",
       "submittedStories": 0,
-      "comments": 7,
-      "substantiveComments": 6,
+      "comments": 8,
+      "substantiveComments": 7,
       "ownStoryComments": 0,
-      "storiesCommented": 5
+      "storiesCommented": 6
     },
     {
       "username": "mitr",
@@ -257,6 +257,14 @@
       "substantiveComments": 7,
       "ownStoryComments": 0,
       "storiesCommented": 2
+    },
+    {
+      "username": "Ślimak Zagłady",
+      "submittedStories": 0,
+      "comments": 7,
+      "substantiveComments": 7,
+      "ownStoryComments": 0,
+      "storiesCommented": 3
     },
     {
       "username": "betweenthelines",
@@ -273,14 +281,6 @@
       "substantiveComments": 6,
       "ownStoryComments": 0,
       "storiesCommented": 6
-    },
-    {
-      "username": "Ślimak Zagłady",
-      "submittedStories": 0,
-      "comments": 6,
-      "substantiveComments": 6,
-      "ownStoryComments": 0,
-      "storiesCommented": 3
     },
     {
       "username": "Rafael Sanki",
@@ -385,25 +385,31 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35790",
       "author": "melendur88",
       "publishedAt": "2026-11-15T19:31+01:00",
-      "comments": 0,
-      "substantiveComments": 0,
-      "commenters": []
+      "comments": 1,
+      "substantiveComments": 1,
+      "commenters": [
+        {
+          "username": "jonaszf",
+          "comments": 1,
+          "substantiveComments": 1
+        }
+      ]
     },
     {
       "title": "Turmalinowe epitafium",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35770",
       "author": "GalicyjskiZakapior",
       "publishedAt": "2026-11-14T14:58+01:00",
-      "comments": 3,
-      "substantiveComments": 3,
+      "comments": 4,
+      "substantiveComments": 4,
       "commenters": [
         {
-          "username": "bruce",
-          "comments": 1,
-          "substantiveComments": 1
+          "username": "GalicyjskiZakapior",
+          "comments": 2,
+          "substantiveComments": 2
         },
         {
-          "username": "GalicyjskiZakapior",
+          "username": "bruce",
           "comments": 1,
           "substantiveComments": 1
         },
@@ -829,13 +835,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35667",
       "author": "MichaelBullfinch",
       "publishedAt": "2026-10-29T13:14+01:00",
-      "comments": 90,
-      "substantiveComments": 78,
+      "comments": 92,
+      "substantiveComments": 80,
       "commenters": [
         {
           "username": "MichaelBullfinch",
-          "comments": 29,
-          "substantiveComments": 27
+          "comments": 30,
+          "substantiveComments": 28
         },
         {
           "username": "Finkla",
@@ -913,6 +919,11 @@
           "substantiveComments": 2
         },
         {
+          "username": "Ślimak Zagłady",
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
           "username": "Ambush",
           "comments": 1,
           "substantiveComments": 1
@@ -964,11 +975,6 @@
         },
         {
           "username": "Vycherpious",
-          "comments": 1,
-          "substantiveComments": 1
-        },
-        {
-          "username": "Ślimak Zagłady",
           "comments": 1,
           "substantiveComments": 1
         }
