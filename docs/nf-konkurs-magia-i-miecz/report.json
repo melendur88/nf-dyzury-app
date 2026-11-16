@@ -2,21 +2,21 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-16T05:28:10+01:00",
+  "updatedAt": "2026-11-16T11:29:24+01:00",
   "summary": {
     "stories": 17,
     "authors": 17,
-    "comments": 834,
-    "substantiveComments": 754
+    "comments": 838,
+    "substantiveComments": 757
   },
   "users": [
     {
       "username": "Szafirowy Smok",
       "submittedStories": 1,
-      "comments": 85,
-      "substantiveComments": 70,
+      "comments": 86,
+      "substantiveComments": 71,
       "ownStoryComments": 32,
-      "storiesCommented": 15
+      "storiesCommented": 16
     },
     {
       "username": "marzan",
@@ -53,8 +53,8 @@
     {
       "username": "bruce",
       "submittedStories": 0,
-      "comments": 41,
-      "substantiveComments": 35,
+      "comments": 42,
+      "substantiveComments": 36,
       "ownStoryComments": 0,
       "storiesCommented": 10
     },
@@ -99,20 +99,20 @@
       "storiesCommented": 13
     },
     {
+      "username": "OneTwo",
+      "submittedStories": 1,
+      "comments": 26,
+      "substantiveComments": 26,
+      "ownStoryComments": 9,
+      "storiesCommented": 16
+    },
+    {
       "username": "HollyHell91",
       "submittedStories": 1,
       "comments": 25,
       "substantiveComments": 24,
       "ownStoryComments": 16,
       "storiesCommented": 3
-    },
-    {
-      "username": "OneTwo",
-      "submittedStories": 1,
-      "comments": 25,
-      "substantiveComments": 25,
-      "ownStoryComments": 9,
-      "storiesCommented": 15
     },
     {
       "username": "Storm",
@@ -213,10 +213,10 @@
     {
       "username": "OldGuard",
       "submittedStories": 0,
-      "comments": 10,
+      "comments": 11,
       "substantiveComments": 0,
       "ownStoryComments": 0,
-      "storiesCommented": 9
+      "storiesCommented": 10
     },
     {
       "username": "Darkside",
@@ -400,21 +400,31 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35770",
       "author": "GalicyjskiZakapior",
       "publishedAt": "2026-11-14T14:58+01:00",
-      "comments": 4,
-      "substantiveComments": 4,
+      "comments": 7,
+      "substantiveComments": 7,
       "commenters": [
+        {
+          "username": "bruce",
+          "comments": 2,
+          "substantiveComments": 2
+        },
         {
           "username": "GalicyjskiZakapior",
           "comments": 2,
           "substantiveComments": 2
         },
         {
-          "username": "bruce",
+          "username": "Hesket",
           "comments": 1,
           "substantiveComments": 1
         },
         {
-          "username": "Hesket",
+          "username": "OneTwo",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Szafirowy Smok",
           "comments": 1,
           "substantiveComments": 1
         }
@@ -985,7 +995,7 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35707",
       "author": "JolkaK",
       "publishedAt": "2026-10-28T21:05+01:00",
-      "comments": 39,
+      "comments": 40,
       "substantiveComments": 37,
       "commenters": [
         {
@@ -1057,6 +1067,11 @@
           "username": "MichaelBullfinch",
           "comments": 1,
           "substantiveComments": 1
+        },
+        {
+          "username": "OldGuard",
+          "comments": 1,
+          "substantiveComments": 0
         },
         {
           "username": "OneTwo",
