@@ -1,17 +1,17 @@
 {
-  "month": "2026-10",
-  "period": "01.10.2026 - 15.11.2026",
-  "updatedAt": "2026-11-15T21:33:02+01:00",
+  "month": "2026-11",
+  "period": "01.11.2026 - 15.12.2026",
+  "updatedAt": "2026-11-16T21:31:20+01:00",
   "results": [
     {
       "username": "Ambush",
       "weekdays": [
         "poniedzialek"
       ],
-      "eligible": 11,
-      "commented": 9,
+      "eligible": 3,
+      "commented": 2,
       "ownStories": 0,
-      "percentage": 81.8,
+      "percentage": 66.7,
       "passed": true
     },
     {
@@ -19,41 +19,41 @@
       "weekdays": [
         "poniedzialek"
       ],
-      "eligible": 11,
-      "commented": 6,
+      "eligible": 3,
+      "commented": 0,
       "ownStories": 0,
-      "percentage": 54.5,
-      "passed": true
+      "percentage": 0.0,
+      "passed": false
     },
     {
       "username": "zygfryd89",
       "weekdays": [
         "wtorek"
       ],
-      "eligible": 9,
-      "commented": 8,
+      "eligible": 6,
+      "commented": 0,
       "ownStories": 0,
-      "percentage": 88.9,
-      "passed": true
+      "percentage": 0.0,
+      "passed": false
     },
     {
       "username": "Marszawa",
       "weekdays": [
         "wtorek"
       ],
-      "eligible": 9,
-      "commented": 5,
+      "eligible": 6,
+      "commented": 0,
       "ownStories": 0,
-      "percentage": 55.6,
-      "passed": true
+      "percentage": 0.0,
+      "passed": false
     },
     {
       "username": "ManeTekelFares",
       "weekdays": [
         "wtorek"
       ],
-      "eligible": 9,
-      "commented": 6,
+      "eligible": 6,
+      "commented": 4,
       "ownStories": 0,
       "percentage": 66.7,
       "passed": true
@@ -64,21 +64,21 @@
         "sroda",
         "sobota"
       ],
-      "eligible": 14,
-      "commented": 13,
+      "eligible": 6,
+      "commented": 2,
       "ownStories": 0,
-      "percentage": 92.9,
-      "passed": true
+      "percentage": 33.3,
+      "passed": false
     },
     {
       "username": "marzan",
       "weekdays": [
         "sroda"
       ],
-      "eligible": 3,
-      "commented": 2,
+      "eligible": 4,
+      "commented": 4,
       "ownStories": 0,
-      "percentage": 66.7,
+      "percentage": 100.0,
       "passed": true
     },
     {
@@ -86,19 +86,19 @@
       "weekdays": [
         "czwartek"
       ],
-      "eligible": 12,
-      "commented": 11,
+      "eligible": 1,
+      "commented": 0,
       "ownStories": 0,
-      "percentage": 91.7,
-      "passed": true
+      "percentage": 0.0,
+      "passed": false
     },
     {
       "username": "barniusz",
       "weekdays": [
         "czwartek"
       ],
-      "eligible": 12,
-      "commented": 12,
+      "eligible": 1,
+      "commented": 1,
       "ownStories": 0,
       "percentage": 100.0,
       "passed": true
@@ -108,33 +108,33 @@
       "weekdays": [
         "piatek"
       ],
-      "eligible": 5,
-      "commented": 5,
+      "eligible": 3,
+      "commented": 1,
       "ownStories": 0,
-      "percentage": 100.0,
-      "passed": true
+      "percentage": 33.3,
+      "passed": false
     },
     {
       "username": "OldGuard",
       "weekdays": [
         "piatek"
       ],
-      "eligible": 5,
-      "commented": 3,
+      "eligible": 3,
+      "commented": 0,
       "ownStories": 0,
-      "percentage": 60.0,
-      "passed": true
+      "percentage": 0.0,
+      "passed": false
     },
     {
       "username": "bruce",
       "weekdays": [
         "sobota"
       ],
-      "eligible": 11,
-      "commented": 3,
+      "eligible": 2,
+      "commented": 2,
       "ownStories": 0,
-      "percentage": 27.3,
-      "passed": false
+      "percentage": 100.0,
+      "passed": true
     },
     {
       "username": "Bardjaskier",
@@ -142,9 +142,9 @@
         "niedziela"
       ],
       "eligible": 6,
-      "commented": 4,
+      "commented": 6,
       "ownStories": 0,
-      "percentage": 66.7,
+      "percentage": 100.0,
       "passed": true
     },
     {
@@ -153,9 +153,9 @@
         "niedziela"
       ],
       "eligible": 6,
-      "commented": 5,
+      "commented": 6,
       "ownStories": 0,
-      "percentage": 83.3,
+      "percentage": 100.0,
       "passed": true
     }
   ]
