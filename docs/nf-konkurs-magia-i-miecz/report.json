@@ -2,18 +2,18 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-16T17:30:42+01:00",
+  "updatedAt": "2026-11-16T23:32:02+01:00",
   "summary": {
-    "stories": 18,
-    "authors": 18,
-    "comments": 855,
-    "substantiveComments": 773
+    "stories": 19,
+    "authors": 19,
+    "comments": 860,
+    "substantiveComments": 776
   },
   "users": [
     {
       "username": "Szafirowy Smok",
       "submittedStories": 1,
-      "comments": 89,
+      "comments": 90,
       "substantiveComments": 74,
       "ownStoryComments": 32,
       "storiesCommented": 17
@@ -27,20 +27,20 @@
       "storiesCommented": 13
     },
     {
+      "username": "MichaelBullfinch",
+      "submittedStories": 1,
+      "comments": 52,
+      "substantiveComments": 49,
+      "ownStoryComments": 32,
+      "storiesCommented": 12
+    },
+    {
       "username": "Bardjaskier",
       "submittedStories": 1,
       "comments": 51,
       "substantiveComments": 41,
       "ownStoryComments": 35,
       "storiesCommented": 7
-    },
-    {
-      "username": "MichaelBullfinch",
-      "submittedStories": 1,
-      "comments": 51,
-      "substantiveComments": 49,
-      "ownStoryComments": 31,
-      "storiesCommented": 12
     },
     {
       "username": "tlok303",
@@ -61,8 +61,8 @@
     {
       "username": "beeeecki",
       "submittedStories": 1,
-      "comments": 36,
-      "substantiveComments": 34,
+      "comments": 37,
+      "substantiveComments": 35,
       "ownStoryComments": 26,
       "storiesCommented": 6
     },
@@ -85,10 +85,10 @@
     {
       "username": "barniusz",
       "submittedStories": 1,
-      "comments": 28,
-      "substantiveComments": 27,
+      "comments": 29,
+      "substantiveComments": 28,
       "ownStoryComments": 6,
-      "storiesCommented": 14
+      "storiesCommented": 15
     },
     {
       "username": "HollyHell91",
@@ -147,6 +147,14 @@
       "storiesCommented": 8
     },
     {
+      "username": "GalicyjskiZakapior",
+      "submittedStories": 1,
+      "comments": 15,
+      "substantiveComments": 15,
+      "ownStoryComments": 4,
+      "storiesCommented": 10
+    },
+    {
       "username": "Robert Raks",
       "submittedStories": 0,
       "comments": 15,
@@ -161,14 +169,6 @@
       "substantiveComments": 10,
       "ownStoryComments": 8,
       "storiesCommented": 7
-    },
-    {
-      "username": "GalicyjskiZakapior",
-      "submittedStories": 1,
-      "comments": 14,
-      "substantiveComments": 14,
-      "ownStoryComments": 3,
-      "storiesCommented": 10
     },
     {
       "username": "Jim",
@@ -377,9 +377,26 @@
       "substantiveComments": 1,
       "ownStoryComments": 0,
       "storiesCommented": 1
+    },
+    {
+      "username": "Unfall",
+      "submittedStories": 1,
+      "comments": 0,
+      "substantiveComments": 0,
+      "ownStoryComments": 0,
+      "storiesCommented": 0
     }
   ],
   "stories": [
+    {
+      "title": "Szlachetnego Angusa perypetie zgubne (18+)",
+      "url": "https://www.fantastyka.pl/opowiadania/pokaz/35552",
+      "author": "Unfall",
+      "publishedAt": "2026-11-16T23:00+01:00",
+      "comments": 0,
+      "substantiveComments": 0,
+      "commenters": []
+    },
     {
       "title": "Moc prawdziwej miłości",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35794",
@@ -394,13 +411,18 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35790",
       "author": "melendur88",
       "publishedAt": "2026-11-15T19:31+01:00",
-      "comments": 5,
-      "substantiveComments": 4,
+      "comments": 7,
+      "substantiveComments": 5,
       "commenters": [
         {
           "username": "Szafirowy Smok",
-          "comments": 2,
+          "comments": 3,
           "substantiveComments": 2
+        },
+        {
+          "username": "barniusz",
+          "comments": 1,
+          "substantiveComments": 1
         },
         {
           "username": "jonaszf",
@@ -424,13 +446,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35770",
       "author": "GalicyjskiZakapior",
       "publishedAt": "2026-11-14T14:58+01:00",
-      "comments": 10,
-      "substantiveComments": 10,
+      "comments": 11,
+      "substantiveComments": 11,
       "commenters": [
         {
           "username": "GalicyjskiZakapior",
-          "comments": 3,
-          "substantiveComments": 3
+          "comments": 4,
+          "substantiveComments": 4
         },
         {
           "username": "bruce",
@@ -874,12 +896,12 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35667",
       "author": "MichaelBullfinch",
       "publishedAt": "2026-10-29T13:14+01:00",
-      "comments": 94,
-      "substantiveComments": 82,
+      "comments": 96,
+      "substantiveComments": 83,
       "commenters": [
         {
           "username": "MichaelBullfinch",
-          "comments": 31,
+          "comments": 32,
           "substantiveComments": 29
         },
         {
@@ -923,14 +945,14 @@
           "substantiveComments": 3
         },
         {
-          "username": "Ślimak Zagłady",
+          "username": "beeeecki",
           "comments": 3,
           "substantiveComments": 3
         },
         {
-          "username": "beeeecki",
-          "comments": 2,
-          "substantiveComments": 2
+          "username": "Ślimak Zagłady",
+          "comments": 3,
+          "substantiveComments": 3
         },
         {
           "username": "betweenthelines",
