@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-17T05:33:22+01:00",
+  "updatedAt": "2026-11-17T11:34:45+01:00",
   "summary": {
     "stories": 19,
     "authors": 19,
-    "comments": 860,
-    "substantiveComments": 776
+    "comments": 863,
+    "substantiveComments": 778
   },
   "users": [
     {
@@ -21,10 +21,10 @@
     {
       "username": "marzan",
       "submittedStories": 1,
-      "comments": 81,
-      "substantiveComments": 81,
+      "comments": 82,
+      "substantiveComments": 82,
       "ownStoryComments": 30,
-      "storiesCommented": 13
+      "storiesCommented": 14
     },
     {
       "username": "MichaelBullfinch",
@@ -203,20 +203,20 @@
       "storiesCommented": 11
     },
     {
+      "username": "OldGuard",
+      "submittedStories": 0,
+      "comments": 12,
+      "substantiveComments": 0,
+      "ownStoryComments": 0,
+      "storiesCommented": 11
+    },
+    {
       "username": "Paweł_Sawicki",
       "submittedStories": 0,
       "comments": 12,
       "substantiveComments": 11,
       "ownStoryComments": 0,
       "storiesCommented": 3
-    },
-    {
-      "username": "OldGuard",
-      "submittedStories": 0,
-      "comments": 11,
-      "substantiveComments": 0,
-      "ownStoryComments": 0,
-      "storiesCommented": 10
     },
     {
       "username": "Darkside",
@@ -331,6 +331,14 @@
       "storiesCommented": 2
     },
     {
+      "username": "Unfall",
+      "submittedStories": 1,
+      "comments": 1,
+      "substantiveComments": 1,
+      "ownStoryComments": 0,
+      "storiesCommented": 1
+    },
+    {
       "username": "Caern",
       "submittedStories": 0,
       "comments": 1,
@@ -377,14 +385,6 @@
       "substantiveComments": 1,
       "ownStoryComments": 0,
       "storiesCommented": 1
-    },
-    {
-      "username": "Unfall",
-      "submittedStories": 1,
-      "comments": 0,
-      "substantiveComments": 0,
-      "ownStoryComments": 0,
-      "storiesCommented": 0
     }
   ],
   "stories": [
@@ -446,8 +446,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35770",
       "author": "GalicyjskiZakapior",
       "publishedAt": "2026-11-14T14:58+01:00",
-      "comments": 11,
-      "substantiveComments": 11,
+      "comments": 13,
+      "substantiveComments": 13,
       "commenters": [
         {
           "username": "GalicyjskiZakapior",
@@ -470,12 +470,22 @@
           "substantiveComments": 1
         },
         {
+          "username": "marzan",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
           "username": "mitr",
           "comments": 1,
           "substantiveComments": 1
         },
         {
           "username": "OneTwo",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Unfall",
           "comments": 1,
           "substantiveComments": 1
         }
@@ -896,7 +906,7 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35667",
       "author": "MichaelBullfinch",
       "publishedAt": "2026-10-29T13:14+01:00",
-      "comments": 96,
+      "comments": 97,
       "substantiveComments": 83,
       "commenters": [
         {
@@ -1016,6 +1026,11 @@
         },
         {
           "username": "melendur88",
+          "comments": 1,
+          "substantiveComments": 0
+        },
+        {
+          "username": "OldGuard",
           "comments": 1,
           "substantiveComments": 0
         },
