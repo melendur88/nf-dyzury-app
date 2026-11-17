@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "period": "01.11.2026 - 15.12.2026",
-  "updatedAt": "2026-11-16T21:31:20+01:00",
+  "updatedAt": "2026-11-17T21:31:19+01:00",
   "results": [
     {
       "username": "Ambush",
@@ -9,9 +9,9 @@
         "poniedzialek"
       ],
       "eligible": 3,
-      "commented": 2,
+      "commented": 3,
       "ownStories": 0,
-      "percentage": 66.7,
+      "percentage": 100.0,
       "passed": true
     },
     {
@@ -65,10 +65,10 @@
         "sobota"
       ],
       "eligible": 6,
-      "commented": 2,
+      "commented": 3,
       "ownStories": 0,
-      "percentage": 33.3,
-      "passed": false
+      "percentage": 50.0,
+      "passed": true
     },
     {
       "username": "marzan",
@@ -108,18 +108,18 @@
       "weekdays": [
         "piatek"
       ],
-      "eligible": 3,
+      "eligible": 2,
       "commented": 1,
       "ownStories": 0,
-      "percentage": 33.3,
-      "passed": false
+      "percentage": 50.0,
+      "passed": true
     },
     {
       "username": "OldGuard",
       "weekdays": [
         "piatek"
       ],
-      "eligible": 3,
+      "eligible": 2,
       "commented": 0,
       "ownStories": 0,
       "percentage": 0.0,
