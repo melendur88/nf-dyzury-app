@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-18T05:38:37+01:00",
+  "updatedAt": "2026-11-18T11:39:57+01:00",
   "summary": {
     "stories": 19,
     "authors": 19,
-    "comments": 879,
-    "substantiveComments": 792
+    "comments": 888,
+    "substantiveComments": 798
   },
   "users": [
     {
@@ -21,10 +21,10 @@
     {
       "username": "marzan",
       "submittedStories": 1,
-      "comments": 83,
+      "comments": 84,
       "substantiveComments": 83,
       "ownStoryComments": 30,
-      "storiesCommented": 15
+      "storiesCommented": 16
     },
     {
       "username": "MichaelBullfinch",
@@ -69,10 +69,10 @@
     {
       "username": "regulatorzy",
       "submittedStories": 0,
-      "comments": 31,
-      "substantiveComments": 28,
+      "comments": 32,
+      "substantiveComments": 29,
       "ownStoryComments": 0,
-      "storiesCommented": 11
+      "storiesCommented": 12
     },
     {
       "username": "Finkla",
@@ -93,17 +93,17 @@
     {
       "username": "HollyHell91",
       "submittedStories": 1,
-      "comments": 28,
+      "comments": 29,
       "substantiveComments": 27,
-      "ownStoryComments": 19,
+      "ownStoryComments": 20,
       "storiesCommented": 3
     },
     {
       "username": "OneTwo",
       "submittedStories": 1,
-      "comments": 28,
-      "substantiveComments": 27,
-      "ownStoryComments": 9,
+      "comments": 29,
+      "substantiveComments": 28,
+      "ownStoryComments": 10,
       "storiesCommented": 18
     },
     {
@@ -139,6 +139,14 @@
       "storiesCommented": 8
     },
     {
+      "username": "GalicyjskiZakapior",
+      "submittedStories": 1,
+      "comments": 18,
+      "substantiveComments": 18,
+      "ownStoryComments": 6,
+      "storiesCommented": 11
+    },
+    {
       "username": "dawidiq150",
       "submittedStories": 1,
       "comments": 17,
@@ -147,19 +155,11 @@
       "storiesCommented": 8
     },
     {
-      "username": "GalicyjskiZakapior",
-      "submittedStories": 1,
-      "comments": 16,
-      "substantiveComments": 16,
-      "ownStoryComments": 5,
-      "storiesCommented": 10
-    },
-    {
       "username": "melendur88",
       "submittedStories": 1,
-      "comments": 15,
-      "substantiveComments": 2,
-      "ownStoryComments": 1,
+      "comments": 16,
+      "substantiveComments": 3,
+      "ownStoryComments": 2,
       "storiesCommented": 14
     },
     {
@@ -187,6 +187,14 @@
       "storiesCommented": 1
     },
     {
+      "username": "OldGuard",
+      "submittedStories": 0,
+      "comments": 14,
+      "substantiveComments": 1,
+      "ownStoryComments": 0,
+      "storiesCommented": 13
+    },
+    {
       "username": "Tarnina",
       "submittedStories": 0,
       "comments": 13,
@@ -199,14 +207,6 @@
       "submittedStories": 0,
       "comments": 12,
       "substantiveComments": 12,
-      "ownStoryComments": 0,
-      "storiesCommented": 11
-    },
-    {
-      "username": "OldGuard",
-      "submittedStories": 0,
-      "comments": 12,
-      "substantiveComments": 0,
       "ownStoryComments": 0,
       "storiesCommented": 11
     },
@@ -393,8 +393,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35552",
       "author": "Unfall",
       "publishedAt": "2026-11-16T23:00+01:00",
-      "comments": 4,
-      "substantiveComments": 4,
+      "comments": 5,
+      "substantiveComments": 5,
       "commenters": [
         {
           "username": "AP",
@@ -408,6 +408,11 @@
         },
         {
           "username": "marzan",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "regulatorzy",
           "comments": 1,
           "substantiveComments": 1
         },
@@ -453,12 +458,17 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35790",
       "author": "melendur88",
       "publishedAt": "2026-11-15T19:31+01:00",
-      "comments": 7,
-      "substantiveComments": 5,
+      "comments": 10,
+      "substantiveComments": 7,
       "commenters": [
         {
           "username": "Szafirowy Smok",
           "comments": 3,
+          "substantiveComments": 2
+        },
+        {
+          "username": "melendur88",
+          "comments": 2,
           "substantiveComments": 2
         },
         {
@@ -472,7 +482,12 @@
           "substantiveComments": 1
         },
         {
-          "username": "melendur88",
+          "username": "marzan",
+          "comments": 1,
+          "substantiveComments": 0
+        },
+        {
+          "username": "OldGuard",
           "comments": 1,
           "substantiveComments": 1
         },
@@ -488,13 +503,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35770",
       "author": "GalicyjskiZakapior",
       "publishedAt": "2026-11-14T14:58+01:00",
-      "comments": 15,
-      "substantiveComments": 15,
+      "comments": 16,
+      "substantiveComments": 16,
       "commenters": [
         {
           "username": "GalicyjskiZakapior",
-          "comments": 5,
-          "substantiveComments": 5
+          "comments": 6,
+          "substantiveComments": 6
         },
         {
           "username": "bruce",
@@ -648,13 +663,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35663",
       "author": "OneTwo",
       "publishedAt": "2026-11-06T18:58+01:00",
-      "comments": 38,
-      "substantiveComments": 33,
+      "comments": 40,
+      "substantiveComments": 35,
       "commenters": [
         {
           "username": "OneTwo",
-          "comments": 9,
-          "substantiveComments": 9
+          "comments": 10,
+          "substantiveComments": 10
         },
         {
           "username": "Szafirowy Smok",
@@ -693,6 +708,11 @@
         },
         {
           "username": "freki",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "GalicyjskiZakapior",
           "comments": 1,
           "substantiveComments": 1
         },
@@ -838,12 +858,12 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35714",
       "author": "HollyHell91",
       "publishedAt": "2026-11-01T21:01+01:00",
-      "comments": 76,
+      "comments": 78,
       "substantiveComments": 71,
       "commenters": [
         {
           "username": "HollyHell91",
-          "comments": 19,
+          "comments": 20,
           "substantiveComments": 18
         },
         {
@@ -928,6 +948,11 @@
         },
         {
           "username": "melendur88",
+          "comments": 1,
+          "substantiveComments": 0
+        },
+        {
+          "username": "OldGuard",
           "comments": 1,
           "substantiveComments": 0
         },
