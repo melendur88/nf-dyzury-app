@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-19T05:44:01+01:00",
+  "updatedAt": "2026-11-19T11:45:22+01:00",
   "summary": {
     "stories": 20,
     "authors": 20,
-    "comments": 919,
-    "substantiveComments": 829
+    "comments": 923,
+    "substantiveComments": 833
   },
   "users": [
     {
@@ -29,9 +29,9 @@
     {
       "username": "MichaelBullfinch",
       "submittedStories": 1,
-      "comments": 55,
-      "substantiveComments": 52,
-      "ownStoryComments": 35,
+      "comments": 56,
+      "substantiveComments": 53,
+      "ownStoryComments": 36,
       "storiesCommented": 12
     },
     {
@@ -67,20 +67,20 @@
       "storiesCommented": 6
     },
     {
+      "username": "Finkla",
+      "submittedStories": 0,
+      "comments": 33,
+      "substantiveComments": 29,
+      "ownStoryComments": 0,
+      "storiesCommented": 9
+    },
+    {
       "username": "regulatorzy",
       "submittedStories": 0,
       "comments": 33,
       "substantiveComments": 30,
       "ownStoryComments": 0,
       "storiesCommented": 12
-    },
-    {
-      "username": "Finkla",
-      "submittedStories": 0,
-      "comments": 32,
-      "substantiveComments": 28,
-      "ownStoryComments": 0,
-      "storiesCommented": 9
     },
     {
       "username": "barniusz",
@@ -195,6 +195,14 @@
       "storiesCommented": 1
     },
     {
+      "username": "AP",
+      "submittedStories": 0,
+      "comments": 13,
+      "substantiveComments": 13,
+      "ownStoryComments": 0,
+      "storiesCommented": 7
+    },
+    {
       "username": "Tarnina",
       "submittedStories": 0,
       "comments": 13,
@@ -209,14 +217,6 @@
       "substantiveComments": 11,
       "ownStoryComments": 3,
       "storiesCommented": 8
-    },
-    {
-      "username": "AP",
-      "submittedStories": 0,
-      "comments": 12,
-      "substantiveComments": 12,
-      "ownStoryComments": 0,
-      "storiesCommented": 7
     },
     {
       "username": "Hesket",
@@ -331,20 +331,20 @@
       "storiesCommented": 2
     },
     {
+      "username": "BioHazard",
+      "submittedStories": 1,
+      "comments": 2,
+      "substantiveComments": 2,
+      "ownStoryComments": 2,
+      "storiesCommented": 1
+    },
+    {
       "username": "Grzesiek_W",
       "submittedStories": 0,
       "comments": 2,
       "substantiveComments": 2,
       "ownStoryComments": 0,
       "storiesCommented": 2
-    },
-    {
-      "username": "BioHazard",
-      "submittedStories": 1,
-      "comments": 1,
-      "substantiveComments": 1,
-      "ownStoryComments": 1,
-      "storiesCommented": 1
     },
     {
       "username": "Caern",
@@ -409,18 +409,18 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35800",
       "author": "BioHazard",
       "publishedAt": "2026-11-18T13:56+01:00",
-      "comments": 5,
-      "substantiveComments": 5,
+      "comments": 6,
+      "substantiveComments": 6,
       "commenters": [
         {
-          "username": "Szafirowy Smok",
+          "username": "BioHazard",
           "comments": 2,
           "substantiveComments": 2
         },
         {
-          "username": "BioHazard",
-          "comments": 1,
-          "substantiveComments": 1
+          "username": "Szafirowy Smok",
+          "comments": 2,
+          "substantiveComments": 2
         },
         {
           "username": "jonaszf",
@@ -1049,18 +1049,18 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35667",
       "author": "MichaelBullfinch",
       "publishedAt": "2026-10-29T13:14+01:00",
-      "comments": 103,
-      "substantiveComments": 89,
+      "comments": 106,
+      "substantiveComments": 92,
       "commenters": [
         {
           "username": "MichaelBullfinch",
-          "comments": 35,
-          "substantiveComments": 32
+          "comments": 36,
+          "substantiveComments": 33
         },
         {
           "username": "Finkla",
-          "comments": 8,
-          "substantiveComments": 7
+          "comments": 9,
+          "substantiveComments": 8
         },
         {
           "username": "HollyHell91",
@@ -1098,6 +1098,11 @@
           "substantiveComments": 3
         },
         {
+          "username": "AP",
+          "comments": 3,
+          "substantiveComments": 3
+        },
+        {
           "username": "beeeecki",
           "comments": 3,
           "substantiveComments": 3
@@ -1106,11 +1111,6 @@
           "username": "Ślimak Zagłady",
           "comments": 3,
           "substantiveComments": 3
-        },
-        {
-          "username": "AP",
-          "comments": 2,
-          "substantiveComments": 2
         },
         {
           "username": "betweenthelines",
