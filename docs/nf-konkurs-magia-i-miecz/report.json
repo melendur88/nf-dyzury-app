@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-18T23:42:45+01:00",
+  "updatedAt": "2026-11-19T05:44:01+01:00",
   "summary": {
     "stories": 20,
     "authors": 20,
-    "comments": 918,
-    "substantiveComments": 828
+    "comments": 919,
+    "substantiveComments": 829
   },
   "users": [
     {
@@ -29,9 +29,9 @@
     {
       "username": "MichaelBullfinch",
       "submittedStories": 1,
-      "comments": 54,
-      "substantiveComments": 51,
-      "ownStoryComments": 34,
+      "comments": 55,
+      "substantiveComments": 52,
+      "ownStoryComments": 35,
       "storiesCommented": 12
     },
     {
@@ -1049,13 +1049,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35667",
       "author": "MichaelBullfinch",
       "publishedAt": "2026-10-29T13:14+01:00",
-      "comments": 102,
-      "substantiveComments": 88,
+      "comments": 103,
+      "substantiveComments": 89,
       "commenters": [
         {
           "username": "MichaelBullfinch",
-          "comments": 34,
-          "substantiveComments": 31
+          "comments": 35,
+          "substantiveComments": 32
         },
         {
           "username": "Finkla",
