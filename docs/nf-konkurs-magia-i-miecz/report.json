@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-19T11:45:22+01:00",
+  "updatedAt": "2026-11-19T17:46:45+01:00",
   "summary": {
     "stories": 20,
     "authors": 20,
-    "comments": 923,
-    "substantiveComments": 833
+    "comments": 928,
+    "substantiveComments": 837
   },
   "users": [
     {
@@ -69,18 +69,26 @@
     {
       "username": "Finkla",
       "submittedStories": 0,
-      "comments": 33,
-      "substantiveComments": 29,
+      "comments": 35,
+      "substantiveComments": 30,
       "ownStoryComments": 0,
       "storiesCommented": 9
     },
     {
       "username": "regulatorzy",
       "submittedStories": 0,
-      "comments": 33,
-      "substantiveComments": 30,
+      "comments": 34,
+      "substantiveComments": 31,
       "ownStoryComments": 0,
-      "storiesCommented": 12
+      "storiesCommented": 13
+    },
+    {
+      "username": "HollyHell91",
+      "submittedStories": 1,
+      "comments": 30,
+      "substantiveComments": 28,
+      "ownStoryComments": 21,
+      "storiesCommented": 3
     },
     {
       "username": "barniusz",
@@ -89,14 +97,6 @@
       "substantiveComments": 28,
       "ownStoryComments": 6,
       "storiesCommented": 15
-    },
-    {
-      "username": "HollyHell91",
-      "submittedStories": 1,
-      "comments": 29,
-      "substantiveComments": 27,
-      "ownStoryComments": 20,
-      "storiesCommented": 3
     },
     {
       "username": "OneTwo",
@@ -197,10 +197,10 @@
     {
       "username": "AP",
       "submittedStories": 0,
-      "comments": 13,
-      "substantiveComments": 13,
+      "comments": 14,
+      "substantiveComments": 14,
       "ownStoryComments": 0,
-      "storiesCommented": 7
+      "storiesCommented": 8
     },
     {
       "username": "Tarnina",
@@ -619,8 +619,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35760",
       "author": "barniusz",
       "publishedAt": "2026-11-09T10:41+01:00",
-      "comments": 17,
-      "substantiveComments": 17,
+      "comments": 18,
+      "substantiveComments": 18,
       "commenters": [
         {
           "username": "barniusz",
@@ -641,6 +641,11 @@
           "username": "Szafirowy Smok",
           "comments": 2,
           "substantiveComments": 2
+        },
+        {
+          "username": "AP",
+          "comments": 1,
+          "substantiveComments": 1
         },
         {
           "username": "Darkside",
@@ -724,8 +729,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35663",
       "author": "OneTwo",
       "publishedAt": "2026-11-06T18:58+01:00",
-      "comments": 40,
-      "substantiveComments": 35,
+      "comments": 41,
+      "substantiveComments": 36,
       "commenters": [
         {
           "username": "OneTwo",
@@ -789,6 +794,11 @@
         },
         {
           "username": "nul",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "regulatorzy",
           "comments": 1,
           "substantiveComments": 1
         },
@@ -919,13 +929,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35714",
       "author": "HollyHell91",
       "publishedAt": "2026-11-01T21:01+01:00",
-      "comments": 80,
-      "substantiveComments": 73,
+      "comments": 82,
+      "substantiveComments": 75,
       "commenters": [
         {
           "username": "HollyHell91",
-          "comments": 20,
-          "substantiveComments": 18
+          "comments": 21,
+          "substantiveComments": 19
         },
         {
           "username": "marzan",
@@ -973,6 +983,11 @@
           "substantiveComments": 3
         },
         {
+          "username": "Finkla",
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
           "username": "GalicyjskiZakapior",
           "comments": 2,
           "substantiveComments": 2
@@ -989,11 +1004,6 @@
         },
         {
           "username": "CZARNA2",
-          "comments": 1,
-          "substantiveComments": 1
-        },
-        {
-          "username": "Finkla",
           "comments": 1,
           "substantiveComments": 1
         },
@@ -1049,7 +1059,7 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35667",
       "author": "MichaelBullfinch",
       "publishedAt": "2026-10-29T13:14+01:00",
-      "comments": 106,
+      "comments": 107,
       "substantiveComments": 92,
       "commenters": [
         {
@@ -1059,7 +1069,7 @@
         },
         {
           "username": "Finkla",
-          "comments": 9,
+          "comments": 10,
           "substantiveComments": 8
         },
         {
