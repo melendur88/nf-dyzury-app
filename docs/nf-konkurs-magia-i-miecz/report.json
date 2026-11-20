@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-19T23:48:10+01:00",
+  "updatedAt": "2026-11-20T05:49:32+01:00",
   "summary": {
     "stories": 20,
     "authors": 20,
-    "comments": 938,
-    "substantiveComments": 847
+    "comments": 941,
+    "substantiveComments": 850
   },
   "users": [
     {
@@ -37,10 +37,10 @@
     {
       "username": "Bardjaskier",
       "submittedStories": 1,
-      "comments": 51,
-      "substantiveComments": 41,
+      "comments": 52,
+      "substantiveComments": 42,
       "ownStoryComments": 35,
-      "storiesCommented": 7
+      "storiesCommented": 8
     },
     {
       "username": "tlok303",
@@ -227,6 +227,14 @@
       "storiesCommented": 11
     },
     {
+      "username": "Marszawa",
+      "submittedStories": 0,
+      "comments": 12,
+      "substantiveComments": 11,
+      "ownStoryComments": 0,
+      "storiesCommented": 10
+    },
+    {
       "username": "Paweł_Sawicki",
       "submittedStories": 0,
       "comments": 12,
@@ -241,14 +249,6 @@
       "substantiveComments": 11,
       "ownStoryComments": 0,
       "storiesCommented": 8
-    },
-    {
-      "username": "Marszawa",
-      "submittedStories": 0,
-      "comments": 10,
-      "substantiveComments": 9,
-      "ownStoryComments": 0,
-      "storiesCommented": 9
     },
     {
       "username": "Ślimak Zagłady",
@@ -537,8 +537,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35790",
       "author": "melendur88",
       "publishedAt": "2026-11-15T19:31+01:00",
-      "comments": 22,
-      "substantiveComments": 19,
+      "comments": 23,
+      "substantiveComments": 20,
       "commenters": [
         {
           "username": "marzan",
@@ -559,6 +559,11 @@
           "username": "OldGuard",
           "comments": 2,
           "substantiveComments": 2
+        },
+        {
+          "username": "Bardjaskier",
+          "comments": 1,
+          "substantiveComments": 1
         },
         {
           "username": "barniusz",
@@ -587,8 +592,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35770",
       "author": "GalicyjskiZakapior",
       "publishedAt": "2026-11-14T14:58+01:00",
-      "comments": 20,
-      "substantiveComments": 20,
+      "comments": 21,
+      "substantiveComments": 21,
       "commenters": [
         {
           "username": "GalicyjskiZakapior",
@@ -606,17 +611,17 @@
           "substantiveComments": 2
         },
         {
+          "username": "Marszawa",
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
           "username": "Szafirowy Smok",
           "comments": 2,
           "substantiveComments": 2
         },
         {
           "username": "Hesket",
-          "comments": 1,
-          "substantiveComments": 1
-        },
-        {
-          "username": "Marszawa",
           "comments": 1,
           "substantiveComments": 1
         },
@@ -652,8 +657,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35760",
       "author": "barniusz",
       "publishedAt": "2026-11-09T10:41+01:00",
-      "comments": 18,
-      "substantiveComments": 18,
+      "comments": 19,
+      "substantiveComments": 19,
       "commenters": [
         {
           "username": "barniusz",
@@ -692,6 +697,11 @@
         },
         {
           "username": "Hesket",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Marszawa",
           "comments": 1,
           "substantiveComments": 1
         },
