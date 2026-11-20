@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-20T05:49:32+01:00",
+  "updatedAt": "2026-11-20T11:51:04+01:00",
   "summary": {
-    "stories": 20,
-    "authors": 20,
-    "comments": 941,
-    "substantiveComments": 850
+    "stories": 21,
+    "authors": 21,
+    "comments": 946,
+    "substantiveComments": 854
   },
   "users": [
     {
@@ -21,7 +21,7 @@
     {
       "username": "marzan",
       "submittedStories": 1,
-      "comments": 91,
+      "comments": 92,
       "substantiveComments": 90,
       "ownStoryComments": 30,
       "storiesCommented": 18
@@ -43,20 +43,20 @@
       "storiesCommented": 8
     },
     {
+      "username": "bruce",
+      "submittedStories": 0,
+      "comments": 44,
+      "substantiveComments": 38,
+      "ownStoryComments": 0,
+      "storiesCommented": 10
+    },
+    {
       "username": "tlok303",
       "submittedStories": 1,
       "comments": 43,
       "substantiveComments": 41,
       "ownStoryComments": 22,
       "storiesCommented": 12
-    },
-    {
-      "username": "bruce",
-      "submittedStories": 0,
-      "comments": 42,
-      "substantiveComments": 36,
-      "ownStoryComments": 0,
-      "storiesCommented": 10
     },
     {
       "username": "beeeecki",
@@ -219,20 +219,20 @@
       "storiesCommented": 8
     },
     {
+      "username": "Marszawa",
+      "submittedStories": 1,
+      "comments": 12,
+      "substantiveComments": 11,
+      "ownStoryComments": 0,
+      "storiesCommented": 10
+    },
+    {
       "username": "Hesket",
       "submittedStories": 0,
       "comments": 12,
       "substantiveComments": 12,
       "ownStoryComments": 0,
       "storiesCommented": 11
-    },
-    {
-      "username": "Marszawa",
-      "submittedStories": 0,
-      "comments": 12,
-      "substantiveComments": 11,
-      "ownStoryComments": 0,
-      "storiesCommented": 10
     },
     {
       "username": "Paweł_Sawicki",
@@ -299,6 +299,14 @@
       "storiesCommented": 3
     },
     {
+      "username": "BioHazard",
+      "submittedStories": 1,
+      "comments": 4,
+      "substantiveComments": 4,
+      "ownStoryComments": 2,
+      "storiesCommented": 3
+    },
+    {
       "username": "Ambush",
       "submittedStories": 0,
       "comments": 4,
@@ -329,14 +337,6 @@
       "substantiveComments": 3,
       "ownStoryComments": 0,
       "storiesCommented": 2
-    },
-    {
-      "username": "BioHazard",
-      "submittedStories": 1,
-      "comments": 2,
-      "substantiveComments": 2,
-      "ownStoryComments": 2,
-      "storiesCommented": 1
     },
     {
       "username": "Grzesiek_W",
@@ -413,6 +413,15 @@
   ],
   "stories": [
     {
+      "title": "Trzy Wrony na potwory, czary i mary",
+      "url": "https://www.fantastyka.pl/opowiadania/pokaz/35752",
+      "author": "Marszawa",
+      "publishedAt": "2026-11-20T11:42+01:00",
+      "comments": 0,
+      "substantiveComments": 0,
+      "commenters": []
+    },
+    {
       "title": "Porządek chaosu",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35800",
       "author": "BioHazard",
@@ -447,8 +456,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35552",
       "author": "Unfall",
       "publishedAt": "2026-11-16T23:00+01:00",
-      "comments": 12,
-      "substantiveComments": 12,
+      "comments": 13,
+      "substantiveComments": 13,
       "commenters": [
         {
           "username": "Szafirowy Smok",
@@ -467,6 +476,11 @@
         },
         {
           "username": "AP",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "BioHazard",
           "comments": 1,
           "substantiveComments": 1
         },
@@ -537,12 +551,12 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35790",
       "author": "melendur88",
       "publishedAt": "2026-11-15T19:31+01:00",
-      "comments": 23,
+      "comments": 24,
       "substantiveComments": 20,
       "commenters": [
         {
           "username": "marzan",
-          "comments": 6,
+          "comments": 7,
           "substantiveComments": 5
         },
         {
@@ -592,8 +606,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35770",
       "author": "GalicyjskiZakapior",
       "publishedAt": "2026-11-14T14:58+01:00",
-      "comments": 21,
-      "substantiveComments": 21,
+      "comments": 22,
+      "substantiveComments": 22,
       "commenters": [
         {
           "username": "GalicyjskiZakapior",
@@ -601,12 +615,12 @@
           "substantiveComments": 7
         },
         {
-          "username": "beeeecki",
-          "comments": 2,
-          "substantiveComments": 2
+          "username": "bruce",
+          "comments": 3,
+          "substantiveComments": 3
         },
         {
-          "username": "bruce",
+          "username": "beeeecki",
           "comments": 2,
           "substantiveComments": 2
         },
@@ -1107,8 +1121,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35667",
       "author": "MichaelBullfinch",
       "publishedAt": "2026-10-29T13:14+01:00",
-      "comments": 107,
-      "substantiveComments": 92,
+      "comments": 108,
+      "substantiveComments": 93,
       "commenters": [
         {
           "username": "MichaelBullfinch",
@@ -1121,6 +1135,11 @@
           "substantiveComments": 8
         },
         {
+          "username": "bruce",
+          "comments": 5,
+          "substantiveComments": 4
+        },
+        {
           "username": "HollyHell91",
           "comments": 5,
           "substantiveComments": 5
@@ -1129,11 +1148,6 @@
           "username": "Bardjaskier",
           "comments": 4,
           "substantiveComments": 2
-        },
-        {
-          "username": "bruce",
-          "comments": 4,
-          "substantiveComments": 3
         },
         {
           "username": "regulatorzy",
@@ -2222,8 +2236,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35638",
       "author": "marzan",
       "publishedAt": "2026-10-16T00:02+02:00",
-      "comments": 82,
-      "substantiveComments": 78,
+      "comments": 83,
+      "substantiveComments": 79,
       "commenters": [
         {
           "username": "marzan",
@@ -2287,6 +2301,11 @@
         },
         {
           "username": "betweenthelines",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "BioHazard",
           "comments": 1,
           "substantiveComments": 1
         },
