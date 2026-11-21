@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-21T17:58:21+01:00",
+  "updatedAt": "2026-11-21T23:59:48+01:00",
   "summary": {
-    "stories": 22,
-    "authors": 22,
-    "comments": 1000,
-    "substantiveComments": 906
+    "stories": 23,
+    "authors": 23,
+    "comments": 1009,
+    "substantiveComments": 913
   },
   "users": [
     {
@@ -27,20 +27,20 @@
       "storiesCommented": 20
     },
     {
+      "username": "bruce",
+      "submittedStories": 0,
+      "comments": 57,
+      "substantiveComments": 50,
+      "ownStoryComments": 0,
+      "storiesCommented": 14
+    },
+    {
       "username": "MichaelBullfinch",
       "submittedStories": 1,
       "comments": 56,
       "substantiveComments": 53,
       "ownStoryComments": 36,
       "storiesCommented": 12
-    },
-    {
-      "username": "bruce",
-      "submittedStories": 0,
-      "comments": 56,
-      "substantiveComments": 50,
-      "ownStoryComments": 0,
-      "storiesCommented": 14
     },
     {
       "username": "Bardjaskier",
@@ -59,20 +59,20 @@
       "storiesCommented": 11
     },
     {
+      "username": "beeeecki",
+      "submittedStories": 1,
+      "comments": 43,
+      "substantiveComments": 40,
+      "ownStoryComments": 28,
+      "storiesCommented": 8
+    },
+    {
       "username": "tlok303",
       "submittedStories": 1,
       "comments": 43,
       "substantiveComments": 41,
       "ownStoryComments": 22,
       "storiesCommented": 12
-    },
-    {
-      "username": "beeeecki",
-      "submittedStories": 1,
-      "comments": 41,
-      "substantiveComments": 38,
-      "ownStoryComments": 28,
-      "storiesCommented": 7
     },
     {
       "username": "regulatorzy",
@@ -123,6 +123,14 @@
       "storiesCommented": 10
     },
     {
+      "username": "melendur88",
+      "submittedStories": 1,
+      "comments": 22,
+      "substantiveComments": 8,
+      "ownStoryComments": 6,
+      "storiesCommented": 15
+    },
+    {
       "username": "GalicyjskiZakapior",
       "submittedStories": 1,
       "comments": 21,
@@ -145,14 +153,6 @@
       "substantiveComments": 20,
       "ownStoryComments": 12,
       "storiesCommented": 8
-    },
-    {
-      "username": "melendur88",
-      "submittedStories": 1,
-      "comments": 20,
-      "substantiveComments": 7,
-      "ownStoryComments": 6,
-      "storiesCommented": 14
     },
     {
       "username": "dawidiq150",
@@ -203,6 +203,14 @@
       "storiesCommented": 8
     },
     {
+      "username": "Marszawa",
+      "submittedStories": 1,
+      "comments": 14,
+      "substantiveComments": 13,
+      "ownStoryComments": 1,
+      "storiesCommented": 12
+    },
+    {
       "username": "AP",
       "submittedStories": 0,
       "comments": 14,
@@ -217,14 +225,6 @@
       "substantiveComments": 12,
       "ownStoryComments": 0,
       "storiesCommented": 1
-    },
-    {
-      "username": "Marszawa",
-      "submittedStories": 1,
-      "comments": 12,
-      "substantiveComments": 11,
-      "ownStoryComments": 0,
-      "storiesCommented": 10
     },
     {
       "username": "Hesket",
@@ -347,6 +347,14 @@
       "storiesCommented": 2
     },
     {
+      "username": "Sanderka",
+      "submittedStories": 1,
+      "comments": 2,
+      "substantiveComments": 2,
+      "ownStoryComments": 2,
+      "storiesCommented": 1
+    },
+    {
       "username": "Caern",
       "submittedStories": 0,
       "comments": 1,
@@ -421,6 +429,26 @@
   ],
   "stories": [
     {
+      "title": "Powrót",
+      "url": "https://www.fantastyka.pl/opowiadania/pokaz/35825",
+      "author": "Sanderka",
+      "publishedAt": "2026-11-21T21:35+01:00",
+      "comments": 4,
+      "substantiveComments": 3,
+      "commenters": [
+        {
+          "username": "melendur88",
+          "comments": 2,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Sanderka",
+          "comments": 2,
+          "substantiveComments": 2
+        }
+      ]
+    },
+    {
       "title": "Kolejna wojna z Farezją [16+]",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35810",
       "author": "Finkla",
@@ -465,11 +493,16 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35752",
       "author": "Marszawa",
       "publishedAt": "2026-11-20T11:42+01:00",
-      "comments": 1,
-      "substantiveComments": 1,
+      "comments": 3,
+      "substantiveComments": 2,
       "commenters": [
         {
           "username": "bruce",
+          "comments": 2,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Marszawa",
           "comments": 1,
           "substantiveComments": 1
         }
@@ -575,8 +608,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35794",
       "author": "jonaszf",
       "publishedAt": "2026-11-16T12:12+01:00",
-      "comments": 13,
-      "substantiveComments": 13,
+      "comments": 14,
+      "substantiveComments": 14,
       "commenters": [
         {
           "username": "jonaszf",
@@ -599,6 +632,11 @@
           "substantiveComments": 1
         },
         {
+          "username": "Marszawa",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
           "username": "mitr",
           "comments": 1,
           "substantiveComments": 1
@@ -615,8 +653,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35790",
       "author": "melendur88",
       "publishedAt": "2026-11-15T19:31+01:00",
-      "comments": 28,
-      "substantiveComments": 24,
+      "comments": 30,
+      "substantiveComments": 26,
       "commenters": [
         {
           "username": "marzan",
@@ -636,6 +674,11 @@
         {
           "username": "OneTwo",
           "comments": 3,
+          "substantiveComments": 2
+        },
+        {
+          "username": "beeeecki",
+          "comments": 2,
           "substantiveComments": 2
         },
         {
