@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "period": "01.11.2026 - 15.12.2026",
-  "updatedAt": "2026-11-21T21:31:31+01:00",
+  "updatedAt": "2026-11-22T21:31:32+01:00",
   "results": [
     {
       "username": "Ambush",
@@ -131,9 +131,9 @@
         "sobota"
       ],
       "eligible": 5,
-      "commented": 4,
+      "commented": 5,
       "ownStories": 0,
-      "percentage": 80.0,
+      "percentage": 100.0,
       "passed": true
     },
     {
@@ -141,10 +141,10 @@
       "weekdays": [
         "niedziela"
       ],
-      "eligible": 6,
+      "eligible": 8,
       "commented": 6,
       "ownStories": 0,
-      "percentage": 100.0,
+      "percentage": 75.0,
       "passed": true
     },
     {
@@ -152,10 +152,10 @@
       "weekdays": [
         "niedziela"
       ],
-      "eligible": 6,
-      "commented": 6,
+      "eligible": 8,
+      "commented": 7,
       "ownStories": 0,
-      "percentage": 100.0,
+      "percentage": 87.5,
       "passed": true
     }
   ]
