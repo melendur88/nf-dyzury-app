@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-21T23:59:48+01:00",
+  "updatedAt": "2026-11-22T06:01:15+01:00",
   "summary": {
     "stories": 23,
     "authors": 23,
-    "comments": 1009,
-    "substantiveComments": 913
+    "comments": 1010,
+    "substantiveComments": 914
   },
   "users": [
     {
@@ -171,6 +171,14 @@
       "storiesCommented": 14
     },
     {
+      "username": "jonaszf",
+      "submittedStories": 1,
+      "comments": 15,
+      "substantiveComments": 14,
+      "ownStoryComments": 6,
+      "storiesCommented": 8
+    },
+    {
       "username": "OldGuard",
       "submittedStories": 0,
       "comments": 15,
@@ -193,14 +201,6 @@
       "substantiveComments": 14,
       "ownStoryComments": 14,
       "storiesCommented": 1
-    },
-    {
-      "username": "jonaszf",
-      "submittedStories": 1,
-      "comments": 14,
-      "substantiveComments": 13,
-      "ownStoryComments": 5,
-      "storiesCommented": 8
     },
     {
       "username": "Marszawa",
@@ -608,13 +608,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35794",
       "author": "jonaszf",
       "publishedAt": "2026-11-16T12:12+01:00",
-      "comments": 14,
-      "substantiveComments": 14,
+      "comments": 15,
+      "substantiveComments": 15,
       "commenters": [
         {
           "username": "jonaszf",
-          "comments": 5,
-          "substantiveComments": 5
+          "comments": 6,
+          "substantiveComments": 6
         },
         {
           "username": "marzan",
