@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-23T00:05:52+01:00",
+  "updatedAt": "2026-11-23T06:07:23+01:00",
   "summary": {
     "stories": 23,
     "authors": 23,
-    "comments": 1033,
-    "substantiveComments": 934
+    "comments": 1034,
+    "substantiveComments": 935
   },
   "users": [
     {
@@ -315,6 +315,14 @@
       "storiesCommented": 3
     },
     {
+      "username": "Sanderka",
+      "submittedStories": 1,
+      "comments": 4,
+      "substantiveComments": 4,
+      "ownStoryComments": 3,
+      "storiesCommented": 2
+    },
+    {
       "username": "Unfall",
       "submittedStories": 1,
       "comments": 4,
@@ -329,14 +337,6 @@
       "substantiveComments": 4,
       "ownStoryComments": 0,
       "storiesCommented": 4
-    },
-    {
-      "username": "Sanderka",
-      "submittedStories": 1,
-      "comments": 3,
-      "substantiveComments": 3,
-      "ownStoryComments": 3,
-      "storiesCommented": 1
     },
     {
       "username": "Grzesiek_W",
@@ -471,8 +471,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35810",
       "author": "Finkla",
       "publishedAt": "2026-11-20T15:14+01:00",
-      "comments": 32,
-      "substantiveComments": 32,
+      "comments": 33,
+      "substantiveComments": 33,
       "commenters": [
         {
           "username": "Finkla",
@@ -506,6 +506,11 @@
         },
         {
           "username": "marzan",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Sanderka",
           "comments": 1,
           "substantiveComments": 1
         },
