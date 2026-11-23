@@ -2,28 +2,28 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-23T12:08:59+01:00",
+  "updatedAt": "2026-11-23T18:10:33+01:00",
   "summary": {
     "stories": 23,
     "authors": 23,
-    "comments": 1042,
-    "substantiveComments": 943
+    "comments": 1065,
+    "substantiveComments": 964
   },
   "users": [
     {
       "username": "Szafirowy Smok",
       "submittedStories": 1,
-      "comments": 100,
-      "substantiveComments": 84,
+      "comments": 107,
+      "substantiveComments": 91,
       "ownStoryComments": 33,
-      "storiesCommented": 20
+      "storiesCommented": 23
     },
     {
       "username": "marzan",
       "submittedStories": 1,
-      "comments": 98,
-      "substantiveComments": 95,
-      "ownStoryComments": 30,
+      "comments": 100,
+      "substantiveComments": 97,
+      "ownStoryComments": 31,
       "storiesCommented": 21
     },
     {
@@ -33,6 +33,14 @@
       "substantiveComments": 53,
       "ownStoryComments": 0,
       "storiesCommented": 16
+    },
+    {
+      "username": "Finkla",
+      "submittedStories": 1,
+      "comments": 58,
+      "substantiveComments": 53,
+      "ownStoryComments": 19,
+      "storiesCommented": 12
     },
     {
       "username": "MichaelBullfinch",
@@ -49,14 +57,6 @@
       "substantiveComments": 43,
       "ownStoryComments": 36,
       "storiesCommented": 8
-    },
-    {
-      "username": "Finkla",
-      "submittedStories": 1,
-      "comments": 53,
-      "substantiveComments": 48,
-      "ownStoryComments": 15,
-      "storiesCommented": 12
     },
     {
       "username": "beeeecki",
@@ -77,10 +77,10 @@
     {
       "username": "regulatorzy",
       "submittedStories": 0,
-      "comments": 40,
-      "substantiveComments": 36,
+      "comments": 42,
+      "substantiveComments": 37,
       "ownStoryComments": 0,
-      "storiesCommented": 16
+      "storiesCommented": 17
     },
     {
       "username": "OneTwo",
@@ -133,9 +133,9 @@
     {
       "username": "melendur88",
       "submittedStories": 1,
-      "comments": 22,
-      "substantiveComments": 8,
-      "ownStoryComments": 6,
+      "comments": 23,
+      "substantiveComments": 9,
+      "ownStoryComments": 7,
       "storiesCommented": 15
     },
     {
@@ -173,10 +173,10 @@
     {
       "username": "OldGuard",
       "submittedStories": 0,
-      "comments": 16,
+      "comments": 17,
       "substantiveComments": 2,
       "ownStoryComments": 0,
-      "storiesCommented": 14
+      "storiesCommented": 15
     },
     {
       "username": "Robert Raks",
@@ -269,18 +269,26 @@
     {
       "username": "BioHazard",
       "submittedStories": 1,
-      "comments": 8,
-      "substantiveComments": 8,
+      "comments": 9,
+      "substantiveComments": 9,
       "ownStoryComments": 3,
-      "storiesCommented": 6
+      "storiesCommented": 7
     },
     {
       "username": "freki",
       "submittedStories": 0,
-      "comments": 7,
-      "substantiveComments": 7,
+      "comments": 8,
+      "substantiveComments": 8,
       "ownStoryComments": 0,
       "storiesCommented": 7
+    },
+    {
+      "username": "Sanderka",
+      "submittedStories": 1,
+      "comments": 7,
+      "substantiveComments": 7,
+      "ownStoryComments": 5,
+      "storiesCommented": 3
     },
     {
       "username": "betweenthelines",
@@ -313,14 +321,6 @@
       "substantiveComments": 5,
       "ownStoryComments": 0,
       "storiesCommented": 3
-    },
-    {
-      "username": "Sanderka",
-      "submittedStories": 1,
-      "comments": 4,
-      "substantiveComments": 4,
-      "ownStoryComments": 3,
-      "storiesCommented": 2
     },
     {
       "username": "Unfall",
@@ -449,11 +449,16 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35825",
       "author": "Sanderka",
       "publishedAt": "2026-11-21T21:35+01:00",
-      "comments": 8,
-      "substantiveComments": 7,
+      "comments": 13,
+      "substantiveComments": 12,
       "commenters": [
         {
           "username": "Sanderka",
+          "comments": 5,
+          "substantiveComments": 5
+        },
+        {
+          "username": "Szafirowy Smok",
           "comments": 3,
           "substantiveComments": 3
         },
@@ -479,13 +484,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35810",
       "author": "Finkla",
       "publishedAt": "2026-11-20T15:14+01:00",
-      "comments": 35,
-      "substantiveComments": 35,
+      "comments": 43,
+      "substantiveComments": 43,
       "commenters": [
         {
           "username": "Finkla",
-          "comments": 15,
-          "substantiveComments": 15
+          "comments": 19,
+          "substantiveComments": 19
         },
         {
           "username": "bruce",
@@ -493,7 +498,17 @@
           "substantiveComments": 9
         },
         {
+          "username": "Szafirowy Smok",
+          "comments": 3,
+          "substantiveComments": 3
+        },
+        {
           "username": "barniusz",
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
+          "username": "freki",
           "comments": 2,
           "substantiveComments": 2
         },
@@ -504,11 +519,6 @@
         },
         {
           "username": "BioHazard",
-          "comments": 1,
-          "substantiveComments": 1
-        },
-        {
-          "username": "freki",
           "comments": 1,
           "substantiveComments": 1
         },
@@ -544,8 +554,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35752",
       "author": "Marszawa",
       "publishedAt": "2026-11-20T11:42+01:00",
-      "comments": 11,
-      "substantiveComments": 8,
+      "comments": 14,
+      "substantiveComments": 11,
       "commenters": [
         {
           "username": "Marszawa",
@@ -563,6 +573,11 @@
           "substantiveComments": 1
         },
         {
+          "username": "BioHazard",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
           "username": "Darkside",
           "comments": 1,
           "substantiveComments": 1
@@ -574,6 +589,16 @@
         },
         {
           "username": "OneTwo",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Sanderka",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Szafirowy Smok",
           "comments": 1,
           "substantiveComments": 1
         }
@@ -684,8 +709,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35794",
       "author": "jonaszf",
       "publishedAt": "2026-11-16T12:12+01:00",
-      "comments": 15,
-      "substantiveComments": 15,
+      "comments": 16,
+      "substantiveComments": 16,
       "commenters": [
         {
           "username": "jonaszf",
@@ -694,8 +719,8 @@
         },
         {
           "username": "marzan",
-          "comments": 3,
-          "substantiveComments": 3
+          "comments": 4,
+          "substantiveComments": 4
         },
         {
           "username": "Szafirowy Smok",
@@ -729,8 +754,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35790",
       "author": "melendur88",
       "publishedAt": "2026-11-15T19:31+01:00",
-      "comments": 30,
-      "substantiveComments": 26,
+      "comments": 33,
+      "substantiveComments": 28,
       "commenters": [
         {
           "username": "marzan",
@@ -739,8 +764,8 @@
         },
         {
           "username": "melendur88",
-          "comments": 6,
-          "substantiveComments": 6
+          "comments": 7,
+          "substantiveComments": 7
         },
         {
           "username": "Szafirowy Smok",
@@ -761,6 +786,11 @@
           "username": "OldGuard",
           "comments": 2,
           "substantiveComments": 2
+        },
+        {
+          "username": "regulatorzy",
+          "comments": 2,
+          "substantiveComments": 1
         },
         {
           "username": "Bardjaskier",
@@ -794,8 +824,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35770",
       "author": "GalicyjskiZakapior",
       "publishedAt": "2026-11-14T14:58+01:00",
-      "comments": 29,
-      "substantiveComments": 29,
+      "comments": 30,
+      "substantiveComments": 30,
       "commenters": [
         {
           "username": "GalicyjskiZakapior",
@@ -813,6 +843,11 @@
           "substantiveComments": 2
         },
         {
+          "username": "Finkla",
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
           "username": "Marszawa",
           "comments": 2,
           "substantiveComments": 2
@@ -826,11 +861,6 @@
           "username": "Szafirowy Smok",
           "comments": 2,
           "substantiveComments": 2
-        },
-        {
-          "username": "Finkla",
-          "comments": 1,
-          "substantiveComments": 1
         },
         {
           "username": "Hesket",
@@ -1019,7 +1049,7 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35663",
       "author": "OneTwo",
       "publishedAt": "2026-11-06T18:58+01:00",
-      "comments": 43,
+      "comments": 44,
       "substantiveComments": 38,
       "commenters": [
         {
@@ -1091,6 +1121,11 @@
           "username": "nul",
           "comments": 1,
           "substantiveComments": 1
+        },
+        {
+          "username": "OldGuard",
+          "comments": 1,
+          "substantiveComments": 0
         },
         {
           "username": "Robert Raks",
@@ -2489,13 +2524,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35638",
       "author": "marzan",
       "publishedAt": "2026-10-16T00:02+02:00",
-      "comments": 83,
-      "substantiveComments": 79,
+      "comments": 84,
+      "substantiveComments": 80,
       "commenters": [
         {
           "username": "marzan",
-          "comments": 30,
-          "substantiveComments": 30
+          "comments": 31,
+          "substantiveComments": 31
         },
         {
           "username": "Szafirowy Smok",
