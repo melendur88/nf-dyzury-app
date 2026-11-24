@@ -2,19 +2,19 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-24T06:13:38+01:00",
+  "updatedAt": "2026-11-24T09:40:41+01:00",
   "summary": {
     "stories": 23,
     "authors": 23,
-    "comments": 1091,
-    "substantiveComments": 989
+    "comments": 1093,
+    "substantiveComments": 991
   },
   "users": [
     {
       "username": "Szafirowy Smok",
       "submittedStories": 1,
-      "comments": 113,
-      "substantiveComments": 96,
+      "comments": 115,
+      "substantiveComments": 98,
       "ownStoryComments": 33,
       "storiesCommented": 23
     },
@@ -484,8 +484,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35810",
       "author": "Finkla",
       "publishedAt": "2026-11-20T15:14+01:00",
-      "comments": 62,
-      "substantiveComments": 61,
+      "comments": 63,
+      "substantiveComments": 62,
       "commenters": [
         {
           "username": "Finkla",
@@ -493,14 +493,14 @@
           "substantiveComments": 28
         },
         {
-          "username": "bruce",
-          "comments": 9,
+          "username": "Szafirowy Smok",
+          "comments": 10,
           "substantiveComments": 9
         },
         {
-          "username": "Szafirowy Smok",
+          "username": "bruce",
           "comments": 9,
-          "substantiveComments": 8
+          "substantiveComments": 9
         },
         {
           "username": "freki",
@@ -564,8 +564,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35752",
       "author": "Marszawa",
       "publishedAt": "2026-11-20T11:42+01:00",
-      "comments": 15,
-      "substantiveComments": 12,
+      "comments": 16,
+      "substantiveComments": 13,
       "commenters": [
         {
           "username": "Marszawa",
@@ -581,6 +581,11 @@
           "username": "marzan",
           "comments": 2,
           "substantiveComments": 1
+        },
+        {
+          "username": "Szafirowy Smok",
+          "comments": 2,
+          "substantiveComments": 2
         },
         {
           "username": "BioHazard",
@@ -604,11 +609,6 @@
         },
         {
           "username": "Sanderka",
-          "comments": 1,
-          "substantiveComments": 1
-        },
-        {
-          "username": "Szafirowy Smok",
           "comments": 1,
           "substantiveComments": 1
         }
