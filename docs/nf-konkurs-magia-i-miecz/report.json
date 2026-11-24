@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-24T09:40:41+01:00",
+  "updatedAt": "2026-11-24T15:42:14+01:00",
   "summary": {
     "stories": 23,
     "authors": 23,
-    "comments": 1093,
-    "substantiveComments": 991
+    "comments": 1098,
+    "substantiveComments": 996
   },
   "users": [
     {
@@ -21,10 +21,10 @@
     {
       "username": "marzan",
       "submittedStories": 1,
-      "comments": 100,
-      "substantiveComments": 97,
+      "comments": 102,
+      "substantiveComments": 99,
       "ownStoryComments": 31,
-      "storiesCommented": 21
+      "storiesCommented": 22
     },
     {
       "username": "Finkla",
@@ -77,10 +77,10 @@
     {
       "username": "regulatorzy",
       "submittedStories": 0,
-      "comments": 42,
-      "substantiveComments": 37,
+      "comments": 43,
+      "substantiveComments": 38,
       "ownStoryComments": 0,
-      "storiesCommented": 17
+      "storiesCommented": 18
     },
     {
       "username": "OneTwo",
@@ -235,6 +235,14 @@
       "storiesCommented": 1
     },
     {
+      "username": "Sanderka",
+      "submittedStories": 1,
+      "comments": 12,
+      "substantiveComments": 12,
+      "ownStoryComments": 6,
+      "storiesCommented": 7
+    },
+    {
       "username": "Hesket",
       "submittedStories": 0,
       "comments": 12,
@@ -249,14 +257,6 @@
       "substantiveComments": 11,
       "ownStoryComments": 0,
       "storiesCommented": 3
-    },
-    {
-      "username": "Sanderka",
-      "submittedStories": 1,
-      "comments": 11,
-      "substantiveComments": 11,
-      "ownStoryComments": 5,
-      "storiesCommented": 7
     },
     {
       "username": "mitr",
@@ -355,6 +355,14 @@
       "storiesCommented": 2
     },
     {
+      "username": "Koala75",
+      "submittedStories": 0,
+      "comments": 2,
+      "substantiveComments": 1,
+      "ownStoryComments": 0,
+      "storiesCommented": 2
+    },
+    {
       "username": "zygfryd89",
       "submittedStories": 0,
       "comments": 2,
@@ -367,14 +375,6 @@
       "submittedStories": 0,
       "comments": 1,
       "substantiveComments": 1,
-      "ownStoryComments": 0,
-      "storiesCommented": 1
-    },
-    {
-      "username": "Koala75",
-      "submittedStories": 0,
-      "comments": 1,
-      "substantiveComments": 0,
       "ownStoryComments": 0,
       "storiesCommented": 1
     },
@@ -449,13 +449,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35825",
       "author": "Sanderka",
       "publishedAt": "2026-11-21T21:35+01:00",
-      "comments": 13,
-      "substantiveComments": 12,
+      "comments": 16,
+      "substantiveComments": 15,
       "commenters": [
         {
           "username": "Sanderka",
-          "comments": 5,
-          "substantiveComments": 5
+          "comments": 6,
+          "substantiveComments": 6
         },
         {
           "username": "Szafirowy Smok",
@@ -464,6 +464,11 @@
         },
         {
           "username": "bruce",
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
+          "username": "marzan",
           "comments": 2,
           "substantiveComments": 2
         },
@@ -484,8 +489,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35810",
       "author": "Finkla",
       "publishedAt": "2026-11-20T15:14+01:00",
-      "comments": 63,
-      "substantiveComments": 62,
+      "comments": 64,
+      "substantiveComments": 63,
       "commenters": [
         {
           "username": "Finkla",
@@ -534,6 +539,11 @@
         },
         {
           "username": "Grzesiek_W",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Koala75",
           "comments": 1,
           "substantiveComments": 1
         },
@@ -729,8 +739,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35794",
       "author": "jonaszf",
       "publishedAt": "2026-11-16T12:12+01:00",
-      "comments": 18,
-      "substantiveComments": 18,
+      "comments": 19,
+      "substantiveComments": 19,
       "commenters": [
         {
           "username": "jonaszf",
@@ -764,6 +774,11 @@
         },
         {
           "username": "OneTwo",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "regulatorzy",
           "comments": 1,
           "substantiveComments": 1
         },
