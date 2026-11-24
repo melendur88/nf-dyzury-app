@@ -1,0 +1,27 @@
+# Historyczny grafik z dyzurni-2026-10.yaml; nie zastepowac aktualnym skladem.
+month: "2026-10"
+dyzurni:
+  - name: Ambush
+    days: [pn]
+  - name: beeeecki
+    days: [pn]
+  - name: zygfryd89
+    days: [wt]
+  - name: Marszawa
+    days: [wt]
+  - name: regulatorzy
+    days: [sr, sob]
+  - name: cezary_cezary
+    days: [sr]
+  - name: Sagitt
+    days: [czw]
+  - name: barniusz
+    days: [czw]
+  - name: MichaelBullfinch
+    days: [pt]
+  - name: OldGuard
+    days: [pt]
+  - name: Bardjaskier
+    days: [nd]
+  - name: OneTwo
+    days: [nd]

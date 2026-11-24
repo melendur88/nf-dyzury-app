@@ -64,6 +64,14 @@ Raport publikuje GitHub Pages. Pobieranie danych odbywa się z residentialnego
 workera Home Assistant, bo Fantastyka.pl blokuje zapytania z datacenterowych
 runnerów GitHub Actions przez Cloudflare.
 
+## Grafiki dla bota
+
+W [grafiki/](grafiki/README.md) znajdują się wersjonowane listy dyżurnych.
+Bot pobiera z Gita ostatni grafik obowiązujący od wskazanego miesiąca zmiany.
+Skład przechodzi na kolejne miesiące aż do następnej zmiany, bez nadpisywania
+wcześniejszych raportów.
+Aplikacja Windows nadal korzysta z ręcznego wyboru nicku i dni.
+
 ## Koszt i prywatność
 
 Aplikacja działa lokalnie i odpytuje wyłącznie publiczne strony NF. Nie wysyła
