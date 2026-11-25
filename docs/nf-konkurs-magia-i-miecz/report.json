@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-24T21:43:47+01:00",
+  "updatedAt": "2026-11-25T03:45:21+01:00",
   "summary": {
     "stories": 23,
     "authors": 23,
-    "comments": 1107,
-    "substantiveComments": 1005
+    "comments": 1115,
+    "substantiveComments": 1013
   },
   "users": [
     {
@@ -21,8 +21,8 @@
     {
       "username": "marzan",
       "submittedStories": 1,
-      "comments": 103,
-      "substantiveComments": 100,
+      "comments": 104,
+      "substantiveComments": 101,
       "ownStoryComments": 31,
       "storiesCommented": 22
     },
@@ -131,20 +131,20 @@
       "storiesCommented": 12
     },
     {
+      "username": "Marszawa",
+      "submittedStories": 1,
+      "comments": 23,
+      "substantiveComments": 21,
+      "ownStoryComments": 7,
+      "storiesCommented": 13
+    },
+    {
       "username": "melendur88",
       "submittedStories": 1,
       "comments": 23,
       "substantiveComments": 9,
       "ownStoryComments": 7,
       "storiesCommented": 15
-    },
-    {
-      "username": "Marszawa",
-      "submittedStories": 1,
-      "comments": 21,
-      "substantiveComments": 19,
-      "ownStoryComments": 5,
-      "storiesCommented": 13
     },
     {
       "username": "Ajas",
@@ -161,6 +161,14 @@
       "substantiveComments": 20,
       "ownStoryComments": 12,
       "storiesCommented": 8
+    },
+    {
+      "username": "jonaszf",
+      "submittedStories": 1,
+      "comments": 18,
+      "substantiveComments": 17,
+      "ownStoryComments": 8,
+      "storiesCommented": 9
     },
     {
       "username": "dawidiq150",
@@ -187,20 +195,20 @@
       "storiesCommented": 15
     },
     {
+      "username": "Sanderka",
+      "submittedStories": 1,
+      "comments": 16,
+      "substantiveComments": 16,
+      "ownStoryComments": 6,
+      "storiesCommented": 11
+    },
+    {
       "username": "Robert Raks",
       "submittedStories": 0,
       "comments": 16,
       "substantiveComments": 16,
       "ownStoryComments": 0,
       "storiesCommented": 14
-    },
-    {
-      "username": "jonaszf",
-      "submittedStories": 1,
-      "comments": 15,
-      "substantiveComments": 14,
-      "ownStoryComments": 6,
-      "storiesCommented": 8
     },
     {
       "username": "CZARNA2",
@@ -217,14 +225,6 @@
       "substantiveComments": 14,
       "ownStoryComments": 14,
       "storiesCommented": 1
-    },
-    {
-      "username": "Sanderka",
-      "submittedStories": 1,
-      "comments": 14,
-      "substantiveComments": 14,
-      "ownStoryComments": 6,
-      "storiesCommented": 9
     },
     {
       "username": "Darkside",
@@ -574,13 +574,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35752",
       "author": "Marszawa",
       "publishedAt": "2026-11-20T11:42+01:00",
-      "comments": 17,
-      "substantiveComments": 14,
+      "comments": 20,
+      "substantiveComments": 17,
       "commenters": [
         {
           "username": "Marszawa",
-          "comments": 5,
-          "substantiveComments": 4
+          "comments": 7,
+          "substantiveComments": 6
         },
         {
           "username": "bruce",
@@ -609,6 +609,11 @@
         },
         {
           "username": "Darkside",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "jonaszf",
           "comments": 1,
           "substantiveComments": 1
         },
@@ -754,18 +759,18 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35794",
       "author": "jonaszf",
       "publishedAt": "2026-11-16T12:12+01:00",
-      "comments": 19,
-      "substantiveComments": 19,
+      "comments": 22,
+      "substantiveComments": 22,
       "commenters": [
         {
           "username": "jonaszf",
-          "comments": 6,
-          "substantiveComments": 6
+          "comments": 8,
+          "substantiveComments": 8
         },
         {
           "username": "marzan",
-          "comments": 4,
-          "substantiveComments": 4
+          "comments": 5,
+          "substantiveComments": 5
         },
         {
           "username": "Marszawa",
@@ -1059,8 +1064,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35755",
       "author": "Rafael Sanki",
       "publishedAt": "2026-11-08T17:45+01:00",
-      "comments": 17,
-      "substantiveComments": 15,
+      "comments": 18,
+      "substantiveComments": 16,
       "commenters": [
         {
           "username": "Rafael Sanki",
@@ -1111,6 +1116,11 @@
           "username": "regulatorzy",
           "comments": 1,
           "substantiveComments": 1
+        },
+        {
+          "username": "Sanderka",
+          "comments": 1,
+          "substantiveComments": 1
         }
       ]
     },
@@ -1119,8 +1129,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35663",
       "author": "OneTwo",
       "publishedAt": "2026-11-06T18:58+01:00",
-      "comments": 44,
-      "substantiveComments": 38,
+      "comments": 45,
+      "substantiveComments": 39,
       "commenters": [
         {
           "username": "OneTwo",
@@ -1199,6 +1209,11 @@
         },
         {
           "username": "Robert Raks",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Sanderka",
           "comments": 1,
           "substantiveComments": 1
         },
