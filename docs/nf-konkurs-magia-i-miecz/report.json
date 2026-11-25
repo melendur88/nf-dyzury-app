@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-25T15:48:26+01:00",
+  "updatedAt": "2026-11-25T21:50:02+01:00",
   "summary": {
     "stories": 23,
     "authors": 23,
-    "comments": 1131,
-    "substantiveComments": 1027
+    "comments": 1136,
+    "substantiveComments": 1032
   },
   "users": [
     {
@@ -29,10 +29,10 @@
     {
       "username": "Finkla",
       "submittedStories": 1,
-      "comments": 70,
-      "substantiveComments": 65,
+      "comments": 71,
+      "substantiveComments": 66,
       "ownStoryComments": 30,
-      "storiesCommented": 13
+      "storiesCommented": 14
     },
     {
       "username": "bruce",
@@ -61,18 +61,18 @@
     {
       "username": "regulatorzy",
       "submittedStories": 0,
-      "comments": 48,
-      "substantiveComments": 42,
+      "comments": 49,
+      "substantiveComments": 43,
       "ownStoryComments": 0,
-      "storiesCommented": 19
+      "storiesCommented": 20
     },
     {
       "username": "beeeecki",
       "submittedStories": 1,
-      "comments": 47,
-      "substantiveComments": 44,
+      "comments": 48,
+      "substantiveComments": 45,
       "ownStoryComments": 29,
-      "storiesCommented": 9
+      "storiesCommented": 10
     },
     {
       "username": "tlok303",
@@ -133,18 +133,18 @@
     {
       "username": "Marszawa",
       "submittedStories": 1,
-      "comments": 23,
-      "substantiveComments": 21,
-      "ownStoryComments": 7,
+      "comments": 24,
+      "substantiveComments": 22,
+      "ownStoryComments": 8,
       "storiesCommented": 13
     },
     {
       "username": "melendur88",
       "submittedStories": 1,
-      "comments": 23,
-      "substantiveComments": 9,
+      "comments": 24,
+      "substantiveComments": 10,
       "ownStoryComments": 7,
-      "storiesCommented": 15
+      "storiesCommented": 16
     },
     {
       "username": "Ajas",
@@ -574,13 +574,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35752",
       "author": "Marszawa",
       "publishedAt": "2026-11-20T11:42+01:00",
-      "comments": 22,
-      "substantiveComments": 18,
+      "comments": 25,
+      "substantiveComments": 21,
       "commenters": [
         {
           "username": "Marszawa",
-          "comments": 7,
-          "substantiveComments": 6
+          "comments": 8,
+          "substantiveComments": 7
         },
         {
           "username": "Szafirowy Smok",
@@ -628,7 +628,17 @@
           "substantiveComments": 1
         },
         {
+          "username": "melendur88",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
           "username": "OneTwo",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "regulatorzy",
           "comments": 1,
           "substantiveComments": 1
         },
@@ -694,8 +704,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35552",
       "author": "Unfall",
       "publishedAt": "2026-11-16T23:00+01:00",
-      "comments": 18,
-      "substantiveComments": 18,
+      "comments": 19,
+      "substantiveComments": 19,
       "commenters": [
         {
           "username": "Unfall",
@@ -724,6 +734,11 @@
         },
         {
           "username": "Darkside",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Finkla",
           "comments": 1,
           "substantiveComments": 1
         },
@@ -984,8 +999,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35760",
       "author": "barniusz",
       "publishedAt": "2026-11-09T10:41+01:00",
-      "comments": 29,
-      "substantiveComments": 27,
+      "comments": 30,
+      "substantiveComments": 28,
       "commenters": [
         {
           "username": "barniusz",
@@ -1024,6 +1039,11 @@
         },
         {
           "username": "AP",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "beeeecki",
           "comments": 1,
           "substantiveComments": 1
         },
