@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "period": "01.11.2026 - 15.12.2026",
-  "updatedAt": "2026-11-24T21:31:49+01:00",
+  "updatedAt": "2026-11-25T21:31:38+01:00",
   "results": [
     {
       "username": "Ambush",
@@ -65,9 +65,9 @@
         "sobota"
       ],
       "eligible": 10,
-      "commented": 9,
+      "commented": 10,
       "ownStories": 0,
-      "percentage": 90.0,
+      "percentage": 100.0,
       "passed": true
     },
     {
@@ -153,9 +153,9 @@
         "niedziela"
       ],
       "eligible": 8,
-      "commented": 7,
+      "commented": 8,
       "ownStories": 0,
-      "percentage": 87.5,
+      "percentage": 100.0,
       "passed": true
     }
   ]
