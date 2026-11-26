@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-25T21:50:02+01:00",
+  "updatedAt": "2026-11-26T03:51:37+01:00",
   "summary": {
     "stories": 23,
     "authors": 23,
-    "comments": 1136,
-    "substantiveComments": 1032
+    "comments": 1139,
+    "substantiveComments": 1035
   },
   "users": [
     {
@@ -115,6 +115,14 @@
       "storiesCommented": 13
     },
     {
+      "username": "melendur88",
+      "submittedStories": 1,
+      "comments": 25,
+      "substantiveComments": 11,
+      "ownStoryComments": 8,
+      "storiesCommented": 16
+    },
+    {
       "username": "Storm",
       "submittedStories": 1,
       "comments": 25,
@@ -137,14 +145,6 @@
       "substantiveComments": 22,
       "ownStoryComments": 8,
       "storiesCommented": 13
-    },
-    {
-      "username": "melendur88",
-      "submittedStories": 1,
-      "comments": 24,
-      "substantiveComments": 10,
-      "ownStoryComments": 7,
-      "storiesCommented": 16
     },
     {
       "username": "Ajas",
@@ -171,6 +171,14 @@
       "storiesCommented": 9
     },
     {
+      "username": "Sanderka",
+      "submittedStories": 1,
+      "comments": 18,
+      "substantiveComments": 18,
+      "ownStoryComments": 7,
+      "storiesCommented": 11
+    },
+    {
       "username": "dawidiq150",
       "submittedStories": 1,
       "comments": 17,
@@ -193,14 +201,6 @@
       "substantiveComments": 2,
       "ownStoryComments": 0,
       "storiesCommented": 15
-    },
-    {
-      "username": "Sanderka",
-      "submittedStories": 1,
-      "comments": 16,
-      "substantiveComments": 16,
-      "ownStoryComments": 6,
-      "storiesCommented": 11
     },
     {
       "username": "Robert Raks",
@@ -449,13 +449,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35825",
       "author": "Sanderka",
       "publishedAt": "2026-11-21T21:35+01:00",
-      "comments": 17,
-      "substantiveComments": 16,
+      "comments": 18,
+      "substantiveComments": 17,
       "commenters": [
         {
           "username": "Sanderka",
-          "comments": 6,
-          "substantiveComments": 6
+          "comments": 7,
+          "substantiveComments": 7
         },
         {
           "username": "marzan",
@@ -834,18 +834,18 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35790",
       "author": "melendur88",
       "publishedAt": "2026-11-15T19:31+01:00",
-      "comments": 35,
-      "substantiveComments": 30,
+      "comments": 36,
+      "substantiveComments": 31,
       "commenters": [
+        {
+          "username": "melendur88",
+          "comments": 8,
+          "substantiveComments": 8
+        },
         {
           "username": "marzan",
           "comments": 7,
           "substantiveComments": 5
-        },
-        {
-          "username": "melendur88",
-          "comments": 7,
-          "substantiveComments": 7
         },
         {
           "username": "Szafirowy Smok",
@@ -1159,8 +1159,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35663",
       "author": "OneTwo",
       "publishedAt": "2026-11-06T18:58+01:00",
-      "comments": 46,
-      "substantiveComments": 40,
+      "comments": 47,
+      "substantiveComments": 41,
       "commenters": [
         {
           "username": "OneTwo",
@@ -1203,6 +1203,11 @@
           "substantiveComments": 2
         },
         {
+          "username": "Sanderka",
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
           "username": "CZARNA2",
           "comments": 1,
           "substantiveComments": 1
@@ -1239,11 +1244,6 @@
         },
         {
           "username": "Robert Raks",
-          "comments": 1,
-          "substantiveComments": 1
-        },
-        {
-          "username": "Sanderka",
           "comments": 1,
           "substantiveComments": 1
         },
