@@ -2,11 +2,11 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-26T03:51:37+01:00",
+  "updatedAt": "2026-11-26T09:53:13+01:00",
   "summary": {
     "stories": 23,
     "authors": 23,
-    "comments": 1139,
+    "comments": 1140,
     "substantiveComments": 1035
   },
   "users": [
@@ -37,7 +37,7 @@
     {
       "username": "bruce",
       "submittedStories": 0,
-      "comments": 60,
+      "comments": 61,
       "substantiveComments": 53,
       "ownStoryComments": 0,
       "storiesCommented": 16
@@ -834,7 +834,7 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35790",
       "author": "melendur88",
       "publishedAt": "2026-11-15T19:31+01:00",
-      "comments": 36,
+      "comments": 37,
       "substantiveComments": 31,
       "commenters": [
         {
@@ -863,6 +863,11 @@
           "substantiveComments": 2
         },
         {
+          "username": "bruce",
+          "comments": 2,
+          "substantiveComments": 1
+        },
+        {
           "username": "OldGuard",
           "comments": 2,
           "substantiveComments": 2
@@ -879,11 +884,6 @@
         },
         {
           "username": "barniusz",
-          "comments": 1,
-          "substantiveComments": 1
-        },
-        {
-          "username": "bruce",
           "comments": 1,
           "substantiveComments": 1
         },
