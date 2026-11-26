@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-26T15:54:53+01:00",
+  "updatedAt": "2026-11-26T21:56:33+01:00",
   "summary": {
     "stories": 23,
     "authors": 23,
-    "comments": 1152,
-    "substantiveComments": 1047
+    "comments": 1160,
+    "substantiveComments": 1052
   },
   "users": [
     {
@@ -21,17 +21,17 @@
     {
       "username": "marzan",
       "submittedStories": 1,
-      "comments": 104,
-      "substantiveComments": 101,
+      "comments": 105,
+      "substantiveComments": 102,
       "ownStoryComments": 31,
       "storiesCommented": 22
     },
     {
       "username": "Finkla",
       "submittedStories": 1,
-      "comments": 72,
-      "substantiveComments": 67,
-      "ownStoryComments": 31,
+      "comments": 75,
+      "substantiveComments": 68,
+      "ownStoryComments": 34,
       "storiesCommented": 14
     },
     {
@@ -53,8 +53,8 @@
     {
       "username": "regulatorzy",
       "submittedStories": 0,
-      "comments": 54,
-      "substantiveComments": 48,
+      "comments": 56,
+      "substantiveComments": 49,
       "ownStoryComments": 0,
       "storiesCommented": 21
     },
@@ -85,10 +85,10 @@
     {
       "username": "OneTwo",
       "submittedStories": 1,
-      "comments": 36,
-      "substantiveComments": 35,
-      "ownStoryComments": 12,
-      "storiesCommented": 21
+      "comments": 38,
+      "substantiveComments": 37,
+      "ownStoryComments": 13,
+      "storiesCommented": 22
     },
     {
       "username": "barniusz",
@@ -449,8 +449,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35825",
       "author": "Sanderka",
       "publishedAt": "2026-11-21T21:35+01:00",
-      "comments": 18,
-      "substantiveComments": 17,
+      "comments": 20,
+      "substantiveComments": 19,
       "commenters": [
         {
           "username": "Sanderka",
@@ -459,8 +459,8 @@
         },
         {
           "username": "marzan",
-          "comments": 3,
-          "substantiveComments": 3
+          "comments": 4,
+          "substantiveComments": 4
         },
         {
           "username": "Szafirowy Smok",
@@ -481,6 +481,11 @@
           "username": "Darkside",
           "comments": 1,
           "substantiveComments": 1
+        },
+        {
+          "username": "OneTwo",
+          "comments": 1,
+          "substantiveComments": 1
         }
       ]
     },
@@ -489,13 +494,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35810",
       "author": "Finkla",
       "publishedAt": "2026-11-20T15:14+01:00",
-      "comments": 71,
-      "substantiveComments": 70,
+      "comments": 76,
+      "substantiveComments": 72,
       "commenters": [
         {
           "username": "Finkla",
-          "comments": 31,
-          "substantiveComments": 31
+          "comments": 34,
+          "substantiveComments": 32
         },
         {
           "username": "Szafirowy Smok",
@@ -506,6 +511,11 @@
           "username": "bruce",
           "comments": 9,
           "substantiveComments": 9
+        },
+        {
+          "username": "regulatorzy",
+          "comments": 4,
+          "substantiveComments": 3
         },
         {
           "username": "beeeecki",
@@ -529,11 +539,6 @@
         },
         {
           "username": "Marszawa",
-          "comments": 2,
-          "substantiveComments": 2
-        },
-        {
-          "username": "regulatorzy",
           "comments": 2,
           "substantiveComments": 2
         },
@@ -1179,13 +1184,13 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35663",
       "author": "OneTwo",
       "publishedAt": "2026-11-06T18:58+01:00",
-      "comments": 47,
-      "substantiveComments": 41,
+      "comments": 48,
+      "substantiveComments": 42,
       "commenters": [
         {
           "username": "OneTwo",
-          "comments": 12,
-          "substantiveComments": 12
+          "comments": 13,
+          "substantiveComments": 13
         },
         {
           "username": "Szafirowy Smok",
