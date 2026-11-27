@@ -1,7 +1,7 @@
 {
   "month": "2026-11",
   "period": "01.11.2026 - 15.12.2026",
-  "updatedAt": "2026-11-26T21:31:49+01:00",
+  "updatedAt": "2026-11-27T21:31:48+01:00",
   "results": [
     {
       "username": "Ambush",
@@ -108,18 +108,18 @@
       "weekdays": [
         "piatek"
       ],
-      "eligible": 2,
+      "eligible": 3,
       "commented": 1,
       "ownStories": 0,
-      "percentage": 50.0,
-      "passed": true
+      "percentage": 33.3,
+      "passed": false
     },
     {
       "username": "OldGuard",
       "weekdays": [
         "piatek"
       ],
-      "eligible": 2,
+      "eligible": 3,
       "commented": 0,
       "ownStories": 0,
       "percentage": 0.0,
