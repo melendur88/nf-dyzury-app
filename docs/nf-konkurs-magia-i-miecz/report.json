@@ -2,18 +2,18 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-27T16:01:41+01:00",
+  "updatedAt": "2026-11-27T22:03:24+01:00",
   "summary": {
     "stories": 25,
     "authors": 25,
-    "comments": 1176,
-    "substantiveComments": 1068
+    "comments": 1180,
+    "substantiveComments": 1070
   },
   "users": [
     {
       "username": "Szafirowy Smok",
       "submittedStories": 1,
-      "comments": 120,
+      "comments": 121,
       "substantiveComments": 103,
       "ownStoryComments": 33,
       "storiesCommented": 25
@@ -37,8 +37,8 @@
     {
       "username": "bruce",
       "submittedStories": 0,
-      "comments": 62,
-      "substantiveComments": 54,
+      "comments": 63,
+      "substantiveComments": 55,
       "ownStoryComments": 0,
       "storiesCommented": 17
     },
@@ -85,10 +85,10 @@
     {
       "username": "OneTwo",
       "submittedStories": 1,
-      "comments": 38,
-      "substantiveComments": 37,
+      "comments": 39,
+      "substantiveComments": 38,
       "ownStoryComments": 13,
-      "storiesCommented": 22
+      "storiesCommented": 23
     },
     {
       "username": "barniusz",
@@ -157,9 +157,9 @@
     {
       "username": "AP",
       "submittedStories": 1,
-      "comments": 20,
+      "comments": 21,
       "substantiveComments": 20,
-      "ownStoryComments": 3,
+      "ownStoryComments": 4,
       "storiesCommented": 12
     },
     {
@@ -457,23 +457,23 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35783",
       "author": "AP",
       "publishedAt": "2026-11-27T10:17+01:00",
-      "comments": 7,
-      "substantiveComments": 7,
+      "comments": 10,
+      "substantiveComments": 8,
       "commenters": [
         {
           "username": "AP",
-          "comments": 3,
+          "comments": 4,
           "substantiveComments": 3
         },
         {
           "username": "Szafirowy Smok",
-          "comments": 2,
+          "comments": 3,
           "substantiveComments": 2
         },
         {
           "username": "bruce",
-          "comments": 1,
-          "substantiveComments": 1
+          "comments": 2,
+          "substantiveComments": 2
         },
         {
           "username": "Hesket",
@@ -487,8 +487,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35832",
       "author": "mcharazka",
       "publishedAt": "2026-11-26T22:50+01:00",
-      "comments": 3,
-      "substantiveComments": 3,
+      "comments": 4,
+      "substantiveComments": 4,
       "commenters": [
         {
           "username": "Szafirowy Smok",
@@ -497,6 +497,11 @@
         },
         {
           "username": "Hesket",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "OneTwo",
           "comments": 1,
           "substantiveComments": 1
         }
