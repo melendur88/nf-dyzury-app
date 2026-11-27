@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-26T21:56:33+01:00",
+  "updatedAt": "2026-11-27T03:58:13+01:00",
   "summary": {
-    "stories": 23,
-    "authors": 23,
-    "comments": 1160,
-    "substantiveComments": 1052
+    "stories": 24,
+    "authors": 24,
+    "comments": 1165,
+    "substantiveComments": 1057
   },
   "users": [
     {
@@ -43,20 +43,20 @@
       "storiesCommented": 16
     },
     {
+      "username": "regulatorzy",
+      "submittedStories": 0,
+      "comments": 57,
+      "substantiveComments": 50,
+      "ownStoryComments": 0,
+      "storiesCommented": 22
+    },
+    {
       "username": "MichaelBullfinch",
       "submittedStories": 1,
       "comments": 56,
       "substantiveComments": 53,
       "ownStoryComments": 36,
       "storiesCommented": 12
-    },
-    {
-      "username": "regulatorzy",
-      "submittedStories": 0,
-      "comments": 56,
-      "substantiveComments": 49,
-      "ownStoryComments": 0,
-      "storiesCommented": 21
     },
     {
       "username": "Bardjaskier",
@@ -123,6 +123,14 @@
       "storiesCommented": 16
     },
     {
+      "username": "Marszawa",
+      "submittedStories": 1,
+      "comments": 25,
+      "substantiveComments": 23,
+      "ownStoryComments": 9,
+      "storiesCommented": 13
+    },
+    {
       "username": "Storm",
       "submittedStories": 1,
       "comments": 25,
@@ -139,18 +147,10 @@
       "storiesCommented": 12
     },
     {
-      "username": "Marszawa",
-      "submittedStories": 1,
-      "comments": 24,
-      "substantiveComments": 22,
-      "ownStoryComments": 8,
-      "storiesCommented": 13
-    },
-    {
       "username": "Ajas",
       "submittedStories": 0,
-      "comments": 23,
-      "substantiveComments": 22,
+      "comments": 24,
+      "substantiveComments": 23,
       "ownStoryComments": 0,
       "storiesCommented": 10
     },
@@ -163,20 +163,20 @@
       "storiesCommented": 8
     },
     {
+      "username": "Sanderka",
+      "submittedStories": 1,
+      "comments": 20,
+      "substantiveComments": 20,
+      "ownStoryComments": 8,
+      "storiesCommented": 11
+    },
+    {
       "username": "jonaszf",
       "submittedStories": 1,
       "comments": 19,
       "substantiveComments": 18,
       "ownStoryComments": 9,
       "storiesCommented": 9
-    },
-    {
-      "username": "Sanderka",
-      "submittedStories": 1,
-      "comments": 18,
-      "substantiveComments": 18,
-      "ownStoryComments": 7,
-      "storiesCommented": 11
     },
     {
       "username": "dawidiq150",
@@ -441,21 +441,38 @@
       "substantiveComments": 1,
       "ownStoryComments": 0,
       "storiesCommented": 1
+    },
+    {
+      "username": "mcharazka",
+      "submittedStories": 1,
+      "comments": 0,
+      "substantiveComments": 0,
+      "ownStoryComments": 0,
+      "storiesCommented": 0
     }
   ],
   "stories": [
+    {
+      "title": "Dopóki śmierć nas nie rozłączy",
+      "url": "https://www.fantastyka.pl/opowiadania/pokaz/35832",
+      "author": "mcharazka",
+      "publishedAt": "2026-11-26T22:50+01:00",
+      "comments": 0,
+      "substantiveComments": 0,
+      "commenters": []
+    },
     {
       "title": "Powrót",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35825",
       "author": "Sanderka",
       "publishedAt": "2026-11-21T21:35+01:00",
-      "comments": 20,
-      "substantiveComments": 19,
+      "comments": 22,
+      "substantiveComments": 21,
       "commenters": [
         {
           "username": "Sanderka",
-          "comments": 7,
-          "substantiveComments": 7
+          "comments": 8,
+          "substantiveComments": 8
         },
         {
           "username": "marzan",
@@ -484,6 +501,11 @@
         },
         {
           "username": "OneTwo",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "regulatorzy",
           "comments": 1,
           "substantiveComments": 1
         }
@@ -584,23 +606,23 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35752",
       "author": "Marszawa",
       "publishedAt": "2026-11-20T11:42+01:00",
-      "comments": 27,
-      "substantiveComments": 23,
+      "comments": 29,
+      "substantiveComments": 25,
       "commenters": [
         {
           "username": "Marszawa",
-          "comments": 8,
-          "substantiveComments": 7
+          "comments": 9,
+          "substantiveComments": 8
+        },
+        {
+          "username": "Ajas",
+          "comments": 3,
+          "substantiveComments": 2
         },
         {
           "username": "Szafirowy Smok",
           "comments": 3,
           "substantiveComments": 3
-        },
-        {
-          "username": "Ajas",
-          "comments": 2,
-          "substantiveComments": 1
         },
         {
           "username": "bruce",
@@ -1184,8 +1206,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35663",
       "author": "OneTwo",
       "publishedAt": "2026-11-06T18:58+01:00",
-      "comments": 48,
-      "substantiveComments": 42,
+      "comments": 49,
+      "substantiveComments": 43,
       "commenters": [
         {
           "username": "OneTwo",
@@ -1218,17 +1240,17 @@
           "substantiveComments": 2
         },
         {
+          "username": "Sanderka",
+          "comments": 3,
+          "substantiveComments": 3
+        },
+        {
           "username": "MichaelBullfinch",
           "comments": 2,
           "substantiveComments": 2
         },
         {
           "username": "regulatorzy",
-          "comments": 2,
-          "substantiveComments": 2
-        },
-        {
-          "username": "Sanderka",
           "comments": 2,
           "substantiveComments": 2
         },
