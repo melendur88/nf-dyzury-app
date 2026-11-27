@@ -2,21 +2,21 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-27T09:59:54+01:00",
+  "updatedAt": "2026-11-27T16:01:41+01:00",
   "summary": {
-    "stories": 24,
-    "authors": 24,
-    "comments": 1165,
-    "substantiveComments": 1057
+    "stories": 25,
+    "authors": 25,
+    "comments": 1176,
+    "substantiveComments": 1068
   },
   "users": [
     {
       "username": "Szafirowy Smok",
       "submittedStories": 1,
-      "comments": 116,
-      "substantiveComments": 99,
+      "comments": 120,
+      "substantiveComments": 103,
       "ownStoryComments": 33,
-      "storiesCommented": 23
+      "storiesCommented": 25
     },
     {
       "username": "marzan",
@@ -37,16 +37,16 @@
     {
       "username": "bruce",
       "submittedStories": 0,
-      "comments": 61,
-      "substantiveComments": 53,
+      "comments": 62,
+      "substantiveComments": 54,
       "ownStoryComments": 0,
-      "storiesCommented": 16
+      "storiesCommented": 17
     },
     {
       "username": "regulatorzy",
       "submittedStories": 0,
-      "comments": 57,
-      "substantiveComments": 50,
+      "comments": 58,
+      "substantiveComments": 51,
       "ownStoryComments": 0,
       "storiesCommented": 22
     },
@@ -155,6 +155,14 @@
       "storiesCommented": 10
     },
     {
+      "username": "AP",
+      "submittedStories": 1,
+      "comments": 20,
+      "substantiveComments": 20,
+      "ownStoryComments": 3,
+      "storiesCommented": 12
+    },
+    {
       "username": "JolkaK",
       "submittedStories": 1,
       "comments": 20,
@@ -185,14 +193,6 @@
       "substantiveComments": 16,
       "ownStoryComments": 8,
       "storiesCommented": 8
-    },
-    {
-      "username": "AP",
-      "submittedStories": 0,
-      "comments": 17,
-      "substantiveComments": 17,
-      "ownStoryComments": 0,
-      "storiesCommented": 11
     },
     {
       "username": "OldGuard",
@@ -235,6 +235,14 @@
       "storiesCommented": 1
     },
     {
+      "username": "Hesket",
+      "submittedStories": 0,
+      "comments": 14,
+      "substantiveComments": 14,
+      "ownStoryComments": 0,
+      "storiesCommented": 13
+    },
+    {
       "username": "BioHazard",
       "submittedStories": 1,
       "comments": 13,
@@ -249,14 +257,6 @@
       "substantiveComments": 12,
       "ownStoryComments": 0,
       "storiesCommented": 1
-    },
-    {
-      "username": "Hesket",
-      "submittedStories": 0,
-      "comments": 12,
-      "substantiveComments": 12,
-      "ownStoryComments": 0,
-      "storiesCommented": 11
     },
     {
       "username": "Paweł_Sawicki",
@@ -453,21 +453,62 @@
   ],
   "stories": [
     {
+      "title": "Regencja",
+      "url": "https://www.fantastyka.pl/opowiadania/pokaz/35783",
+      "author": "AP",
+      "publishedAt": "2026-11-27T10:17+01:00",
+      "comments": 7,
+      "substantiveComments": 7,
+      "commenters": [
+        {
+          "username": "AP",
+          "comments": 3,
+          "substantiveComments": 3
+        },
+        {
+          "username": "Szafirowy Smok",
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
+          "username": "bruce",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "Hesket",
+          "comments": 1,
+          "substantiveComments": 1
+        }
+      ]
+    },
+    {
       "title": "Dopóki śmierć nas nie rozłączy",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35832",
       "author": "mcharazka",
       "publishedAt": "2026-11-26T22:50+01:00",
-      "comments": 0,
-      "substantiveComments": 0,
-      "commenters": []
+      "comments": 3,
+      "substantiveComments": 3,
+      "commenters": [
+        {
+          "username": "Szafirowy Smok",
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
+          "username": "Hesket",
+          "comments": 1,
+          "substantiveComments": 1
+        }
+      ]
     },
     {
       "title": "Powrót",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35825",
       "author": "Sanderka",
       "publishedAt": "2026-11-21T21:35+01:00",
-      "comments": 22,
-      "substantiveComments": 21,
+      "comments": 23,
+      "substantiveComments": 22,
       "commenters": [
         {
           "username": "Sanderka",
@@ -495,17 +536,17 @@
           "substantiveComments": 1
         },
         {
+          "username": "regulatorzy",
+          "comments": 2,
+          "substantiveComments": 2
+        },
+        {
           "username": "Darkside",
           "comments": 1,
           "substantiveComments": 1
         },
         {
           "username": "OneTwo",
-          "comments": 1,
-          "substantiveComments": 1
-        },
-        {
-          "username": "regulatorzy",
           "comments": 1,
           "substantiveComments": 1
         }
