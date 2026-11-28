@@ -2,12 +2,12 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-28T04:05:08+01:00",
+  "updatedAt": "2026-11-28T10:06:53+01:00",
   "summary": {
     "stories": 26,
     "authors": 26,
-    "comments": 1180,
-    "substantiveComments": 1070
+    "comments": 1181,
+    "substantiveComments": 1071
   },
   "users": [
     {
@@ -371,6 +371,14 @@
       "storiesCommented": 2
     },
     {
+      "username": "mcharazka",
+      "submittedStories": 1,
+      "comments": 1,
+      "substantiveComments": 1,
+      "ownStoryComments": 1,
+      "storiesCommented": 1
+    },
+    {
       "username": "Caern",
       "submittedStories": 0,
       "comments": 1,
@@ -443,14 +451,6 @@
       "storiesCommented": 1
     },
     {
-      "username": "mcharazka",
-      "submittedStories": 1,
-      "comments": 0,
-      "substantiveComments": 0,
-      "ownStoryComments": 0,
-      "storiesCommented": 0
-    },
-    {
       "username": "mszop",
       "submittedStories": 1,
       "comments": 0,
@@ -504,8 +504,8 @@
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35832",
       "author": "mcharazka",
       "publishedAt": "2026-11-26T22:50+01:00",
-      "comments": 4,
-      "substantiveComments": 4,
+      "comments": 5,
+      "substantiveComments": 5,
       "commenters": [
         {
           "username": "Szafirowy Smok",
@@ -514,6 +514,11 @@
         },
         {
           "username": "Hesket",
+          "comments": 1,
+          "substantiveComments": 1
+        },
+        {
+          "username": "mcharazka",
           "comments": 1,
           "substantiveComments": 1
         },
