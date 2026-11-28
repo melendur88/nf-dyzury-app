@@ -2,10 +2,10 @@
   "contest": "Magia, miecz i przygoda",
   "contestId": 220,
   "since": "2026-09-27",
-  "updatedAt": "2026-11-27T22:03:24+01:00",
+  "updatedAt": "2026-11-28T04:05:08+01:00",
   "summary": {
-    "stories": 25,
-    "authors": 25,
+    "stories": 26,
+    "authors": 26,
     "comments": 1180,
     "substantiveComments": 1070
   },
@@ -449,9 +449,26 @@
       "substantiveComments": 0,
       "ownStoryComments": 0,
       "storiesCommented": 0
+    },
+    {
+      "username": "mszop",
+      "submittedStories": 1,
+      "comments": 0,
+      "substantiveComments": 0,
+      "ownStoryComments": 0,
+      "storiesCommented": 0
     }
   ],
   "stories": [
+    {
+      "title": "Nieznajomy",
+      "url": "https://www.fantastyka.pl/opowiadania/pokaz/35844",
+      "author": "mszop",
+      "publishedAt": "2026-11-27T22:32+01:00",
+      "comments": 0,
+      "substantiveComments": 0,
+      "commenters": []
+    },
     {
       "title": "Regencja",
       "url": "https://www.fantastyka.pl/opowiadania/pokaz/35783",
